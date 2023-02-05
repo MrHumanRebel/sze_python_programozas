@@ -1,7 +1,7 @@
 # Python Programozás
 **Széchenyi István Egyetem // Győr // Python Programozás // GKNB_MSTM032**
 
-<img src="docs/c++_oo.jpg" alt="Programozás" width="200" height="177">
+<img src="docs/python.jpg" alt="Programozás" width="200" height="177">
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/MrHumanRebel/sze_python_programozas)
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/MrHumanRebel/sze_python_programozas)
@@ -16,7 +16,7 @@
 ** **
 **⚠️ Figyelmeztetés: Megjelenés előtti / Kísérleti anyag ⚠️**
 
-Ha szeretnéd, hogy ez a projekt gyorsabban haladjon, vagy bővebb C++ tapasztalattal rendelkezel,
+Ha szeretnéd, hogy ez a projekt gyorsabban haladjon, vagy bővebb Python tapasztalattal rendelkezel,
 [segítsd a projektet](https://github.com/login?return_to=%2FMrHumanRebel%2Fsze_python_programozas)! 
 
 A Wiki jegyzet szerkesztéséhez szükséges jogokért keresd [MrHumanRebel](https://github.com/MrHumanRebel)-t!
