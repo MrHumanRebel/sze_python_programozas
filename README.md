@@ -1,7 +1,7 @@
 # Python Programozás
 **Széchenyi István Egyetem // Győr // Python Programozás // GKNB_MSTM032**
 
-<img src="docs/python.png" alt="Programozás" width="200" height="177">
+<img src="docs/python.png" alt="Programozás" width="250" height="84">
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/MrHumanRebel/sze_python_programozas)
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/MrHumanRebel/sze_python_programozas)
