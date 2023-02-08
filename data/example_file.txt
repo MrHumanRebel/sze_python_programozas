@@ -1,0 +1,4 @@
+# example data
+apple,10
+pear,20
+cherry,30

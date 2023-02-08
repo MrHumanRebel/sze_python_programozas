@@ -1,0 +1,505 @@
+Hotel name;Nr. rooms;Pool;Gym;Tennis court;Spa;Casino;Traveler type;Period of stay;Score
+Circus Circus Hotel & Casino Las Vegas;3773;NO;YES;NO;NO;YES;Friends;Dec-Feb;5
+Circus Circus Hotel & Casino Las Vegas;3773;NO;YES;NO;NO;YES;Business;Dec-Feb;3
+Circus Circus Hotel & Casino Las Vegas;3773;NO;YES;NO;NO;YES;Families;Mar-May;5
+Circus Circus Hotel & Casino Las Vegas;3773;NO;YES;NO;NO;YES;Friends;Mar-May;4
+Circus Circus Hotel & Casino Las Vegas;3773;NO;YES;NO;NO;YES;Solo;Mar-May;4
+Circus Circus Hotel & Casino Las Vegas;3773;NO;YES;NO;NO;YES;Couples;Mar-May;3
+Circus Circus Hotel & Casino Las Vegas;3773;NO;YES;NO;NO;YES;Couples;Mar-May;4
+Circus Circus Hotel & Casino Las Vegas;3773;NO;YES;NO;NO;YES;Families;Mar-May;4
+Circus Circus Hotel & Casino Las Vegas;3773;NO;YES;NO;NO;YES;Friends;Mar-May;4
+Circus Circus Hotel & Casino Las Vegas;3773;NO;YES;NO;NO;YES;Families;Mar-May;3
+Circus Circus Hotel & Casino Las Vegas;3773;NO;YES;NO;NO;YES;Families;Jun-Aug;2
+Circus Circus Hotel & Casino Las Vegas;3773;NO;YES;NO;NO;YES;Friends;Jun-Aug;3
+Circus Circus Hotel & Casino Las Vegas;3773;NO;YES;NO;NO;YES;Friends;Jun-Aug;2
+Circus Circus Hotel & Casino Las Vegas;3773;NO;YES;NO;NO;YES;Friends;Jun-Aug;3
+Circus Circus Hotel & Casino Las Vegas;3773;NO;YES;NO;NO;YES;Friends;Jun-Aug;3
+Circus Circus Hotel & Casino Las Vegas;3773;NO;YES;NO;NO;YES;Families;Jun-Aug;4
+Circus Circus Hotel & Casino Las Vegas;3773;NO;YES;NO;NO;YES;Families;Sep-Nov;1
+Circus Circus Hotel & Casino Las Vegas;3773;NO;YES;NO;NO;YES;Families;Sep-Nov;4
+Circus Circus Hotel & Casino Las Vegas;3773;NO;YES;NO;NO;YES;Couples;Sep-Nov;3
+Circus Circus Hotel & Casino Las Vegas;3773;NO;YES;NO;NO;YES;Couples;Sep-Nov;2
+Circus Circus Hotel & Casino Las Vegas;3773;NO;YES;NO;NO;YES;Couples;Sep-Nov;4
+Circus Circus Hotel & Casino Las Vegas;3773;NO;YES;NO;NO;YES;Couples;Sep-Nov;1
+Circus Circus Hotel & Casino Las Vegas;3773;NO;YES;NO;NO;YES;Families;Dec-Feb;4
+Circus Circus Hotel & Casino Las Vegas;3773;NO;YES;NO;NO;YES;Couples;Dec-Feb;2
+Excalibur Hotel & Casino;3981;YES;YES;NO;YES;YES;Couples;Dec-Feb;4
+Excalibur Hotel & Casino;3981;YES;YES;NO;YES;YES;Business;Dec-Feb;4
+Excalibur Hotel & Casino;3981;YES;YES;NO;YES;YES;Couples;Dec-Feb;5
+Excalibur Hotel & Casino;3981;YES;YES;NO;YES;YES;Business;Dec-Feb;3
+Excalibur Hotel & Casino;3981;YES;YES;NO;YES;YES;Solo;Mar-May;5
+Excalibur Hotel & Casino;3981;YES;YES;NO;YES;YES;Couples;Mar-May;5
+Excalibur Hotel & Casino;3981;YES;YES;NO;YES;YES;Couples;Mar-May;5
+Excalibur Hotel & Casino;3981;YES;YES;NO;YES;YES;Couples;Mar-May;3
+Excalibur Hotel & Casino;3981;YES;YES;NO;YES;YES;Solo;Mar-May;3
+Excalibur Hotel & Casino;3981;YES;YES;NO;YES;YES;Friends;Mar-May;3
+Excalibur Hotel & Casino;3981;YES;YES;NO;YES;YES;Couples;Jun-Aug;4
+Excalibur Hotel & Casino;3981;YES;YES;NO;YES;YES;Couples;Jun-Aug;3
+Excalibur Hotel & Casino;3981;YES;YES;NO;YES;YES;Friends;Jun-Aug;4
+Excalibur Hotel & Casino;3981;YES;YES;NO;YES;YES;Friends;Jun-Aug;4
+Excalibur Hotel & Casino;3981;YES;YES;NO;YES;YES;Couples;Jun-Aug;4
+Excalibur Hotel & Casino;3981;YES;YES;NO;YES;YES;Families;Jun-Aug;2
+Excalibur Hotel & Casino;3981;YES;YES;NO;YES;YES;Business;Sep-Nov;3
+Excalibur Hotel & Casino;3981;YES;YES;NO;YES;YES;Couples;Sep-Nov;3
+Excalibur Hotel & Casino;3981;YES;YES;NO;YES;YES;Families;Sep-Nov;3
+Excalibur Hotel & Casino;3981;YES;YES;NO;YES;YES;Friends;Sep-Nov;4
+Excalibur Hotel & Casino;3981;YES;YES;NO;YES;YES;Families;Sep-Nov;4
+Excalibur Hotel & Casino;3981;YES;YES;NO;YES;YES;Friends;Sep-Nov;4
+Excalibur Hotel & Casino;3981;YES;YES;NO;YES;YES;Couples;Dec-Feb;4
+Excalibur Hotel & Casino;3981;YES;YES;NO;YES;YES;Solo;Dec-Feb;3
+Monte Carlo Resort&Casino;3003;YES;YES;NO;YES;YES;Couples;Dec-Feb;3
+Monte Carlo Resort&Casino;3003;YES;YES;NO;YES;YES;Solo;Dec-Feb;4
+Monte Carlo Resort&Casino;3003;YES;YES;NO;YES;YES;Couples;Dec-Feb;2
+Monte Carlo Resort&Casino;3003;YES;YES;NO;YES;YES;Couples;Dec-Feb;4
+Monte Carlo Resort&Casino;3003;YES;YES;NO;YES;YES;Couples;Mar-May;3
+Monte Carlo Resort&Casino;3003;YES;YES;NO;YES;YES;Business;Mar-May;4
+Monte Carlo Resort&Casino;3003;YES;YES;NO;YES;YES;Couples;Mar-May;5
+Monte Carlo Resort&Casino;3003;YES;YES;NO;YES;YES;Business;Mar-May;2
+Monte Carlo Resort&Casino;3003;YES;YES;NO;YES;YES;Couples;Mar-May;4
+Monte Carlo Resort&Casino;3003;YES;YES;NO;YES;YES;Couples;Mar-May;4
+Monte Carlo Resort&Casino;3003;YES;YES;NO;YES;YES;Couples;Jun-Aug;4
+Monte Carlo Resort&Casino;3003;YES;YES;NO;YES;YES;Friends;Jun-Aug;4
+Monte Carlo Resort&Casino;3003;YES;YES;NO;YES;YES;Families;Jun-Aug;4
+Monte Carlo Resort&Casino;3003;YES;YES;NO;YES;YES;Couples;Jun-Aug;3
+Monte Carlo Resort&Casino;3003;YES;YES;NO;YES;YES;Solo;Jun-Aug;2
+Monte Carlo Resort&Casino;3003;YES;YES;NO;YES;YES;Families;Jun-Aug;3
+Monte Carlo Resort&Casino;3003;YES;YES;NO;YES;YES;Friends;Sep-Nov;3
+Monte Carlo Resort&Casino;3003;YES;YES;NO;YES;YES;Couples;Sep-Nov;4
+Monte Carlo Resort&Casino;3003;YES;YES;NO;YES;YES;Families;Sep-Nov;3
+Monte Carlo Resort&Casino;3003;YES;YES;NO;YES;YES;Couples;Sep-Nov;2
+Monte Carlo Resort&Casino;3003;YES;YES;NO;YES;YES;Couples;Sep-Nov;4
+Monte Carlo Resort&Casino;3003;YES;YES;NO;YES;YES;Business;Sep-Nov;1
+Monte Carlo Resort&Casino;3003;YES;YES;NO;YES;YES;Business;Dec-Feb;2
+Monte Carlo Resort&Casino;3003;YES;YES;NO;YES;YES;Couples;Dec-Feb;5
+Treasure Island- TI Hotel & Casino;2884;YES;YES;YES;YES;YES;Business;Dec-Feb;3
+Treasure Island- TI Hotel & Casino;2884;YES;YES;YES;YES;YES;Couples;Dec-Feb;4
+Treasure Island- TI Hotel & Casino;2884;YES;YES;YES;YES;YES;Friends;Dec-Feb;4
+Treasure Island- TI Hotel & Casino;2884;YES;YES;YES;YES;YES;Solo;Dec-Feb;5
+Treasure Island- TI Hotel & Casino;2884;YES;YES;YES;YES;YES;Couples;Mar-May;4
+Treasure Island- TI Hotel & Casino;2884;YES;YES;YES;YES;YES;Friends;Mar-May;4
+Treasure Island- TI Hotel & Casino;2884;YES;YES;YES;YES;YES;Friends;Mar-May;4
+Treasure Island- TI Hotel & Casino;2884;YES;YES;YES;YES;YES;Families;Mar-May;3
+Treasure Island- TI Hotel & Casino;2884;YES;YES;YES;YES;YES;Families;Mar-May;3
+Treasure Island- TI Hotel & Casino;2884;YES;YES;YES;YES;YES;Friends;Mar-May;4
+Treasure Island- TI Hotel & Casino;2884;YES;YES;YES;YES;YES;Families;Jun-Aug;3
+Treasure Island- TI Hotel & Casino;2884;YES;YES;YES;YES;YES;Couples;Jun-Aug;4
+Treasure Island- TI Hotel & Casino;2884;YES;YES;YES;YES;YES;Couples;Jun-Aug;5
+Treasure Island- TI Hotel & Casino;2884;YES;YES;YES;YES;YES;Solo;Jun-Aug;4
+Treasure Island- TI Hotel & Casino;2884;YES;YES;YES;YES;YES;Couples;Jun-Aug;4
+Treasure Island- TI Hotel & Casino;2884;YES;YES;YES;YES;YES;Couples;Jun-Aug;4
+Treasure Island- TI Hotel & Casino;2884;YES;YES;YES;YES;YES;Couples;Sep-Nov;3
+Treasure Island- TI Hotel & Casino;2884;YES;YES;YES;YES;YES;Business;Sep-Nov;4
+Treasure Island- TI Hotel & Casino;2884;YES;YES;YES;YES;YES;Families;Sep-Nov;5
+Treasure Island- TI Hotel & Casino;2884;YES;YES;YES;YES;YES;Couples;Sep-Nov;3
+Treasure Island- TI Hotel & Casino;2884;YES;YES;YES;YES;YES;Couples;Sep-Nov;5
+Treasure Island- TI Hotel & Casino;2884;YES;YES;YES;YES;YES;Families;Sep-Nov;4
+Treasure Island- TI Hotel & Casino;2884;YES;YES;YES;YES;YES;Friends;Dec-Feb;4
+Treasure Island- TI Hotel & Casino;2884;YES;YES;YES;YES;YES;Couples;Dec-Feb;5
+Tropicana Las Vegas - A Double Tree by Hilton Hotel;1467;YES;YES;YES;YES;YES;Families;Dec-Feb;4
+Tropicana Las Vegas - A Double Tree by Hilton Hotel;1467;YES;YES;YES;YES;YES;Friends;Dec-Feb;5
+Tropicana Las Vegas - A Double Tree by Hilton Hotel;1467;YES;YES;YES;YES;YES;Couples;Dec-Feb;3
+Tropicana Las Vegas - A Double Tree by Hilton Hotel;1467;YES;YES;YES;YES;YES;Business;Dec-Feb;3
+Tropicana Las Vegas - A Double Tree by Hilton Hotel;1467;YES;YES;YES;YES;YES;Business;Mar-May;4
+Tropicana Las Vegas - A Double Tree by Hilton Hotel;1467;YES;YES;YES;YES;YES;Couples;Mar-May;4
+Tropicana Las Vegas - A Double Tree by Hilton Hotel;1467;YES;YES;YES;YES;YES;Couples;Mar-May;5
+Tropicana Las Vegas - A Double Tree by Hilton Hotel;1467;YES;YES;YES;YES;YES;Business;Mar-May;4
+Tropicana Las Vegas - A Double Tree by Hilton Hotel;1467;YES;YES;YES;YES;YES;Couples;Mar-May;4
+Tropicana Las Vegas - A Double Tree by Hilton Hotel;1467;YES;YES;YES;YES;YES;Friends;Mar-May;3
+Tropicana Las Vegas - A Double Tree by Hilton Hotel;1467;YES;YES;YES;YES;YES;Business;Jun-Aug;4
+Tropicana Las Vegas - A Double Tree by Hilton Hotel;1467;YES;YES;YES;YES;YES;Friends;Jun-Aug;4
+Tropicana Las Vegas - A Double Tree by Hilton Hotel;1467;YES;YES;YES;YES;YES;Solo;Jun-Aug;4
+Tropicana Las Vegas - A Double Tree by Hilton Hotel;1467;YES;YES;YES;YES;YES;Couples;Jun-Aug;4
+Tropicana Las Vegas - A Double Tree by Hilton Hotel;1467;YES;YES;YES;YES;YES;Friends;Jun-Aug;5
+Tropicana Las Vegas - A Double Tree by Hilton Hotel;1467;YES;YES;YES;YES;YES;Couples;Jun-Aug;5
+Tropicana Las Vegas - A Double Tree by Hilton Hotel;1467;YES;YES;YES;YES;YES;Couples;Sep-Nov;1
+Tropicana Las Vegas - A Double Tree by Hilton Hotel;1467;YES;YES;YES;YES;YES;Couples;Sep-Nov;5
+Tropicana Las Vegas - A Double Tree by Hilton Hotel;1467;YES;YES;YES;YES;YES;Friends;Sep-Nov;5
+Tropicana Las Vegas - A Double Tree by Hilton Hotel;1467;YES;YES;YES;YES;YES;Friends;Sep-Nov;2
+Tropicana Las Vegas - A Double Tree by Hilton Hotel;1467;YES;YES;YES;YES;YES;Solo;Sep-Nov;4
+Tropicana Las Vegas - A Double Tree by Hilton Hotel;1467;YES;YES;YES;YES;YES;Friends;Sep-Nov;5
+Tropicana Las Vegas - A Double Tree by Hilton Hotel;1467;YES;YES;YES;YES;YES;Couples;Dec-Feb;5
+Tropicana Las Vegas - A Double Tree by Hilton Hotel;1467;YES;YES;YES;YES;YES;Families;Dec-Feb;5
+Caesars Palace;3348;YES;YES;NO;YES;YES;Friends;Dec-Feb;5
+Caesars Palace;3348;YES;YES;NO;YES;YES;Couples;Dec-Feb;4
+Caesars Palace;3348;YES;YES;NO;YES;YES;Families;Dec-Feb;5
+Caesars Palace;3348;YES;YES;NO;YES;YES;Families;Dec-Feb;5
+Caesars Palace;3348;YES;YES;NO;YES;YES;Families;Mar-May;5
+Caesars Palace;3348;YES;YES;NO;YES;YES;Families;Mar-May;3
+Caesars Palace;3348;YES;YES;NO;YES;YES;Couples;Mar-May;5
+Caesars Palace;3348;YES;YES;NO;YES;YES;Couples;Mar-May;4
+Caesars Palace;3348;YES;YES;NO;YES;YES;Couples;Mar-May;1
+Caesars Palace;3348;YES;YES;NO;YES;YES;Couples;Mar-May;4
+Caesars Palace;3348;YES;YES;NO;YES;YES;Couples;Jun-Aug;4
+Caesars Palace;3348;YES;YES;NO;YES;YES;Solo;Jun-Aug;1
+Caesars Palace;3348;YES;YES;NO;YES;YES;Couples;Jun-Aug;5
+Caesars Palace;3348;YES;YES;NO;YES;YES;Families;Jun-Aug;3
+Caesars Palace;3348;YES;YES;NO;YES;YES;Families;Jun-Aug;5
+Caesars Palace;3348;YES;YES;NO;YES;YES;Friends;Jun-Aug;4
+Caesars Palace;3348;YES;YES;NO;YES;YES;Couples;Sep-Nov;5
+Caesars Palace;3348;YES;YES;NO;YES;YES;Couples;Sep-Nov;5
+Caesars Palace;3348;YES;YES;NO;YES;YES;Business;Sep-Nov;5
+Caesars Palace;3348;YES;YES;NO;YES;YES;Friends;Sep-Nov;5
+Caesars Palace;3348;YES;YES;NO;YES;YES;Couples;Sep-Nov;5
+Caesars Palace;3348;YES;YES;NO;YES;YES;Families;Sep-Nov;3
+Caesars Palace;3348;YES;YES;NO;YES;YES;Families;Dec-Feb;4
+Caesars Palace;3348;YES;YES;NO;YES;YES;Couples;Dec-Feb;4
+The Cosmopolitan Las Vegas;2959;YES;YES;NO;YES;YES;Friends;Dec-Feb;4
+The Cosmopolitan Las Vegas;2959;YES;YES;NO;YES;YES;Friends;Dec-Feb;5
+The Cosmopolitan Las Vegas;2959;YES;YES;NO;YES;YES;Friends;Dec-Feb;4
+The Cosmopolitan Las Vegas;2959;YES;YES;NO;YES;YES;Couples;Dec-Feb;5
+The Cosmopolitan Las Vegas;2959;YES;YES;NO;YES;YES;Couples;Mar-May;5
+The Cosmopolitan Las Vegas;2959;YES;YES;NO;YES;YES;Couples;Mar-May;5
+The Cosmopolitan Las Vegas;2959;YES;YES;NO;YES;YES;Friends;Mar-May;4
+The Cosmopolitan Las Vegas;2959;YES;YES;NO;YES;YES;Business;Mar-May;5
+The Cosmopolitan Las Vegas;2959;YES;YES;NO;YES;YES;Families;Mar-May;5
+The Cosmopolitan Las Vegas;2959;YES;YES;NO;YES;YES;Business;Mar-May;2
+The Cosmopolitan Las Vegas;2959;YES;YES;NO;YES;YES;Couples;Jun-Aug;2
+The Cosmopolitan Las Vegas;2959;YES;YES;NO;YES;YES;Friends;Jun-Aug;5
+The Cosmopolitan Las Vegas;2959;YES;YES;NO;YES;YES;Business;Jun-Aug;1
+The Cosmopolitan Las Vegas;2959;YES;YES;NO;YES;YES;Friends;Jun-Aug;4
+The Cosmopolitan Las Vegas;2959;YES;YES;NO;YES;YES;Families;Jun-Aug;5
+The Cosmopolitan Las Vegas;2959;YES;YES;NO;YES;YES;Couples;Jun-Aug;4
+The Cosmopolitan Las Vegas;2959;YES;YES;NO;YES;YES;Couples;Sep-Nov;5
+The Cosmopolitan Las Vegas;2959;YES;YES;NO;YES;YES;Couples;Sep-Nov;5
+The Cosmopolitan Las Vegas;2959;YES;YES;NO;YES;YES;Couples;Sep-Nov;5
+The Cosmopolitan Las Vegas;2959;YES;YES;NO;YES;YES;Friends;Sep-Nov;5
+The Cosmopolitan Las Vegas;2959;YES;YES;NO;YES;YES;Business;Sep-Nov;5
+The Cosmopolitan Las Vegas;2959;YES;YES;NO;YES;YES;Business;Sep-Nov;5
+The Cosmopolitan Las Vegas;2959;YES;YES;NO;YES;YES;Couples;Dec-Feb;2
+The Cosmopolitan Las Vegas;2959;YES;YES;NO;YES;YES;Families;Dec-Feb;5
+The Palazzo Resort Hotel Casino;3025;YES;YES;NO;YES;YES;Couples;Dec-Feb;3
+The Palazzo Resort Hotel Casino;3025;YES;YES;NO;YES;YES;Families;Dec-Feb;5
+The Palazzo Resort Hotel Casino;3025;YES;YES;NO;YES;YES;Couples;Dec-Feb;5
+The Palazzo Resort Hotel Casino;3025;YES;YES;NO;YES;YES;Couples;Dec-Feb;4
+The Palazzo Resort Hotel Casino;3025;YES;YES;NO;YES;YES;Families;Mar-May;5
+The Palazzo Resort Hotel Casino;3025;YES;YES;NO;YES;YES;Families;Mar-May;5
+The Palazzo Resort Hotel Casino;3025;YES;YES;NO;YES;YES;Couples;Mar-May;4
+The Palazzo Resort Hotel Casino;3025;YES;YES;NO;YES;YES;Couples;Mar-May;5
+The Palazzo Resort Hotel Casino;3025;YES;YES;NO;YES;YES;Couples;Mar-May;5
+The Palazzo Resort Hotel Casino;3025;YES;YES;NO;YES;YES;Business;Mar-May;5
+The Palazzo Resort Hotel Casino;3025;YES;YES;NO;YES;YES;Friends;Jun-Aug;4
+The Palazzo Resort Hotel Casino;3025;YES;YES;NO;YES;YES;Couples;Jun-Aug;3
+The Palazzo Resort Hotel Casino;3025;YES;YES;NO;YES;YES;Friends;Jun-Aug;4
+The Palazzo Resort Hotel Casino;3025;YES;YES;NO;YES;YES;Families;Jun-Aug;5
+The Palazzo Resort Hotel Casino;3025;YES;YES;NO;YES;YES;Friends;Jun-Aug;4
+The Palazzo Resort Hotel Casino;3025;YES;YES;NO;YES;YES;Business;Jun-Aug;4
+The Palazzo Resort Hotel Casino;3025;YES;YES;NO;YES;YES;Friends;Sep-Nov;3
+The Palazzo Resort Hotel Casino;3025;YES;YES;NO;YES;YES;Families;Sep-Nov;5
+The Palazzo Resort Hotel Casino;3025;YES;YES;NO;YES;YES;Families;Sep-Nov;5
+The Palazzo Resort Hotel Casino;3025;YES;YES;NO;YES;YES;Couples;Sep-Nov;5
+The Palazzo Resort Hotel Casino;3025;YES;YES;NO;YES;YES;Friends;Sep-Nov;5
+The Palazzo Resort Hotel Casino;3025;YES;YES;NO;YES;YES;Families;Sep-Nov;3
+The Palazzo Resort Hotel Casino;3025;YES;YES;NO;YES;YES;Couples;Dec-Feb;5
+The Palazzo Resort Hotel Casino;3025;YES;YES;NO;YES;YES;Families;Dec-Feb;4
+Wynn Las Vegas;2700;YES;YES;YES;YES;YES;Couples;Dec-Feb;5
+Wynn Las Vegas;2700;YES;YES;YES;YES;YES;Families;Dec-Feb;5
+Wynn Las Vegas;2700;YES;YES;YES;YES;YES;Couples;Dec-Feb;4
+Wynn Las Vegas;2700;YES;YES;YES;YES;YES;Couples;Dec-Feb;5
+Wynn Las Vegas;2700;YES;YES;YES;YES;YES;Friends;Mar-May;5
+Wynn Las Vegas;2700;YES;YES;YES;YES;YES;Business;Mar-May;4
+Wynn Las Vegas;2700;YES;YES;YES;YES;YES;Business;Mar-May;5
+Wynn Las Vegas;2700;YES;YES;YES;YES;YES;Couples;Mar-May;4
+Wynn Las Vegas;2700;YES;YES;YES;YES;YES;Solo;Mar-May;3
+Wynn Las Vegas;2700;YES;YES;YES;YES;YES;Couples;Mar-May;5
+Wynn Las Vegas;2700;YES;YES;YES;YES;YES;Couples;Jun-Aug;5
+Wynn Las Vegas;2700;YES;YES;YES;YES;YES;Couples;Jun-Aug;5
+Wynn Las Vegas;2700;YES;YES;YES;YES;YES;Couples;Jun-Aug;5
+Wynn Las Vegas;2700;YES;YES;YES;YES;YES;Couples;Jun-Aug;5
+Wynn Las Vegas;2700;YES;YES;YES;YES;YES;Couples;Jun-Aug;5
+Wynn Las Vegas;2700;YES;YES;YES;YES;YES;Solo;Jun-Aug;5
+Wynn Las Vegas;2700;YES;YES;YES;YES;YES;Business;Sep-Nov;2
+Wynn Las Vegas;2700;YES;YES;YES;YES;YES;Friends;Sep-Nov;5
+Wynn Las Vegas;2700;YES;YES;YES;YES;YES;Couples;Sep-Nov;4
+Wynn Las Vegas;2700;YES;YES;YES;YES;YES;Couples;Sep-Nov;5
+Wynn Las Vegas;2700;YES;YES;YES;YES;YES;Business;Sep-Nov;5
+Wynn Las Vegas;2700;YES;YES;YES;YES;YES;Couples;Sep-Nov;5
+Wynn Las Vegas;2700;YES;YES;YES;YES;YES;Couples;Dec-Feb;5
+Wynn Las Vegas;2700;YES;YES;YES;YES;YES;Couples;Dec-Feb;5
+Trump International Hotel Las Vegas;1282;YES;YES;NO;YES;YES;Solo;Dec-Feb;5
+Trump International Hotel Las Vegas;1282;YES;YES;NO;YES;YES;Business;Dec-Feb;5
+Trump International Hotel Las Vegas;1282;YES;YES;NO;YES;YES;Business;Dec-Feb;5
+Trump International Hotel Las Vegas;1282;YES;YES;NO;YES;YES;Families;Dec-Feb;5
+Trump International Hotel Las Vegas;1282;YES;YES;NO;YES;YES;Couples;Mar-May;5
+Trump International Hotel Las Vegas;1282;YES;YES;NO;YES;YES;Couples;Mar-May;3
+Trump International Hotel Las Vegas;1282;YES;YES;NO;YES;YES;Couples;Mar-May;4
+Trump International Hotel Las Vegas;1282;YES;YES;NO;YES;YES;Couples;Mar-May;5
+Trump International Hotel Las Vegas;1282;YES;YES;NO;YES;YES;Families;Mar-May;4
+Trump International Hotel Las Vegas;1282;YES;YES;NO;YES;YES;Families;Mar-May;5
+Trump International Hotel Las Vegas;1282;YES;YES;NO;YES;YES;Couples;Jun-Aug;5
+Trump International Hotel Las Vegas;1282;YES;YES;NO;YES;YES;Business;Jun-Aug;5
+Trump International Hotel Las Vegas;1282;YES;YES;NO;YES;YES;Families;Jun-Aug;5
+Trump International Hotel Las Vegas;1282;YES;YES;NO;YES;YES;Families;Jun-Aug;4
+Trump International Hotel Las Vegas;1282;YES;YES;NO;YES;YES;Couples;Jun-Aug;4
+Trump International Hotel Las Vegas;1282;YES;YES;NO;YES;YES;Couples;Jun-Aug;5
+Trump International Hotel Las Vegas;1282;YES;YES;NO;YES;YES;Families;Sep-Nov;5
+Trump International Hotel Las Vegas;1282;YES;YES;NO;YES;YES;Families;Sep-Nov;1
+Trump International Hotel Las Vegas;1282;YES;YES;NO;YES;YES;Friends;Sep-Nov;5
+Trump International Hotel Las Vegas;1282;YES;YES;NO;YES;YES;Couples;Sep-Nov;5
+Trump International Hotel Las Vegas;1282;YES;YES;NO;YES;YES;Couples;Sep-Nov;2
+Trump International Hotel Las Vegas;1282;YES;YES;NO;YES;YES;Families;Sep-Nov;4
+Trump International Hotel Las Vegas;1282;YES;YES;NO;YES;YES;Business;Dec-Feb;4
+Trump International Hotel Las Vegas;1282;YES;YES;NO;YES;YES;Couples;Dec-Feb;5
+The Cromwell;188;YES;NO;NO;NO;YES;Business;Dec-Feb;3
+The Cromwell;188;YES;NO;NO;NO;YES;Business;Dec-Feb;4
+The Cromwell;188;YES;NO;NO;NO;YES;Families;Dec-Feb;5
+The Cromwell;188;YES;NO;NO;NO;YES;Couples;Dec-Feb;5
+The Cromwell;188;YES;NO;NO;NO;YES;Solo;Mar-May;2
+The Cromwell;188;YES;NO;NO;NO;YES;Friends;Mar-May;5
+The Cromwell;188;YES;NO;NO;NO;YES;Couples;Mar-May;5
+The Cromwell;188;YES;NO;NO;NO;YES;Families;Mar-May;2
+The Cromwell;188;YES;NO;NO;NO;YES;Friends;Mar-May;5
+The Cromwell;188;YES;NO;NO;NO;YES;Couples;Mar-May;5
+The Cromwell;188;YES;NO;NO;NO;YES;Friends;Jun-Aug;5
+The Cromwell;188;YES;NO;NO;NO;YES;Couples;Jun-Aug;5
+The Cromwell;188;YES;NO;NO;NO;YES;Couples;Jun-Aug;5
+The Cromwell;188;YES;NO;NO;NO;YES;Friends;Jun-Aug;1
+The Cromwell;188;YES;NO;NO;NO;YES;Couples;Jun-Aug;5
+The Cromwell;188;YES;NO;NO;NO;YES;Families;Jun-Aug;4
+The Cromwell;188;YES;NO;NO;NO;YES;Couples;Sep-Nov;5
+The Cromwell;188;YES;NO;NO;NO;YES;Business;Sep-Nov;4
+The Cromwell;188;YES;NO;NO;NO;YES;Families;Sep-Nov;3
+The Cromwell;188;YES;NO;NO;NO;YES;Friends;Sep-Nov;5
+The Cromwell;188;YES;NO;NO;NO;YES;Couples;Sep-Nov;3
+The Cromwell;188;YES;NO;NO;NO;YES;Business;Sep-Nov;4
+The Cromwell;188;YES;NO;NO;NO;YES;Couples;Dec-Feb;4
+The Cromwell;188;YES;NO;NO;NO;YES;Couples;Dec-Feb;4
+Encore at wynn Las Vegas;2034;YES;YES;NO;YES;YES;Business;Dec-Feb;1
+Encore at wynn Las Vegas;2034;YES;YES;NO;YES;YES;Couples;Dec-Feb;5
+Encore at wynn Las Vegas;2034;YES;YES;NO;YES;YES;Couples;Dec-Feb;4
+Encore at wynn Las Vegas;2034;YES;YES;NO;YES;YES;Business;Dec-Feb;5
+Encore at wynn Las Vegas;2034;YES;YES;NO;YES;YES;Couples;Mar-May;5
+Encore at wynn Las Vegas;2034;YES;YES;NO;YES;YES;Friends;Mar-May;4
+Encore at wynn Las Vegas;2034;YES;YES;NO;YES;YES;Families;Mar-May;3
+Encore at wynn Las Vegas;2034;YES;YES;NO;YES;YES;Friends;Mar-May;4
+Encore at wynn Las Vegas;2034;YES;YES;NO;YES;YES;Business;Mar-May;5
+Encore at wynn Las Vegas;2034;YES;YES;NO;YES;YES;Friends;Mar-May;5
+Encore at wynn Las Vegas;2034;YES;YES;NO;YES;YES;Couples;Jun-Aug;5
+Encore at wynn Las Vegas;2034;YES;YES;NO;YES;YES;Business;Jun-Aug;4
+Encore at wynn Las Vegas;2034;YES;YES;NO;YES;YES;Friends;Jun-Aug;5
+Encore at wynn Las Vegas;2034;YES;YES;NO;YES;YES;Families;Jun-Aug;5
+Encore at wynn Las Vegas;2034;YES;YES;NO;YES;YES;Families;Jun-Aug;5
+Encore at wynn Las Vegas;2034;YES;YES;NO;YES;YES;Families;Jun-Aug;5
+Encore at wynn Las Vegas;2034;YES;YES;NO;YES;YES;Couples;Sep-Nov;5
+Encore at wynn Las Vegas;2034;YES;YES;NO;YES;YES;Friends;Sep-Nov;5
+Encore at wynn Las Vegas;2034;YES;YES;NO;YES;YES;Couples;Sep-Nov;5
+Encore at wynn Las Vegas;2034;YES;YES;NO;YES;YES;Business;Sep-Nov;4
+Encore at wynn Las Vegas;2034;YES;YES;NO;YES;YES;Couples;Sep-Nov;5
+Encore at wynn Las Vegas;2034;YES;YES;NO;YES;YES;Couples;Sep-Nov;5
+Encore at wynn Las Vegas;2034;YES;YES;NO;YES;YES;Friends;Dec-Feb;5
+Encore at wynn Las Vegas;2034;YES;YES;NO;YES;YES;Business;Dec-Feb;5
+Hilton Grand Vacations on the Boulevard;1228;YES;YES;NO;YES;YES;Couples;Dec-Feb;5
+Hilton Grand Vacations on the Boulevard;1228;YES;YES;NO;YES;YES;Families;Dec-Feb;2
+Hilton Grand Vacations on the Boulevard;1228;YES;YES;NO;YES;YES;Business;Dec-Feb;5
+Hilton Grand Vacations on the Boulevard;1228;YES;YES;NO;YES;YES;Couples;Dec-Feb;5
+Hilton Grand Vacations on the Boulevard;1228;YES;YES;NO;YES;YES;Couples;Mar-May;5
+Hilton Grand Vacations on the Boulevard;1228;YES;YES;NO;YES;YES;Couples;Mar-May;4
+Hilton Grand Vacations on the Boulevard;1228;YES;YES;NO;YES;YES;Business;Mar-May;4
+Hilton Grand Vacations on the Boulevard;1228;YES;YES;NO;YES;YES;Families;Mar-May;4
+Hilton Grand Vacations on the Boulevard;1228;YES;YES;NO;YES;YES;Families;Mar-May;5
+Hilton Grand Vacations on the Boulevard;1228;YES;YES;NO;YES;YES;Couples;Mar-May;1
+Hilton Grand Vacations on the Boulevard;1228;YES;YES;NO;YES;YES;Friends;Jun-Aug;5
+Hilton Grand Vacations on the Boulevard;1228;YES;YES;NO;YES;YES;Solo;Jun-Aug;5
+Hilton Grand Vacations on the Boulevard;1228;YES;YES;NO;YES;YES;Families;Jun-Aug;4
+Hilton Grand Vacations on the Boulevard;1228;YES;YES;NO;YES;YES;Families;Jun-Aug;5
+Hilton Grand Vacations on the Boulevard;1228;YES;YES;NO;YES;YES;Couples;Jun-Aug;4
+Hilton Grand Vacations on the Boulevard;1228;YES;YES;NO;YES;YES;Families;Jun-Aug;5
+Hilton Grand Vacations on the Boulevard;1228;YES;YES;NO;YES;YES;Families;Sep-Nov;5
+Hilton Grand Vacations on the Boulevard;1228;YES;YES;NO;YES;YES;Solo;Sep-Nov;5
+Hilton Grand Vacations on the Boulevard;1228;YES;YES;NO;YES;YES;Couples;Sep-Nov;2
+Hilton Grand Vacations on the Boulevard;1228;YES;YES;NO;YES;YES;Business;Sep-Nov;4
+Hilton Grand Vacations on the Boulevard;1228;YES;YES;NO;YES;YES;Families;Sep-Nov;3
+Hilton Grand Vacations on the Boulevard;1228;YES;YES;NO;YES;YES;Families;Sep-Nov;4
+Hilton Grand Vacations on the Boulevard;1228;YES;YES;NO;YES;YES;Couples;Dec-Feb;5
+Hilton Grand Vacations on the Boulevard;1228;YES;YES;NO;YES;YES;Couples;Dec-Feb;4
+Marriott's Grand Chateau;732;YES;YES;NO;NO;YES;Business;Dec-Feb;4
+Marriott's Grand Chateau;732;YES;YES;NO;NO;YES;Business;Dec-Feb;4
+Marriott's Grand Chateau;732;YES;YES;NO;NO;YES;Families;Dec-Feb;5
+Marriott's Grand Chateau;732;YES;YES;NO;NO;YES;Business;Dec-Feb;5
+Marriott's Grand Chateau;732;YES;YES;NO;NO;YES;Friends;Mar-May;4
+Marriott's Grand Chateau;732;YES;YES;NO;NO;YES;Business;Mar-May;5
+Marriott's Grand Chateau;732;YES;YES;NO;NO;YES;Couples;Mar-May;5
+Marriott's Grand Chateau;732;YES;YES;NO;NO;YES;Couples;Mar-May;4
+Marriott's Grand Chateau;732;YES;YES;NO;NO;YES;Couples;Mar-May;4
+Marriott's Grand Chateau;732;YES;YES;NO;NO;YES;Business;Mar-May;4
+Marriott's Grand Chateau;732;YES;YES;NO;NO;YES;Families;Jun-Aug;5
+Marriott's Grand Chateau;732;YES;YES;NO;NO;YES;Families;Jun-Aug;5
+Marriott's Grand Chateau;732;YES;YES;NO;NO;YES;Couples;Jun-Aug;5
+Marriott's Grand Chateau;732;YES;YES;NO;NO;YES;Couples;Jun-Aug;5
+Marriott's Grand Chateau;732;YES;YES;NO;NO;YES;Families;Jun-Aug;5
+Marriott's Grand Chateau;732;YES;YES;NO;NO;YES;Families;Jun-Aug;5
+Marriott's Grand Chateau;732;YES;YES;NO;NO;YES;Friends;Sep-Nov;5
+Marriott's Grand Chateau;732;YES;YES;NO;NO;YES;Friends;Sep-Nov;5
+Marriott's Grand Chateau;732;YES;YES;NO;NO;YES;Business;Sep-Nov;3
+Marriott's Grand Chateau;732;YES;YES;NO;NO;YES;Families;Sep-Nov;5
+Marriott's Grand Chateau;732;YES;YES;NO;NO;YES;Couples;Sep-Nov;4
+Marriott's Grand Chateau;732;YES;YES;NO;NO;YES;Couples;Sep-Nov;4
+Marriott's Grand Chateau;732;YES;YES;NO;NO;YES;Couples;Dec-Feb;5
+Marriott's Grand Chateau;732;YES;YES;NO;NO;YES;Families;Dec-Feb;4
+Tuscany Las Vegas Suites & Casino;716;YES;YES;YES;YES;YES;Couples;Dec-Feb;5
+Tuscany Las Vegas Suites & Casino;716;YES;YES;YES;YES;YES;Friends;Dec-Feb;5
+Tuscany Las Vegas Suites & Casino;716;YES;YES;YES;YES;YES;Business;Dec-Feb;3
+Tuscany Las Vegas Suites & Casino;716;YES;YES;YES;YES;YES;Business;Dec-Feb;5
+Tuscany Las Vegas Suites & Casino;716;YES;YES;YES;YES;YES;Friends;Mar-May;5
+Tuscany Las Vegas Suites & Casino;716;YES;YES;YES;YES;YES;Couples;Mar-May;5
+Tuscany Las Vegas Suites & Casino;716;YES;YES;YES;YES;YES;Couples;Mar-May;5
+Tuscany Las Vegas Suites & Casino;716;YES;YES;YES;YES;YES;Couples;Mar-May;4
+Tuscany Las Vegas Suites & Casino;716;YES;YES;YES;YES;YES;Families;Mar-May;2
+Tuscany Las Vegas Suites & Casino;716;YES;YES;YES;YES;YES;Business;Mar-May;3
+Tuscany Las Vegas Suites & Casino;716;YES;YES;YES;YES;YES;Friends;Jun-Aug;5
+Tuscany Las Vegas Suites & Casino;716;YES;YES;YES;YES;YES;Couples;Jun-Aug;3
+Tuscany Las Vegas Suites & Casino;716;YES;YES;YES;YES;YES;Couples;Jun-Aug;5
+Tuscany Las Vegas Suites & Casino;716;YES;YES;YES;YES;YES;Business;Jun-Aug;4
+Tuscany Las Vegas Suites & Casino;716;YES;YES;YES;YES;YES;Business;Jun-Aug;3
+Tuscany Las Vegas Suites & Casino;716;YES;YES;YES;YES;YES;Couples;Jun-Aug;4
+Tuscany Las Vegas Suites & Casino;716;YES;YES;YES;YES;YES;Couples;Sep-Nov;5
+Tuscany Las Vegas Suites & Casino;716;YES;YES;YES;YES;YES;Couples;Sep-Nov;5
+Tuscany Las Vegas Suites & Casino;716;YES;YES;YES;YES;YES;Couples;Sep-Nov;3
+Tuscany Las Vegas Suites & Casino;716;YES;YES;YES;YES;YES;Business;Sep-Nov;5
+Tuscany Las Vegas Suites & Casino;716;YES;YES;YES;YES;YES;Couples;Sep-Nov;4
+Tuscany Las Vegas Suites & Casino;716;YES;YES;YES;YES;YES;Business;Sep-Nov;3
+Tuscany Las Vegas Suites & Casino;716;YES;YES;YES;YES;YES;Families;Dec-Feb;5
+Tuscany Las Vegas Suites & Casino;716;YES;YES;YES;YES;YES;Friends;Dec-Feb;5
+Hilton Grand Vacations at the Flamingo;315;YES;YES;NO;NO;NO;Business;Dec-Feb;3
+Hilton Grand Vacations at the Flamingo;315;YES;YES;NO;NO;NO;Couples;Dec-Feb;5
+Hilton Grand Vacations at the Flamingo;315;YES;YES;NO;NO;NO;Couples;Dec-Feb;2
+Hilton Grand Vacations at the Flamingo;315;YES;YES;NO;NO;NO;Families;Dec-Feb;2
+Hilton Grand Vacations at the Flamingo;315;YES;YES;NO;NO;NO;Friends;Mar-May;5
+Hilton Grand Vacations at the Flamingo;315;YES;YES;NO;NO;NO;Couples;Mar-May;5
+Hilton Grand Vacations at the Flamingo;315;YES;YES;NO;NO;NO;Families;Mar-May;3
+Hilton Grand Vacations at the Flamingo;315;YES;YES;NO;NO;NO;Families;Mar-May;3
+Hilton Grand Vacations at the Flamingo;315;YES;YES;NO;NO;NO;Friends;Mar-May;3
+Hilton Grand Vacations at the Flamingo;315;YES;YES;NO;NO;NO;Families;Mar-May;3
+Hilton Grand Vacations at the Flamingo;315;YES;YES;NO;NO;NO;Couples;Jun-Aug;5
+Hilton Grand Vacations at the Flamingo;315;YES;YES;NO;NO;NO;Couples;Jun-Aug;4
+Hilton Grand Vacations at the Flamingo;315;YES;YES;NO;NO;NO;Families;Jun-Aug;3
+Hilton Grand Vacations at the Flamingo;315;YES;YES;NO;NO;NO;Couples;Jun-Aug;5
+Hilton Grand Vacations at the Flamingo;315;YES;YES;NO;NO;NO;Families;Jun-Aug;4
+Hilton Grand Vacations at the Flamingo;315;YES;YES;NO;NO;NO;Families;Jun-Aug;5
+Hilton Grand Vacations at the Flamingo;315;YES;YES;NO;NO;NO;Friends;Sep-Nov;5
+Hilton Grand Vacations at the Flamingo;315;YES;YES;NO;NO;NO;Business;Sep-Nov;4
+Hilton Grand Vacations at the Flamingo;315;YES;YES;NO;NO;NO;Families;Sep-Nov;4
+Hilton Grand Vacations at the Flamingo;315;YES;YES;NO;NO;NO;Couples;Sep-Nov;4
+Hilton Grand Vacations at the Flamingo;315;YES;YES;NO;NO;NO;Business;Sep-Nov;4
+Hilton Grand Vacations at the Flamingo;315;YES;YES;NO;NO;NO;Business;Sep-Nov;5
+Hilton Grand Vacations at the Flamingo;315;YES;YES;NO;NO;NO;Couples;Dec-Feb;4
+Hilton Grand Vacations at the Flamingo;315;YES;YES;NO;NO;NO;Families;Dec-Feb;5
+Wyndham Grand Desert;787;YES;YES;YES;NO;NO;Friends;Dec-Feb;4
+Wyndham Grand Desert;787;YES;YES;YES;NO;NO;Families;Dec-Feb;5
+Wyndham Grand Desert;787;YES;YES;YES;NO;NO;Couples;Dec-Feb;5
+Wyndham Grand Desert;787;YES;YES;YES;NO;NO;Couples;Dec-Feb;5
+Wyndham Grand Desert;787;YES;YES;YES;NO;NO;Friends;Mar-May;5
+Wyndham Grand Desert;787;YES;YES;YES;NO;NO;Couples;Mar-May;4
+Wyndham Grand Desert;787;YES;YES;YES;NO;NO;Families;Mar-May;5
+Wyndham Grand Desert;787;YES;YES;YES;NO;NO;Couples;Mar-May;5
+Wyndham Grand Desert;787;YES;YES;YES;NO;NO;Families;Mar-May;4
+Wyndham Grand Desert;787;YES;YES;YES;NO;NO;Business;Mar-May;4
+Wyndham Grand Desert;787;YES;YES;YES;NO;NO;Couples;Jun-Aug;5
+Wyndham Grand Desert;787;YES;YES;YES;NO;NO;Families;Jun-Aug;5
+Wyndham Grand Desert;787;YES;YES;YES;NO;NO;Families;Jun-Aug;5
+Wyndham Grand Desert;787;YES;YES;YES;NO;NO;Friends;Jun-Aug;4
+Wyndham Grand Desert;787;YES;YES;YES;NO;NO;Families;Jun-Aug;3
+Wyndham Grand Desert;787;YES;YES;YES;NO;NO;Couples;Jun-Aug;5
+Wyndham Grand Desert;787;YES;YES;YES;NO;NO;Friends;Sep-Nov;5
+Wyndham Grand Desert;787;YES;YES;YES;NO;NO;Business;Sep-Nov;4
+Wyndham Grand Desert;787;YES;YES;YES;NO;NO;Couples;Sep-Nov;3
+Wyndham Grand Desert;787;YES;YES;YES;NO;NO;Couples;Sep-Nov;4
+Wyndham Grand Desert;787;YES;YES;YES;NO;NO;Families;Sep-Nov;3
+Wyndham Grand Desert;787;YES;YES;YES;NO;NO;Families;Sep-Nov;4
+Wyndham Grand Desert;787;YES;YES;YES;NO;NO;Families;Dec-Feb;4
+Wyndham Grand Desert;787;YES;YES;YES;NO;NO;Friends;Dec-Feb;5
+The Venetian Las Vegas Hotel;4027;YES;YES;NO;YES;YES;Business;Dec-Feb;4
+The Venetian Las Vegas Hotel;4027;YES;YES;NO;YES;YES;Solo;Dec-Feb;5
+The Venetian Las Vegas Hotel;4027;YES;YES;NO;YES;YES;Families;Dec-Feb;4
+The Venetian Las Vegas Hotel;4027;YES;YES;NO;YES;YES;Couples;Dec-Feb;5
+The Venetian Las Vegas Hotel;4027;YES;YES;NO;YES;YES;Couples;Mar-May;3
+The Venetian Las Vegas Hotel;4027;YES;YES;NO;YES;YES;Couples;Mar-May;5
+The Venetian Las Vegas Hotel;4027;YES;YES;NO;YES;YES;Couples;Mar-May;5
+The Venetian Las Vegas Hotel;4027;YES;YES;NO;YES;YES;Couples;Mar-May;4
+The Venetian Las Vegas Hotel;4027;YES;YES;NO;YES;YES;Families;Mar-May;4
+The Venetian Las Vegas Hotel;4027;YES;YES;NO;YES;YES;Couples;Mar-May;5
+The Venetian Las Vegas Hotel;4027;YES;YES;NO;YES;YES;Couples;Jun-Aug;5
+The Venetian Las Vegas Hotel;4027;YES;YES;NO;YES;YES;Business;Jun-Aug;5
+The Venetian Las Vegas Hotel;4027;YES;YES;NO;YES;YES;Couples;Jun-Aug;4
+The Venetian Las Vegas Hotel;4027;YES;YES;NO;YES;YES;Couples;Jun-Aug;4
+The Venetian Las Vegas Hotel;4027;YES;YES;NO;YES;YES;Families;Jun-Aug;5
+The Venetian Las Vegas Hotel;4027;YES;YES;NO;YES;YES;Couples;Jun-Aug;5
+The Venetian Las Vegas Hotel;4027;YES;YES;NO;YES;YES;Couples;Sep-Nov;5
+The Venetian Las Vegas Hotel;4027;YES;YES;NO;YES;YES;Couples;Sep-Nov;5
+The Venetian Las Vegas Hotel;4027;YES;YES;NO;YES;YES;Couples;Sep-Nov;5
+The Venetian Las Vegas Hotel;4027;YES;YES;NO;YES;YES;Couples;Sep-Nov;4
+The Venetian Las Vegas Hotel;4027;YES;YES;NO;YES;YES;Friends;Sep-Nov;5
+The Venetian Las Vegas Hotel;4027;YES;YES;NO;YES;YES;Couples;Sep-Nov;5
+The Venetian Las Vegas Hotel;4027;YES;YES;NO;YES;YES;Families;Dec-Feb;5
+The Venetian Las Vegas Hotel;4027;YES;YES;NO;YES;YES;Couples;Dec-Feb;4
+Bellagio Las Vegas;3933;YES;YES;NO;YES;YES;Solo;Dec-Feb;4
+Bellagio Las Vegas;3933;YES;YES;NO;YES;YES;Families;Dec-Feb;5
+Bellagio Las Vegas;3933;YES;YES;NO;YES;YES;Couples;Dec-Feb;4
+Bellagio Las Vegas;3933;YES;YES;NO;YES;YES;Business;Dec-Feb;5
+Bellagio Las Vegas;3933;YES;YES;NO;YES;YES;Couples;Mar-May;5
+Bellagio Las Vegas;3933;YES;YES;NO;YES;YES;Business;Mar-May;2
+Bellagio Las Vegas;3933;YES;YES;NO;YES;YES;Business;Mar-May;5
+Bellagio Las Vegas;3933;YES;YES;NO;YES;YES;Families;Mar-May;2
+Bellagio Las Vegas;3933;YES;YES;NO;YES;YES;Friends;Mar-May;3
+Bellagio Las Vegas;3933;YES;YES;NO;YES;YES;Couples;Mar-May;5
+Bellagio Las Vegas;3933;YES;YES;NO;YES;YES;Families;Jun-Aug;5
+Bellagio Las Vegas;3933;YES;YES;NO;YES;YES;Business;Jun-Aug;4
+Bellagio Las Vegas;3933;YES;YES;NO;YES;YES;Couples;Jun-Aug;5
+Bellagio Las Vegas;3933;YES;YES;NO;YES;YES;Families;Jun-Aug;4
+Bellagio Las Vegas;3933;YES;YES;NO;YES;YES;Solo;Jun-Aug;4
+Bellagio Las Vegas;3933;YES;YES;NO;YES;YES;Families;Jun-Aug;5
+Bellagio Las Vegas;3933;YES;YES;NO;YES;YES;Couples;Sep-Nov;5
+Bellagio Las Vegas;3933;YES;YES;NO;YES;YES;Business;Sep-Nov;4
+Bellagio Las Vegas;3933;YES;YES;NO;YES;YES;Couples;Sep-Nov;5
+Bellagio Las Vegas;3933;YES;YES;NO;YES;YES;Couples;Sep-Nov;4
+Bellagio Las Vegas;3933;YES;YES;NO;YES;YES;Friends;Sep-Nov;5
+Bellagio Las Vegas;3933;YES;YES;NO;YES;YES;Friends;Sep-Nov;5
+Bellagio Las Vegas;3933;YES;YES;NO;YES;YES;Business;Dec-Feb;4
+Bellagio Las Vegas;3933;YES;YES;NO;YES;YES;Families;Dec-Feb;2
+Paris Las Vegas;2916;YES;YES;NO;YES;YES;Couples;Dec-Feb;4
+Paris Las Vegas;2916;YES;YES;NO;YES;YES;Couples;Dec-Feb;5
+Paris Las Vegas;2916;YES;YES;NO;YES;YES;Couples;Dec-Feb;2
+Paris Las Vegas;2916;YES;YES;NO;YES;YES;Friends;Dec-Feb;4
+Paris Las Vegas;2916;YES;YES;NO;YES;YES;Couples;Mar-May;2
+Paris Las Vegas;2916;YES;YES;NO;YES;YES;Couples;Mar-May;5
+Paris Las Vegas;2916;YES;YES;NO;YES;YES;Business;Mar-May;4
+Paris Las Vegas;2916;YES;YES;NO;YES;YES;Friends;Mar-May;3
+Paris Las Vegas;2916;YES;YES;NO;YES;YES;Friends;Mar-May;5
+Paris Las Vegas;2916;YES;YES;NO;YES;YES;Couples;Mar-May;3
+Paris Las Vegas;2916;YES;YES;NO;YES;YES;Couples;Jun-Aug;5
+Paris Las Vegas;2916;YES;YES;NO;YES;YES;Couples;Jun-Aug;3
+Paris Las Vegas;2916;YES;YES;NO;YES;YES;Couples;Jun-Aug;4
+Paris Las Vegas;2916;YES;YES;NO;YES;YES;Families;Jun-Aug;4
+Paris Las Vegas;2916;YES;YES;NO;YES;YES;Families;Jun-Aug;5
+Paris Las Vegas;2916;YES;YES;NO;YES;YES;Couples;Jun-Aug;5
+Paris Las Vegas;2916;YES;YES;NO;YES;YES;Couples;Sep-Nov;4
+Paris Las Vegas;2916;YES;YES;NO;YES;YES;Couples;Sep-Nov;5
+Paris Las Vegas;2916;YES;YES;NO;YES;YES;Couples;Sep-Nov;2
+Paris Las Vegas;2916;YES;YES;NO;YES;YES;Couples;Sep-Nov;5
+Paris Las Vegas;2916;YES;YES;NO;YES;YES;Couples;Sep-Nov;4
+Paris Las Vegas;2916;YES;YES;NO;YES;YES;Couples;Sep-Nov;5
+Paris Las Vegas;2916;YES;YES;NO;YES;YES;Couples;Dec-Feb;5
+Paris Las Vegas;2916;YES;YES;NO;YES;YES;Friends;Dec-Feb;4
+The Westin las Vegas Hotel Casino & Spa;826;YES;YES;NO;YES;YES;Couples;Dec-Feb;4
+The Westin las Vegas Hotel Casino & Spa;826;YES;YES;NO;YES;YES;Families;Dec-Feb;3
+The Westin las Vegas Hotel Casino & Spa;826;YES;YES;NO;YES;YES;Solo;Dec-Feb;4
+The Westin las Vegas Hotel Casino & Spa;826;YES;YES;NO;YES;YES;Couples;Dec-Feb;3
+The Westin las Vegas Hotel Casino & Spa;826;YES;YES;NO;YES;YES;Business;Mar-May;5
+The Westin las Vegas Hotel Casino & Spa;826;YES;YES;NO;YES;YES;Friends;Mar-May;5
+The Westin las Vegas Hotel Casino & Spa;826;YES;YES;NO;YES;YES;Business;Mar-May;4
+The Westin las Vegas Hotel Casino & Spa;826;YES;YES;NO;YES;YES;Solo;Mar-May;4
+The Westin las Vegas Hotel Casino & Spa;826;YES;YES;NO;YES;YES;Friends;Mar-May;3
+The Westin las Vegas Hotel Casino & Spa;826;YES;YES;NO;YES;YES;Couples;Mar-May;4
+The Westin las Vegas Hotel Casino & Spa;826;YES;YES;NO;YES;YES;Solo;Jun-Aug;4
+The Westin las Vegas Hotel Casino & Spa;826;YES;YES;NO;YES;YES;Business;Jun-Aug;3
+The Westin las Vegas Hotel Casino & Spa;826;YES;YES;NO;YES;YES;Families;Jun-Aug;4
+The Westin las Vegas Hotel Casino & Spa;826;YES;YES;NO;YES;YES;Couples;Jun-Aug;5
+The Westin las Vegas Hotel Casino & Spa;826;YES;YES;NO;YES;YES;Families;Jun-Aug;3
+The Westin las Vegas Hotel Casino & Spa;826;YES;YES;NO;YES;YES;Couples;Jun-Aug;4
+The Westin las Vegas Hotel Casino & Spa;826;YES;YES;NO;YES;YES;Solo;Sep-Nov;5
+The Westin las Vegas Hotel Casino & Spa;826;YES;YES;NO;YES;YES;Couples;Sep-Nov;3
+The Westin las Vegas Hotel Casino & Spa;826;YES;YES;NO;YES;YES;Couples;Sep-Nov;5
+The Westin las Vegas Hotel Casino & Spa;826;YES;YES;NO;YES;YES;Couples;Sep-Nov;5
+The Westin las Vegas Hotel Casino & Spa;826;YES;YES;NO;YES;YES;Couples;Sep-Nov;4
+The Westin las Vegas Hotel Casino & Spa;826;YES;YES;NO;YES;YES;Friends;Sep-Nov;4
+The Westin las Vegas Hotel Casino & Spa;826;YES;YES;NO;YES;YES;Families;Dec-Feb;2
+The Westin las Vegas Hotel Casino & Spa;826;YES;YES;NO;YES;YES;Families;Dec-Feb;4
