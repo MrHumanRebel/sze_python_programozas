@@ -1,0 +1,1001 @@
+Make,Year,Price,State,Color,Part
+BMW,2013,39498,Delaware,Orange,Exterior
+Hyundai,2000,24552,Arizona,Red,Engine
+Subaru,1993,15608,Michigan,Gray,Brakes
+Subaru,2021,25115,Louisiana,White,Brakes
+Lexus,1996,41784,North Dakota,Gray,Transmission
+Lexus,2014,7291,South Carolina,Red,Interior
+BMW,1996,37457,Connecticut,White,Engine
+Mazda,2016,38424,West Virginia,White,Transmission
+Subaru,2004,7119,Virginia,White,Interior
+Mazda,2011,23398,Maryland,White,Exterior
+Toyota,2005,5968,Arizona,Silver,Engine
+Porsche,2016,8631,Louisiana,Red,Brakes
+Chevrolet,2019,4127,Idaho,White,Suspension
+Hyundai,2012,25261,Maine,Yellow,Interior
+Toyota,1998,43356,North Carolina,Black,Brakes
+Porsche,2021,10421,New Hampshire,Orange,Exhaust
+Audi,2007,23467,Maine,Gray,Engine
+Hyundai,2009,4608,Washington,Orange,Exhaust
+Porsche,2015,48368,North Carolina,White,Brakes
+Lexus,2000,34743,Connecticut,Blue,Exterior
+Mercedes,2016,28984,Indiana,Green,Interior
+Chevrolet,1991,10151,Missouri,Yellow,Exhaust
+Toyota,1991,3991,Texas,Yellow,Exhaust
+Volkswagen,2005,18346,Kansas,Red,Engine
+Hyundai,2023,39515,Georgia,Red,Interior
+Volvo,2021,48840,Illinois,Black,Exhaust
+BMW,2023,17525,Montana,Green,Exhaust
+Chevrolet,2019,33459,Minnesota,Green,Brakes
+Hyundai,2004,24805,Indiana,Red,Exhaust
+Toyota,1996,42517,South Dakota,Silver,Interior
+Chevrolet,2022,22922,Mississippi,White,Engine
+Mazda,2023,20506,Illinois,Red,Exterior
+Ford,2023,14087,South Carolina,Black,Tires
+Nissan,2023,9157,Illinois,White,Tires
+Mercedes,2001,5945,Oklahoma,Black,Tires
+Subaru,2023,12922,Oklahoma,Red,Transmission
+Honda,2023,44588,South Dakota,Black,Exterior
+Audi,2014,39597,Arizona,Yellow,Tires
+Honda,2006,9161,California,Orange,Transmission
+Toyota,1997,29889,Maine,Gray,Exterior
+Audi,1998,21745,South Carolina,Black,Exhaust
+Chevrolet,1990,15856,North Dakota,Gray,Tires
+Kia,1991,5012,Colorado,White,Exterior
+Hyundai,2009,48231,Mississippi,Green,Tires
+BMW,1997,30252,North Carolina,Black,Engine
+Mercedes,1995,19400,New Mexico,Green,Suspension
+Mazda,2005,14380,Georgia,Gray,Exhaust
+Volvo,1994,43677,South Carolina,Gray,Engine
+BMW,1996,45183,South Dakota,Orange,Engine
+Subaru,2018,3404,Oregon,Yellow,Tires
+Mazda,1991,6389,Ohio,Gray,Interior
+Honda,2002,17146,Indiana,Black,Exhaust
+Chevrolet,2001,48700,California,Red,Suspension
+Hyundai,2014,19832,Rhode Island,Green,Suspension
+Audi,2014,36824,Georgia,Orange,Interior
+Chevrolet,2000,31275,Missouri,Gray,Exterior
+Volvo,2002,7364,Texas,Blue,Tires
+Volvo,2013,18862,Colorado,Gray,Exterior
+Ford,2005,26180,Michigan,White,Brakes
+Volvo,2018,1722,Kentucky,Orange,Transmission
+Mazda,1997,21267,North Dakota,Black,Interior
+Audi,2021,43514,Illinois,Orange,Exhaust
+Audi,2009,47048,Massachusetts,Blue,Transmission
+Maserati,1992,13722,Hawaii,Yellow,Tires
+Honda,2016,48929,Michigan,Orange,Exhaust
+Lexus,2017,29678,South Carolina,Yellow,Interior
+Lexus,1997,35555,New Mexico,Green,Transmission
+Volkswagen,2020,13945,New Mexico,Orange,Tires
+Honda,2023,11465,Georgia,Red,Tires
+Maserati,2003,47636,Massachusetts,White,Exhaust
+Lexus,2022,36298,Kentucky,Orange,Brakes
+Volkswagen,2005,12626,Georgia,Yellow,Exterior
+Honda,1990,44787,Minnesota,Green,Brakes
+Volvo,1994,35414,Pennsylvania,Black,Suspension
+Honda,2021,47404,Rhode Island,Red,Exhaust
+Chevrolet,1994,46380,Illinois,Green,Suspension
+Honda,2007,45356,New Hampshire,Gray,Exhaust
+Mazda,1996,15000,Maryland,Yellow,Engine
+Maserati,1993,47027,Colorado,Green,Suspension
+Audi,2015,20829,Vermont,Black,Tires
+BMW,1990,34994,Montana,Orange,Brakes
+Porsche,1991,5830,South Dakota,Orange,Brakes
+Honda,1994,13079,Idaho,Orange,Engine
+Mercedes,2021,40264,Kansas,White,Transmission
+Porsche,1992,20119,Michigan,Green,Interior
+Audi,2019,6737,Maine,Orange,Tires
+Toyota,1998,13411,Arkansas,Yellow,Transmission
+Subaru,2005,10903,Nebraska,White,Brakes
+Chevrolet,1996,11880,Maine,Green,Exterior
+Volkswagen,2005,20363,Pennsylvania,Gray,Exhaust
+Kia,1995,6876,Georgia,Yellow,Interior
+Hyundai,2015,22528,Alabama,Black,Interior
+Volkswagen,2002,15494,New Jersey,White,Engine
+Honda,1997,48473,New Mexico,Yellow,Exhaust
+Audi,1999,24257,California,Gray,Transmission
+Porsche,2022,33280,Kansas,Orange,Transmission
+Honda,1990,28778,California,White,Suspension
+Ford,2021,26971,Mississippi,Green,Engine
+Mazda,2003,30860,Tennessee,Blue,Transmission
+BMW,2003,17000,Indiana,Red,Transmission
+Volkswagen,2006,48711,Florida,Orange,Exhaust
+Nissan,2011,34253,Mississippi,Gray,Tires
+BMW,1995,38558,Washington,Green,Exterior
+Chevrolet,1999,8200,Nevada,Green,Tires
+Honda,2009,28017,Utah,Silver,Brakes
+Mercedes,1990,2824,Michigan,Yellow,Exterior
+Porsche,2012,25356,Maine,Gray,Tires
+Maserati,2006,17946,Ohio,Green,Exhaust
+Ford,1997,32663,Illinois,Black,Exhaust
+Volvo,1996,46176,New Hampshire,Blue,Tires
+Audi,2008,37219,Vermont,Green,Exterior
+Chevrolet,1993,37161,Illinois,Blue,Tires
+Lexus,2001,47576,New Jersey,Silver,Exhaust
+Audi,2010,18110,Alabama,White,Engine
+Nissan,2001,6160,Kansas,Yellow,Suspension
+Maserati,2019,38209,New Mexico,Yellow,Interior
+Subaru,1996,29789,North Carolina,Black,Exhaust
+Subaru,2021,25585,Utah,Silver,Engine
+Lexus,2008,5336,Rhode Island,Orange,Interior
+Kia,2019,30537,Alabama,Gray,Engine
+Subaru,2011,46432,Massachusetts,Red,Exhaust
+Mazda,2013,12449,Georgia,Red,Transmission
+Maserati,2016,21194,Georgia,Blue,Transmission
+Volvo,2004,49008,Utah,Silver,Brakes
+Chevrolet,2022,45828,Kentucky,Yellow,Suspension
+Lexus,2013,17096,Maine,Blue,Suspension
+Honda,2023,24691,Arizona,Orange,Interior
+Ford,1991,49655,Alaska,Gray,Interior
+Nissan,2014,29327,Arkansas,Red,Suspension
+Toyota,2001,37263,Minnesota,Yellow,Suspension
+Ford,2015,31157,Wisconsin,Gray,Exhaust
+Toyota,2020,9689,Nebraska,Silver,Exhaust
+Chevrolet,2008,40334,Nevada,Blue,Transmission
+Mercedes,2017,29064,Illinois,Orange,Interior
+Maserati,2019,43222,Illinois,Orange,Exterior
+Kia,1995,17481,Arkansas,White,Exterior
+Volvo,2002,3529,New York,Orange,Interior
+Hyundai,2014,32604,Alabama,Black,Interior
+Mercedes,1999,25411,Idaho,Red,Suspension
+Kia,1996,25644,Alabama,White,Interior
+Porsche,2013,44869,New York,Gray,Interior
+Nissan,2013,29710,Nebraska,Orange,Transmission
+Lexus,2016,27606,Missouri,Silver,Tires
+Lexus,2018,33301,Louisiana,Orange,Brakes
+Hyundai,2000,32407,Wyoming,Gray,Brakes
+Chevrolet,2000,8902,Nebraska,Black,Transmission
+Toyota,2015,38948,West Virginia,Black,Engine
+Maserati,1991,38755,Alabama,Gray,Exterior
+Ford,2018,15406,Florida,Black,Interior
+Kia,2007,4176,Montana,White,Suspension
+Hyundai,2016,25606,Tennessee,Red,Transmission
+Volvo,2003,20388,New Jersey,Blue,Brakes
+Lexus,2011,22878,Iowa,White,Transmission
+Lexus,2006,38834,Iowa,Blue,Tires
+Mercedes,1992,34621,Montana,Green,Suspension
+Hyundai,2012,26794,Connecticut,Gray,Engine
+Hyundai,2007,22619,Maryland,Yellow,Engine
+Toyota,2009,46368,South Carolina,White,Transmission
+Mercedes,2004,5549,Oregon,White,Engine
+Audi,2001,18208,Vermont,Orange,Brakes
+Lexus,2001,26691,Tennessee,Black,Engine
+Kia,1999,17651,California,Yellow,Suspension
+Audi,1992,35008,Pennsylvania,Yellow,Transmission
+Mercedes,1999,14880,Rhode Island,Black,Tires
+Chevrolet,1999,48000,Maine,Green,Suspension
+BMW,1992,47397,Louisiana,Gray,Engine
+Volkswagen,2005,47168,North Dakota,Yellow,Suspension
+Honda,1993,40112,Maryland,Black,Brakes
+Ford,2018,21019,Connecticut,Silver,Brakes
+Volvo,2001,8711,Washington,White,Brakes
+Nissan,2004,22890,Maine,Yellow,Brakes
+Mercedes,2007,20475,Wyoming,Green,Exhaust
+Mazda,1998,16682,Arizona,Yellow,Exhaust
+Mercedes,1998,31870,North Carolina,White,Exterior
+Subaru,2003,3109,Illinois,Gray,Suspension
+Mercedes,2019,22331,Pennsylvania,White,Exhaust
+Subaru,2017,40296,Kansas,Yellow,Exterior
+Toyota,2014,9461,California,Orange,Tires
+Lexus,2023,5167,Nebraska,Yellow,Transmission
+Kia,2021,48782,North Dakota,White,Transmission
+BMW,1996,14765,Missouri,Red,Tires
+Toyota,2021,36811,Hawaii,Gray,Suspension
+Mercedes,2018,3906,Arkansas,White,Engine
+Mercedes,1991,17417,New Jersey,Silver,Suspension
+Audi,2017,30732,Texas,Yellow,Exhaust
+Maserati,2008,15993,Montana,Blue,Interior
+Mercedes,1994,46042,Arkansas,Orange,Interior
+Kia,2013,10915,Alabama,Yellow,Transmission
+Lexus,2009,19529,New York,Orange,Tires
+Ford,2014,3018,Indiana,Silver,Exhaust
+Volvo,1993,11651,New York,Red,Tires
+Subaru,2013,38697,Louisiana,Gray,Exterior
+Chevrolet,1993,26952,Arkansas,Black,Tires
+BMW,1998,44097,Washington,Red,Transmission
+Toyota,2009,9439,South Dakota,White,Interior
+Porsche,2013,30734,Iowa,White,Suspension
+Mazda,2019,36815,Alabama,Green,Transmission
+Hyundai,2007,37229,Missouri,Green,Suspension
+Toyota,2017,28176,Washington,Blue,Brakes
+Porsche,2013,25805,Florida,Blue,Transmission
+Lexus,1996,37715,Michigan,Green,Interior
+Maserati,2000,43462,Arkansas,Blue,Exterior
+Honda,2005,34662,Massachusetts,Red,Transmission
+Porsche,2013,14678,South Dakota,Green,Brakes
+Mazda,1992,45547,Tennessee,Green,Exterior
+Mazda,2010,23846,Utah,Yellow,Suspension
+Nissan,2004,36311,Missouri,Silver,Engine
+Chevrolet,2001,7643,Connecticut,Silver,Exterior
+Kia,2003,29260,North Dakota,White,Suspension
+Maserati,2013,38337,Utah,Orange,Engine
+Nissan,2004,37424,Georgia,Blue,Exterior
+Volkswagen,1994,43504,Montana,Yellow,Tires
+Honda,2019,44859,West Virginia,Green,Exhaust
+Volkswagen,2005,49578,South Dakota,Gray,Tires
+Porsche,1999,20202,West Virginia,Orange,Engine
+Mazda,2009,7547,Maine,Silver,Brakes
+Honda,1990,16863,Indiana,Yellow,Exterior
+Subaru,1997,7833,Iowa,White,Brakes
+Volvo,1990,2143,Virginia,Green,Transmission
+Porsche,2015,16858,West Virginia,Blue,Tires
+Audi,2018,7648,Texas,White,Interior
+Porsche,2010,15015,Alaska,Orange,Engine
+Audi,2005,30594,Arizona,Silver,Suspension
+Nissan,2006,22992,Iowa,White,Interior
+Porsche,1990,42318,Iowa,Red,Exterior
+Ford,1997,24275,Minnesota,Yellow,Brakes
+Maserati,1992,6098,Ohio,Silver,Brakes
+Toyota,2021,19685,Wyoming,Blue,Transmission
+Audi,2007,11867,Colorado,Red,Suspension
+Nissan,2011,28747,Maine,Black,Tires
+Mazda,2001,14437,California,White,Brakes
+Chevrolet,1991,6174,Colorado,Blue,Transmission
+Ford,2014,23918,Georgia,White,Brakes
+Ford,2002,5692,South Dakota,Orange,Transmission
+Audi,2008,11027,Hawaii,Blue,Engine
+Maserati,2019,37512,Mississippi,Green,Suspension
+BMW,2013,12314,Idaho,Blue,Interior
+Honda,2006,5274,Washington,Black,Exterior
+Hyundai,2010,16033,Wyoming,Red,Exhaust
+Subaru,1997,13176,Washington,Silver,Interior
+Honda,1990,5401,Louisiana,Black,Engine
+Ford,1996,42124,Nebraska,Green,Transmission
+Honda,2011,11889,Florida,Blue,Transmission
+Hyundai,2009,34817,Louisiana,Gray,Suspension
+Chevrolet,2022,49026,Oklahoma,Green,Brakes
+Volvo,2018,41486,Vermont,Blue,Suspension
+Hyundai,2019,34054,Idaho,Silver,Transmission
+Volkswagen,2007,46980,Virginia,Gray,Exterior
+Audi,2009,18739,New York,White,Engine
+Toyota,2012,30958,Georgia,Green,Interior
+Chevrolet,2014,1039,Georgia,Gray,Exhaust
+Hyundai,2003,48912,Washington,Green,Brakes
+Toyota,1992,7924,New Hampshire,Green,Engine
+Porsche,1999,8021,Wyoming,Black,Tires
+Ford,1998,16655,Illinois,White,Suspension
+Nissan,1998,8266,Oregon,Green,Tires
+Kia,2000,38244,Virginia,Green,Engine
+Ford,2020,43551,Kansas,White,Suspension
+Mazda,1993,42755,Missouri,Black,Tires
+Volvo,1990,37532,Rhode Island,Yellow,Engine
+Mazda,2022,2371,Wyoming,Yellow,Transmission
+Honda,2019,35377,Iowa,Green,Tires
+Mazda,2022,19895,North Carolina,Silver,Interior
+Mazda,1998,47995,Connecticut,Orange,Exhaust
+Maserati,1998,12116,New Jersey,Black,Engine
+Mazda,2015,25554,Georgia,Blue,Exhaust
+Maserati,2021,37703,New Hampshire,White,Transmission
+Mercedes,2013,6496,Kentucky,Silver,Transmission
+Mercedes,1994,2522,Washington,Green,Tires
+Nissan,2009,11355,Missouri,Green,Suspension
+Mercedes,2005,9987,Arkansas,Blue,Brakes
+Kia,1999,40022,New Mexico,Green,Brakes
+Chevrolet,2013,16410,Arkansas,Yellow,Exhaust
+Kia,2014,16837,Virginia,White,Engine
+Lexus,2009,45566,Michigan,Silver,Exhaust
+BMW,1996,15685,Wisconsin,Red,Exterior
+Hyundai,2022,35549,Georgia,Gray,Suspension
+Maserati,1992,17513,Texas,White,Brakes
+Kia,2005,8553,Missouri,Red,Exhaust
+Hyundai,1996,31193,Massachusetts,Yellow,Transmission
+Hyundai,2015,16269,Wisconsin,Silver,Engine
+Lexus,2000,19155,Illinois,Black,Interior
+Hyundai,2010,39803,Arizona,Green,Exhaust
+Chevrolet,1995,22223,Michigan,Black,Suspension
+Mercedes,1999,35531,Alabama,White,Exhaust
+Mercedes,2022,46425,New York,Black,Brakes
+Kia,2001,28145,Arizona,Black,Transmission
+Volvo,2017,12841,Georgia,Gray,Transmission
+Audi,2000,41048,Massachusetts,Silver,Transmission
+Honda,2003,8530,New Hampshire,White,Suspension
+Audi,2009,31293,Vermont,Red,Tires
+Porsche,2007,36252,Idaho,White,Suspension
+Toyota,1999,1742,Pennsylvania,White,Brakes
+Honda,1994,21652,Connecticut,Green,Brakes
+Mazda,2010,11783,Utah,Yellow,Interior
+BMW,2023,5876,Ohio,Gray,Brakes
+Porsche,2007,32724,Maine,Yellow,Exterior
+BMW,1992,7061,Nevada,Red,Exterior
+Kia,2020,31243,Washington,Green,Transmission
+Porsche,1992,4585,South Carolina,Red,Tires
+Mercedes,2012,2171,Wisconsin,Black,Tires
+Ford,2010,40349,South Carolina,Silver,Engine
+Hyundai,2010,25346,Mississippi,Gray,Interior
+Nissan,1990,20972,Florida,Blue,Engine
+Ford,1998,8359,Oklahoma,Black,Interior
+Kia,1997,45712,South Carolina,White,Engine
+Mazda,2012,27138,Hawaii,Green,Suspension
+Lexus,2010,23475,Pennsylvania,Red,Transmission
+Lexus,2006,19592,Colorado,Red,Exhaust
+Volkswagen,2007,9388,Minnesota,Red,Interior
+Volkswagen,2008,29955,Oklahoma,White,Exterior
+Nissan,2005,13999,Mississippi,Yellow,Interior
+Honda,2002,35939,Nebraska,White,Tires
+Honda,1995,32140,Wisconsin,Black,Suspension
+Chevrolet,2004,18524,Missouri,White,Tires
+Nissan,2021,36014,Ohio,Blue,Engine
+Volkswagen,1999,5340,New Jersey,Red,Exhaust
+Volvo,2017,47829,Alabama,Black,Brakes
+Audi,2007,1217,South Carolina,Orange,Transmission
+Mercedes,2023,2885,Maryland,Green,Suspension
+Volvo,2010,23092,Oklahoma,Black,Exterior
+BMW,2015,49015,South Carolina,Black,Engine
+Volkswagen,2009,12889,South Carolina,White,Suspension
+Maserati,1997,34877,Hawaii,Yellow,Exhaust
+BMW,2022,44933,Wyoming,Red,Exhaust
+Hyundai,2022,32256,Utah,White,Tires
+Kia,2001,49186,New Mexico,Blue,Suspension
+Honda,1999,28649,South Carolina,Blue,Interior
+Mazda,2010,7558,Oregon,Silver,Suspension
+Porsche,2003,15303,Kentucky,Red,Engine
+Toyota,2019,10690,Washington,Orange,Suspension
+Porsche,2006,9022,Idaho,Yellow,Exterior
+Kia,2011,1541,Minnesota,Silver,Tires
+Subaru,2006,15558,Virginia,Yellow,Transmission
+Volvo,2011,37074,Vermont,Blue,Exhaust
+Porsche,2012,28701,New Hampshire,Green,Suspension
+Audi,1997,25658,Montana,Green,Brakes
+Subaru,2011,16627,Tennessee,Green,Interior
+Volkswagen,2020,44154,Idaho,Yellow,Brakes
+Volkswagen,2017,6275,North Dakota,Gray,Transmission
+Mercedes,1996,25431,North Carolina,Yellow,Exhaust
+Honda,2007,40351,Alaska,Black,Interior
+Chevrolet,1997,6709,North Dakota,Orange,Engine
+Toyota,2010,22548,Alaska,White,Suspension
+Subaru,1997,43781,South Carolina,Yellow,Suspension
+Subaru,2007,2736,Maryland,Red,Transmission
+Maserati,1994,46729,Virginia,Yellow,Engine
+Honda,1998,39474,New Jersey,Gray,Brakes
+Mazda,2017,14708,Mississippi,Black,Brakes
+Ford,2019,39372,Alabama,Green,Engine
+Ford,1996,7716,Alabama,Silver,Suspension
+BMW,2023,28144,New Hampshire,Black,Interior
+Audi,1992,29318,South Dakota,Orange,Brakes
+Volkswagen,2015,31616,Florida,White,Tires
+Subaru,2004,34388,Delaware,Blue,Suspension
+BMW,2018,15792,Maryland,Black,Engine
+Hyundai,2010,10208,North Carolina,Green,Transmission
+Porsche,2017,42712,Mississippi,Orange,Brakes
+Porsche,1997,14925,West Virginia,White,Tires
+Toyota,2015,49420,Maine,Yellow,Transmission
+Lexus,2011,31337,Arkansas,Silver,Exhaust
+Audi,2020,6796,Wisconsin,Red,Transmission
+Honda,1998,13754,Vermont,Blue,Transmission
+Maserati,1995,10274,Nevada,Silver,Suspension
+Chevrolet,2013,47777,Mississippi,Orange,Suspension
+Audi,2022,35363,Pennsylvania,Red,Tires
+Audi,1991,22955,Delaware,Gray,Tires
+Ford,2001,3712,Alaska,Gray,Transmission
+Maserati,2021,36183,New Hampshire,Black,Suspension
+Subaru,2002,38656,North Carolina,Silver,Brakes
+Ford,2000,14353,Georgia,Blue,Exhaust
+Volvo,2004,31188,Arizona,Green,Tires
+Toyota,2017,14027,Oregon,White,Brakes
+Mazda,2006,7648,Arkansas,Green,Exterior
+Volvo,2007,25908,Washington,White,Interior
+Audi,2009,17139,Alaska,Gray,Transmission
+Chevrolet,1998,32681,Louisiana,Green,Engine
+Mazda,2006,38192,Michigan,White,Brakes
+Nissan,2011,47786,Massachusetts,Gray,Interior
+Mazda,2007,8533,North Dakota,Green,Transmission
+Kia,2005,32859,Virginia,White,Tires
+Maserati,1990,40349,Oklahoma,Silver,Tires
+BMW,2002,24226,Alabama,Black,Exterior
+Chevrolet,2013,19208,Idaho,Orange,Suspension
+Kia,2002,14855,New Jersey,Red,Exterior
+Nissan,1990,37283,Minnesota,Black,Suspension
+BMW,2023,29365,Kentucky,White,Tires
+Volkswagen,2005,11900,North Dakota,Yellow,Transmission
+BMW,2013,28852,Virginia,Orange,Suspension
+Mercedes,2013,7571,Tennessee,White,Exhaust
+Hyundai,2020,48427,Florida,Black,Tires
+Volvo,2008,42424,Idaho,Green,Tires
+Hyundai,1994,25821,Tennessee,Yellow,Transmission
+Maserati,2011,28197,North Carolina,Green,Transmission
+BMW,2006,5541,New York,Silver,Exterior
+Honda,2018,8668,Florida,Silver,Exhaust
+Chevrolet,1999,37365,New Jersey,Red,Brakes
+Maserati,1991,30051,Wisconsin,Yellow,Interior
+Maserati,2009,44207,Ohio,Orange,Engine
+Toyota,1990,12021,Utah,Blue,Brakes
+Toyota,2018,8185,Missouri,Orange,Brakes
+Kia,1995,17040,Arkansas,Orange,Exterior
+Volvo,1990,28664,New Jersey,Yellow,Exhaust
+Chevrolet,2020,8783,West Virginia,Red,Transmission
+Mercedes,2022,30631,Kansas,Red,Engine
+Mercedes,2002,20182,New Hampshire,Silver,Suspension
+Maserati,2015,10628,Massachusetts,Black,Exhaust
+Toyota,2008,41626,Utah,Black,Brakes
+Honda,1998,21474,Oregon,Silver,Transmission
+Lexus,1992,6366,Oklahoma,Orange,Interior
+Volvo,2004,47571,South Dakota,White,Brakes
+Chevrolet,2023,28898,Arkansas,Red,Exhaust
+Ford,2009,33866,Ohio,Red,Engine
+BMW,2006,43062,Alaska,Silver,Suspension
+Chevrolet,1999,19439,Arizona,Silver,Engine
+BMW,2017,46877,Kentucky,Red,Suspension
+Maserati,2013,45938,Alabama,Silver,Transmission
+Maserati,2012,7444,Indiana,Yellow,Interior
+BMW,2007,25808,Virginia,Silver,Interior
+Volvo,2007,3157,Nevada,Silver,Brakes
+Ford,2006,12156,West Virginia,White,Interior
+Porsche,1994,9829,Michigan,Orange,Brakes
+Ford,2015,38763,New York,Yellow,Engine
+Volkswagen,1999,47254,Michigan,Yellow,Tires
+Mazda,2003,8735,Arizona,Gray,Brakes
+Volvo,1994,12149,Delaware,Red,Exhaust
+Maserati,1994,32290,North Carolina,Red,Tires
+Toyota,2011,45081,Mississippi,Gray,Interior
+Honda,2012,47437,Kansas,Blue,Brakes
+Volvo,2019,7651,North Carolina,Yellow,Tires
+Audi,2020,39706,North Dakota,Gray,Exhaust
+Kia,1999,15251,Idaho,Green,Transmission
+Maserati,2007,11113,Illinois,Orange,Suspension
+Nissan,2003,49675,West Virginia,White,Brakes
+Hyundai,2017,28848,New Jersey,Black,Engine
+Toyota,1991,31447,Wisconsin,Silver,Brakes
+BMW,2013,23908,Wyoming,Yellow,Interior
+Kia,2023,36052,Montana,Silver,Engine
+Volkswagen,2023,27129,Nevada,Silver,Interior
+Mercedes,2021,22690,Nebraska,Green,Transmission
+Volkswagen,2020,11957,Alabama,Gray,Brakes
+Ford,2016,11701,New Mexico,White,Exhaust
+Toyota,2001,49939,Iowa,Black,Engine
+Chevrolet,2001,14606,Nevada,Silver,Engine
+Ford,2000,12345,Maine,Orange,Suspension
+Honda,1994,8032,Maryland,White,Brakes
+Porsche,1993,15389,Colorado,Green,Exterior
+Porsche,1994,39460,Michigan,Silver,Transmission
+Kia,1994,47525,Hawaii,Black,Suspension
+Mazda,2023,47404,Virginia,Gray,Interior
+Hyundai,2011,34324,Alabama,Yellow,Transmission
+Volvo,2005,5771,Connecticut,Green,Exhaust
+Maserati,2012,31058,West Virginia,Yellow,Brakes
+Ford,2022,24616,Virginia,White,Interior
+Audi,2022,35426,New Hampshire,White,Tires
+Porsche,2012,31084,Minnesota,Blue,Transmission
+Hyundai,2019,24786,Wisconsin,Yellow,Brakes
+Toyota,1991,24487,Connecticut,Orange,Transmission
+Maserati,2013,32776,New York,Blue,Transmission
+Mazda,1993,8265,California,Black,Engine
+Chevrolet,2006,42764,New Mexico,Black,Brakes
+Mazda,1999,42392,West Virginia,Green,Interior
+Mercedes,1990,24793,Connecticut,Blue,Transmission
+Nissan,2002,19806,Tennessee,Yellow,Interior
+Subaru,2019,36127,Nevada,Silver,Engine
+Volkswagen,1998,29901,Oregon,White,Interior
+Volkswagen,2014,31321,Hawaii,Yellow,Exterior
+Volkswagen,2019,27343,New Mexico,Black,Exhaust
+Nissan,2002,44132,Massachusetts,Gray,Exhaust
+Nissan,1998,31446,Rhode Island,Green,Exhaust
+Porsche,1995,40972,New Hampshire,Orange,Transmission
+Porsche,1990,46326,Pennsylvania,Red,Tires
+Kia,2001,32764,Iowa,Green,Interior
+Mercedes,2016,19664,Vermont,Blue,Exhaust
+Volkswagen,1990,28659,South Carolina,White,Brakes
+Nissan,2012,7168,Washington,Silver,Exterior
+Volkswagen,2002,11211,Tennessee,Gray,Interior
+Mazda,1998,25998,West Virginia,Green,Exhaust
+BMW,2001,24057,Oklahoma,Silver,Interior
+Honda,2001,29752,South Carolina,Green,Tires
+Nissan,1999,23360,Alaska,White,Exhaust
+Chevrolet,2018,1315,New York,Yellow,Brakes
+BMW,2006,15287,Maryland,Gray,Interior
+Toyota,2018,6329,Hawaii,Gray,Engine
+Honda,1997,33314,Florida,Black,Brakes
+Volvo,2016,5524,Texas,Black,Exhaust
+Hyundai,1990,14087,Florida,Silver,Engine
+Volvo,2018,6004,Maryland,Yellow,Interior
+Porsche,1997,33764,Oklahoma,Orange,Tires
+Subaru,1997,12774,Vermont,Orange,Brakes
+BMW,1998,35940,Kentucky,Gray,Tires
+Volkswagen,2014,33902,Michigan,Silver,Interior
+Kia,1999,6983,Tennessee,Blue,Brakes
+Kia,2007,34609,North Dakota,Yellow,Exhaust
+Nissan,1998,40768,Georgia,Blue,Engine
+Hyundai,1994,42310,Massachusetts,Gray,Engine
+Mazda,2005,26913,Nevada,White,Engine
+Maserati,1997,24093,Washington,Green,Transmission
+Subaru,1990,46432,Wyoming,Blue,Engine
+Mercedes,1990,9717,Indiana,Silver,Engine
+BMW,1991,44878,Colorado,Yellow,Tires
+Chevrolet,2015,1910,Delaware,Green,Engine
+BMW,2011,8367,Illinois,Yellow,Tires
+Lexus,2018,1975,Kansas,Yellow,Exterior
+Nissan,2009,21844,Tennessee,Silver,Suspension
+Lexus,2019,42850,New York,White,Tires
+Volkswagen,2015,12542,Connecticut,White,Interior
+Volkswagen,2017,49210,Vermont,White,Suspension
+Honda,2016,24857,Maryland,Orange,Exterior
+Mazda,2021,42868,Oklahoma,Black,Suspension
+Toyota,2002,10545,Delaware,Green,Engine
+Audi,2011,48125,Florida,Black,Transmission
+Honda,2012,22445,Nevada,Black,Suspension
+Ford,2022,36140,Maryland,White,Exterior
+Maserati,2013,36294,Texas,Green,Interior
+Mazda,1993,42486,New Jersey,White,Brakes
+BMW,2010,22743,North Dakota,Gray,Exterior
+Volvo,1990,5846,Hawaii,Red,Transmission
+Hyundai,2005,27041,Maryland,White,Suspension
+Kia,2021,25475,Maine,Yellow,Transmission
+Maserati,2004,40479,Oklahoma,Black,Tires
+Kia,2020,27182,Nevada,Black,Tires
+Nissan,1992,41882,Utah,White,Interior
+BMW,2010,13030,Virginia,White,Brakes
+Toyota,2017,6490,Pennsylvania,Gray,Transmission
+Ford,2022,5124,Kentucky,Orange,Exterior
+Hyundai,2022,25908,Kansas,Gray,Suspension
+Volkswagen,2013,44484,California,Red,Brakes
+Maserati,2001,11079,Arizona,White,Exhaust
+Volvo,2015,44977,Oregon,Black,Interior
+Chevrolet,2018,13617,Texas,Silver,Tires
+Chevrolet,2018,44865,Rhode Island,Green,Interior
+Maserati,2003,23373,Mississippi,Silver,Interior
+BMW,2010,43812,Wisconsin,Black,Transmission
+Mazda,1994,36200,West Virginia,Gray,Brakes
+Porsche,2007,4599,Alaska,Blue,Brakes
+Subaru,1997,11577,Ohio,Red,Exterior
+Chevrolet,2017,1257,Ohio,Gray,Exhaust
+Volkswagen,2013,22948,West Virginia,Orange,Brakes
+Hyundai,2005,23933,Oregon,Yellow,Suspension
+Ford,1995,9571,Alabama,Silver,Brakes
+Porsche,2021,2579,New Jersey,Red,Transmission
+Hyundai,2019,12562,Alaska,Gray,Engine
+Subaru,2009,2659,Michigan,Blue,Interior
+Ford,2012,21637,North Carolina,Black,Brakes
+Ford,2023,39472,Colorado,Orange,Brakes
+Mercedes,2000,41961,Rhode Island,White,Exterior
+Nissan,1990,46802,Florida,Silver,Engine
+Toyota,2001,28602,Massachusetts,Black,Suspension
+Mazda,1997,17857,Georgia,Yellow,Engine
+Volkswagen,2023,37996,Nevada,Gray,Interior
+Subaru,2013,17649,Michigan,Red,Tires
+Kia,2021,15333,Missouri,Orange,Interior
+Kia,2011,36448,Mississippi,Yellow,Exhaust
+Ford,2023,21354,Mississippi,Yellow,Engine
+Nissan,2023,23657,Illinois,Yellow,Tires
+Toyota,1998,30346,Arkansas,Yellow,Tires
+Maserati,2007,28919,Maryland,Red,Engine
+BMW,2008,48774,Alabama,Red,Exhaust
+Hyundai,1996,26823,New Hampshire,Black,Suspension
+Chevrolet,2022,10171,Massachusetts,Gray,Exterior
+Hyundai,2022,21190,New Hampshire,Orange,Exhaust
+Ford,2006,30716,Nevada,Black,Transmission
+Lexus,2004,11236,Colorado,Orange,Transmission
+Chevrolet,2006,32360,Nebraska,Silver,Engine
+Kia,2001,29046,Arizona,Yellow,Tires
+Hyundai,2003,15066,Nevada,Blue,Exhaust
+Toyota,2002,22454,South Carolina,Black,Tires
+Honda,2009,14614,Arizona,Black,Engine
+Volkswagen,1996,41328,Wisconsin,Red,Engine
+Mercedes,2021,47137,Delaware,Black,Interior
+Chevrolet,2008,30288,Pennsylvania,Silver,Suspension
+Porsche,2014,9244,Texas,Orange,Brakes
+Ford,2002,41585,Hawaii,Gray,Engine
+Kia,2023,24059,West Virginia,White,Suspension
+Audi,2008,38014,Minnesota,Silver,Transmission
+Kia,2011,11777,Minnesota,Red,Suspension
+Lexus,1994,13662,North Carolina,Red,Exterior
+Maserati,2013,36758,Oregon,Black,Brakes
+Lexus,1999,42982,Utah,Black,Engine
+Mazda,1990,15472,Maine,Yellow,Engine
+Maserati,2013,20353,Arkansas,Yellow,Interior
+Nissan,1993,11459,California,Silver,Tires
+Hyundai,1991,36262,Michigan,Black,Exterior
+Subaru,2020,1331,Missouri,Black,Engine
+Maserati,2008,35840,Wyoming,Black,Exhaust
+Toyota,2010,25383,Kentucky,Silver,Exterior
+Maserati,1994,30764,New Jersey,Red,Engine
+Mazda,2019,25776,Illinois,Yellow,Engine
+Lexus,1999,48259,Ohio,Gray,Brakes
+Nissan,2018,16592,Wisconsin,Orange,Interior
+Mercedes,2015,5289,Idaho,White,Interior
+Honda,2001,47777,Hawaii,White,Brakes
+Lexus,2017,2265,New Jersey,Black,Tires
+Porsche,1993,32022,Washington,Blue,Tires
+Nissan,2001,49518,South Carolina,Red,Tires
+Volvo,1994,43602,Rhode Island,Silver,Brakes
+Subaru,2018,21162,Idaho,Silver,Engine
+Kia,2019,45810,Indiana,Green,Transmission
+Ford,1998,13717,Kansas,Black,Interior
+Subaru,2003,31801,Texas,Yellow,Tires
+Ford,2023,9368,Maine,Silver,Interior
+Audi,1997,15842,Wyoming,Silver,Tires
+Honda,2008,25499,Ohio,Yellow,Engine
+Toyota,2006,40267,Montana,Green,Brakes
+Lexus,2004,15391,West Virginia,White,Brakes
+BMW,1999,31279,Nebraska,Yellow,Tires
+Volvo,1995,11386,Connecticut,Black,Engine
+Lexus,1994,34957,Washington,Gray,Tires
+Ford,1996,49269,Mississippi,Yellow,Engine
+Mazda,2005,14489,California,White,Engine
+Lexus,2015,27217,Idaho,Black,Interior
+Maserati,2020,10940,Virginia,White,Transmission
+Mercedes,1995,38618,Washington,Red,Exterior
+Honda,2005,45691,Oregon,Red,Exterior
+Mercedes,1990,3343,Alabama,Gray,Transmission
+Volvo,2004,45043,Rhode Island,Yellow,Brakes
+Porsche,1993,2263,Rhode Island,Silver,Engine
+Hyundai,2020,3577,California,Yellow,Exhaust
+Hyundai,2007,9109,New Hampshire,Silver,Exterior
+Toyota,2002,11083,Wisconsin,Silver,Tires
+Mazda,1998,23200,Louisiana,Orange,Transmission
+Subaru,2010,2676,Florida,White,Tires
+Audi,1993,48227,Florida,Yellow,Transmission
+Nissan,1994,10581,Maine,Gray,Engine
+Mercedes,2023,17214,Hawaii,Green,Transmission
+Hyundai,1990,46394,New Jersey,Green,Transmission
+Volkswagen,1997,29822,Michigan,White,Engine
+Subaru,2019,45799,Iowa,Green,Engine
+Chevrolet,1994,12399,Wyoming,Blue,Brakes
+Porsche,2013,35332,North Carolina,Black,Brakes
+Volvo,2008,40953,Maine,Green,Engine
+Kia,1993,9166,South Carolina,Silver,Exhaust
+Toyota,1993,12831,Indiana,White,Engine
+Chevrolet,2022,38008,Florida,White,Engine
+BMW,2003,10921,New York,Gray,Transmission
+Porsche,2005,43146,Nevada,Blue,Interior
+Mercedes,2019,12756,Colorado,Orange,Brakes
+Subaru,2015,1389,New Hampshire,Blue,Interior
+Mazda,2008,47848,Minnesota,Blue,Exterior
+Hyundai,2007,27873,California,Yellow,Brakes
+BMW,1994,32221,New Jersey,Yellow,Exhaust
+Maserati,1992,35155,New Mexico,Black,Transmission
+Subaru,2001,31365,Maryland,Blue,Exhaust
+Subaru,2004,38280,Wyoming,Yellow,Interior
+Subaru,1992,31535,Arkansas,Blue,Suspension
+Honda,2001,9409,Indiana,Gray,Transmission
+Subaru,2001,27555,Connecticut,Yellow,Brakes
+Porsche,2014,36348,New Mexico,Red,Tires
+Chevrolet,2016,41555,Pennsylvania,Silver,Suspension
+Toyota,2001,4249,Virginia,Blue,Exterior
+Chevrolet,2014,20063,Virginia,Black,Exhaust
+Volkswagen,1994,48793,Delaware,Silver,Transmission
+Audi,1994,46677,Wyoming,Orange,Exhaust
+Mercedes,2005,24747,New Mexico,Blue,Engine
+Audi,2012,45701,Illinois,Blue,Brakes
+BMW,2020,29227,Wisconsin,Silver,Tires
+Volkswagen,1994,7968,Michigan,Red,Exterior
+Volkswagen,2017,21696,Utah,Blue,Exterior
+Lexus,1991,37467,Connecticut,White,Suspension
+Honda,1993,13313,Nevada,Yellow,Tires
+Audi,2023,30093,New Hampshire,Orange,Interior
+Subaru,1991,48973,Colorado,Blue,Interior
+Hyundai,2003,13378,Idaho,Gray,Tires
+BMW,1991,40974,Delaware,White,Suspension
+Volvo,1994,17486,Alaska,White,Exhaust
+Ford,1993,41533,Nebraska,Blue,Interior
+Honda,2003,19650,Kansas,Green,Exterior
+Subaru,1999,48516,Ohio,Red,Engine
+Volkswagen,2014,47538,Nevada,Yellow,Transmission
+Mazda,1994,46107,Hawaii,Gray,Transmission
+Audi,2018,18460,Colorado,White,Engine
+Porsche,1995,5054,Nevada,White,Transmission
+Maserati,2018,20570,Colorado,Yellow,Suspension
+BMW,2013,31078,West Virginia,White,Engine
+Kia,2022,10137,Delaware,Green,Engine
+Subaru,1999,26505,Mississippi,Yellow,Brakes
+Ford,2019,28254,Virginia,Orange,Interior
+Honda,2013,18818,Ohio,Red,Brakes
+Volvo,1999,16654,Indiana,Red,Suspension
+Volkswagen,2011,46433,Kentucky,Gray,Exhaust
+Hyundai,1994,47603,Connecticut,Gray,Interior
+Honda,2011,17582,North Carolina,Blue,Exhaust
+Lexus,1993,27095,Michigan,Orange,Suspension
+Audi,1990,10592,Hawaii,Gray,Transmission
+Volkswagen,2008,49661,Maryland,Silver,Brakes
+Porsche,1999,37375,Washington,Green,Brakes
+Volvo,2021,43077,Ohio,Gray,Engine
+Hyundai,1991,30118,Virginia,Blue,Exhaust
+Porsche,1998,28425,Kansas,Gray,Exhaust
+Porsche,1995,34103,Indiana,Green,Brakes
+Mazda,2006,14068,Colorado,Black,Engine
+Lexus,2009,21429,Vermont,Red,Suspension
+BMW,2002,2682,Oregon,White,Transmission
+Ford,2004,38271,Missouri,Gray,Exterior
+Honda,1990,45888,Maine,Silver,Tires
+Nissan,2011,9632,Colorado,Yellow,Brakes
+Mazda,2009,17004,Georgia,White,Tires
+Volkswagen,2005,17178,Alabama,Blue,Brakes
+Subaru,2000,6810,New Jersey,Gray,Tires
+Porsche,2005,12885,Hawaii,Gray,Exterior
+Hyundai,2002,43117,Alabama,Orange,Interior
+BMW,1992,41079,Mississippi,Red,Brakes
+BMW,2015,1532,Kansas,White,Exhaust
+Volkswagen,1998,14794,Utah,Green,Exterior
+Audi,1996,13876,Kansas,Red,Transmission
+BMW,2006,43081,Nevada,Green,Transmission
+Volkswagen,2005,26828,Oregon,Blue,Tires
+Chevrolet,1998,9421,Ohio,Yellow,Engine
+Maserati,1995,22123,Louisiana,Green,Brakes
+Porsche,1994,5254,Virginia,Silver,Transmission
+Maserati,2007,41709,Indiana,Gray,Engine
+Lexus,1990,19509,Alaska,Gray,Exhaust
+Porsche,1994,21217,Montana,Gray,Brakes
+Honda,2006,7666,Oregon,Gray,Transmission
+Kia,2017,31064,Missouri,Green,Interior
+Nissan,1990,1448,Alaska,Orange,Tires
+Ford,1990,18847,Hawaii,Gray,Engine
+Honda,2022,12979,New Jersey,Black,Exterior
+Kia,2012,13456,Maine,Silver,Interior
+Toyota,1992,36734,Tennessee,Silver,Tires
+Lexus,2013,25309,Hawaii,Yellow,Tires
+Volkswagen,1993,44521,North Carolina,Yellow,Exhaust
+Subaru,2010,47538,West Virginia,Red,Interior
+Maserati,2006,15557,Idaho,Red,Tires
+Audi,2006,9841,Florida,Black,Tires
+Nissan,1994,1748,North Carolina,Yellow,Exhaust
+Hyundai,2020,22112,Idaho,Silver,Tires
+Mazda,2010,19308,South Carolina,Silver,Transmission
+Volkswagen,1993,17758,New Mexico,Gray,Interior
+Toyota,2011,6470,Michigan,Red,Suspension
+Subaru,1998,7273,Mississippi,Red,Interior
+Honda,1991,39606,Texas,Green,Interior
+Kia,2013,32384,Massachusetts,Silver,Engine
+Honda,2005,5268,Montana,Black,Exhaust
+Honda,2019,29289,Connecticut,Red,Interior
+Kia,2012,10017,Ohio,Green,Exterior
+Toyota,2000,8123,Montana,Black,Interior
+Chevrolet,2002,36320,South Carolina,White,Suspension
+BMW,1995,1225,Utah,Blue,Transmission
+Mazda,2010,11750,Rhode Island,White,Suspension
+Ford,2009,27671,North Carolina,Blue,Suspension
+BMW,2005,49669,Florida,Gray,Engine
+Mercedes,1991,8209,Delaware,Green,Brakes
+Ford,1997,2484,Arkansas,Black,Transmission
+Kia,2021,19630,Iowa,Silver,Interior
+Kia,1997,8837,Texas,Gray,Exhaust
+Audi,2003,2679,Iowa,Silver,Brakes
+Porsche,2003,44945,Washington,Blue,Tires
+BMW,2001,19064,Washington,Green,Exterior
+Toyota,1999,16514,South Carolina,Gray,Transmission
+Ford,1990,32298,Mississippi,White,Exhaust
+Mazda,2010,49825,Ohio,Green,Exterior
+Porsche,2014,40814,Minnesota,Blue,Suspension
+Porsche,2019,35109,Illinois,White,Tires
+Volvo,2011,15693,Massachusetts,Orange,Engine
+Ford,2006,8937,Arkansas,White,Suspension
+Lexus,2001,14833,Idaho,Blue,Engine
+Subaru,2017,43846,Washington,Silver,Tires
+Subaru,2022,25466,Oklahoma,White,Exhaust
+Volvo,1999,26826,Massachusetts,Black,Interior
+Nissan,2008,13430,North Dakota,Black,Exterior
+Honda,1997,1535,West Virginia,Silver,Exhaust
+Mercedes,2016,20236,Minnesota,Blue,Exhaust
+Toyota,2017,7266,South Dakota,Black,Exhaust
+Mercedes,2022,45784,Georgia,Yellow,Interior
+Kia,2023,30212,Arizona,Yellow,Interior
+Volkswagen,2002,39520,Kansas,Yellow,Tires
+Lexus,2005,15451,Arkansas,White,Exterior
+Toyota,2016,18729,Nevada,Orange,Engine
+Subaru,2001,37242,New York,Gray,Engine
+Chevrolet,2005,16184,Wisconsin,Green,Interior
+Hyundai,2022,15798,Wyoming,Green,Brakes
+Hyundai,2004,42262,Pennsylvania,Blue,Brakes
+Toyota,2011,1484,New York,Red,Brakes
+Toyota,2011,29804,Wyoming,Red,Interior
+Ford,1990,26792,Texas,Yellow,Exhaust
+Toyota,1998,19535,Arkansas,Orange,Engine
+Nissan,2012,44300,Nevada,Gray,Interior
+Volvo,2010,28783,Maryland,Orange,Transmission
+Mercedes,1994,32925,Utah,Green,Exhaust
+Volkswagen,1996,46742,New Jersey,Black,Exterior
+Toyota,2018,40937,Nevada,Blue,Exterior
+Volkswagen,2022,25117,Mississippi,Green,Engine
+Kia,2004,25950,Colorado,Yellow,Brakes
+Porsche,2018,2111,Pennsylvania,Blue,Exhaust
+Volvo,2011,25396,Michigan,Silver,Brakes
+Lexus,2009,45607,Vermont,Black,Brakes
+Toyota,2022,10152,Nebraska,Orange,Exterior
+Toyota,1996,20869,Kentucky,Blue,Engine
+Honda,1995,33457,West Virginia,Silver,Engine
+Hyundai,2003,34441,South Dakota,Black,Interior
+Mazda,2011,16489,South Dakota,Orange,Brakes
+Audi,2017,32973,Alabama,Gray,Tires
+Honda,2018,7463,North Carolina,Red,Exhaust
+Subaru,2019,9348,South Dakota,Gray,Tires
+Honda,2002,28682,Kentucky,Orange,Exterior
+Lexus,2017,22015,Oregon,Red,Suspension
+Honda,2006,35233,Nevada,Green,Engine
+Honda,2011,20365,Nebraska,Orange,Exterior
+Chevrolet,2009,29670,Louisiana,Red,Tires
+Nissan,2021,12669,Alaska,Black,Transmission
+Maserati,1995,44534,Maine,Yellow,Exterior
+Audi,2017,44468,Wisconsin,Silver,Suspension
+Chevrolet,2013,36732,New Hampshire,Blue,Tires
+Honda,2012,22859,Delaware,White,Interior
+Mazda,2011,47452,Montana,Orange,Interior
+BMW,2000,44486,New Jersey,Blue,Suspension
+Volvo,2009,7362,Vermont,Orange,Brakes
+Audi,2013,21551,Michigan,Yellow,Brakes
+Mercedes,2011,42398,Alabama,Yellow,Interior
+Nissan,2003,29173,North Dakota,Gray,Brakes
+BMW,2000,17849,New Jersey,Red,Engine
+Chevrolet,1992,43593,Kentucky,Black,Exterior
+Chevrolet,2002,3549,Georgia,Silver,Suspension
+Hyundai,2017,1688,Florida,Gray,Exhaust
+Audi,2005,3019,Connecticut,Silver,Tires
+Volkswagen,2019,28307,Kansas,Silver,Transmission
+Mazda,2021,7150,Indiana,Silver,Interior
+Mazda,2006,24221,California,Yellow,Tires
+Mazda,1999,30863,Michigan,Silver,Exhaust
+Volvo,2000,20075,South Dakota,Yellow,Transmission
+Maserati,2002,1026,New York,Yellow,Engine
+Ford,2014,40995,Missouri,Red,Brakes
+Subaru,2004,34206,Virginia,Black,Tires
+Nissan,2009,13482,Michigan,White,Tires
+Kia,2017,46436,Nebraska,Yellow,Suspension
+Chevrolet,2003,16868,Massachusetts,White,Brakes
+BMW,2016,49612,Arkansas,Blue,Exterior
+Toyota,2008,27550,Montana,Gray,Brakes
+Volvo,2008,26857,Colorado,Silver,Suspension
+Audi,2014,41725,Oregon,Gray,Interior
+Audi,2008,18759,Florida,Yellow,Exterior
+Chevrolet,1993,9242,Florida,White,Transmission
+Maserati,2011,42189,California,Yellow,Tires
+Hyundai,1992,41795,Pennsylvania,White,Tires
+Kia,2015,36002,Alaska,Yellow,Suspension
+Volkswagen,2002,46085,South Dakota,Blue,Tires
+Audi,2009,21526,North Carolina,Orange,Transmission
+Chevrolet,1991,20615,Alabama,Blue,Brakes
+Ford,2001,11769,North Dakota,Red,Exhaust
+Mercedes,2007,9352,New Jersey,Red,Interior
+Toyota,2019,9489,Tennessee,Green,Exterior
+Maserati,2015,33492,Iowa,Blue,Brakes
+Mercedes,2013,48480,Louisiana,Gray,Brakes
+Porsche,2008,6979,South Carolina,Orange,Brakes
+Maserati,2019,30286,Rhode Island,Silver,Suspension
+Volkswagen,2021,15762,North Carolina,Green,Interior
+Mazda,2011,41405,Delaware,Gray,Engine
+Lexus,1998,46739,Texas,Gray,Suspension
+Maserati,2007,13788,Oregon,White,Transmission
+Toyota,2004,38869,Louisiana,Red,Transmission
+Toyota,1996,37961,Minnesota,Blue,Brakes
+Porsche,2002,44186,Oregon,Blue,Exhaust
+Lexus,2017,18198,Maryland,Black,Suspension
+Volkswagen,2014,1300,Kansas,Orange,Exterior
+Volkswagen,2019,1590,Ohio,Black,Interior
+Hyundai,2002,49403,Oregon,Green,Suspension
+Audi,1997,39388,South Dakota,Gray,Exhaust
+Porsche,2011,28281,Ohio,Red,Engine
+BMW,1990,12783,Louisiana,Gray,Exterior
+Mercedes,2002,35610,Georgia,Green,Transmission
+Toyota,1994,44214,West Virginia,Black,Interior
+BMW,2017,22584,Nevada,Red,Suspension
+Ford,2012,39220,Michigan,Blue,Interior
+Toyota,1998,3406,Pennsylvania,Black,Tires
+Nissan,2016,19231,Minnesota,Orange,Transmission
+Chevrolet,2023,6759,Nevada,Silver,Exterior
+Nissan,1991,31187,Texas,Silver,Tires
+Subaru,2010,20490,Louisiana,Silver,Exterior
+Mazda,2005,47222,Illinois,Red,Brakes
+Lexus,2010,26408,Minnesota,Orange,Engine
+Chevrolet,1997,28367,Arizona,Black,Engine
+Nissan,1990,1895,Nevada,Orange,Brakes
+Honda,2007,18935,Missouri,White,Exterior
+Toyota,1997,43751,New Mexico,Yellow,Suspension
+Mercedes,1995,47211,Kansas,Red,Exhaust
+Hyundai,1992,23851,Massachusetts,Black,Exhaust
+Hyundai,1994,22114,Ohio,Red,Suspension
+Mazda,2009,5068,New Jersey,Yellow,Transmission
+Volvo,1992,4105,Delaware,Green,Suspension
+Lexus,1990,44185,Maryland,Silver,Exterior
+Volvo,1993,45889,New Mexico,Black,Exterior
+Subaru,2023,32569,New York,Red,Engine
+Lexus,1990,15026,Wyoming,Black,Suspension
+Porsche,2020,3477,Virginia,Blue,Exterior
+BMW,2010,3897,Connecticut,Red,Brakes
+Porsche,1990,10446,Oregon,Gray,Tires
+Toyota,2011,31833,Minnesota,Silver,Transmission
+Mercedes,2012,45061,Oregon,Silver,Interior
+Volvo,2003,6950,Missouri,Silver,Brakes
+Hyundai,1992,40640,Missouri,Orange,Exterior
+Mazda,2013,38879,Missouri,Gray,Tires
+Mercedes,2002,48454,Alaska,Red,Tires
+Hyundai,2011,41872,Missouri,Blue,Engine
+Audi,1993,36212,New York,Orange,Exhaust
+Porsche,1994,3855,Rhode Island,Gray,Transmission
+Maserati,2019,40419,Pennsylvania,Black,Exterior
+Ford,2012,46832,Alabama,Red,Exterior
+Mercedes,2003,44832,Tennessee,Green,Brakes
+Hyundai,1993,44146,New Jersey,Blue,Tires
+Porsche,2018,36603,Maine,Orange,Transmission
+Volvo,2012,31971,Oklahoma,Black,Brakes
+Toyota,2023,1838,Vermont,Black,Exhaust
+BMW,2009,9383,Maryland,Black,Engine
+Maserati,2023,24904,New Jersey,Blue,Suspension
+Mercedes,1999,45265,Virginia,Orange,Exhaust
+Kia,2018,18576,New Jersey,Black,Transmission
+Honda,1999,30891,Utah,Blue,Brakes
+Ford,2003,14053,Texas,Red,Brakes
+Volkswagen,2003,28676,Wyoming,Blue,Exhaust
+Nissan,2013,44083,Wyoming,Yellow,Interior
+Mazda,2019,6824,Connecticut,Yellow,Tires
+Maserati,1999,49340,Iowa,Black,Engine
+Toyota,1994,23060,Kansas,Silver,Suspension
+Volkswagen,1992,35626,Mississippi,Silver,Suspension
+Subaru,1997,38146,South Carolina,Black,Suspension
+Mazda,2009,14547,New Hampshire,Blue,Interior
+Mazda,1990,9148,Kentucky,Blue,Interior
+Subaru,2020,22547,South Carolina,Blue,Exhaust
+Honda,2006,19177,Minnesota,Yellow,Exterior
+Audi,2000,10805,Kansas,Black,Interior
+Subaru,1994,46742,New Hampshire,Red,Exhaust
+Chevrolet,1994,26857,Oregon,Yellow,Tires
+Ford,2004,35005,Georgia,Gray,Engine
+Subaru,2012,16188,Indiana,Red,Interior
+Chevrolet,1999,23281,Washington,Blue,Exhaust
+Honda,2000,24421,Colorado,Silver,Engine
+Audi,2021,36387,Illinois,White,Transmission
+Subaru,2011,10595,Nevada,Blue,Engine
+Kia,2019,4301,Connecticut,Green,Tires
+Audi,2002,29873,Rhode Island,Gray,Exhaust
+Lexus,2012,39000,Arizona,Gray,Brakes
+Honda,2020,42455,South Carolina,Silver,Brakes
+Kia,2012,3913,Minnesota,Gray,Interior
+Volvo,1993,42872,North Dakota,Blue,Suspension
+Hyundai,1990,21557,Mississippi,Red,Interior
+Subaru,2004,40538,Arkansas,Blue,Brakes
+Hyundai,2013,10362,New Hampshire,Yellow,Suspension
+Honda,2020,22159,Oklahoma,Yellow,Suspension
+Lexus,2009,7600,Maryland,White,Exhaust
+Honda,1994,5269,Mississippi,Green,Exterior
+BMW,1991,11022,California,Blue,Transmission
+Honda,2018,34100,New Jersey,Gray,Interior
+Audi,2010,14409,Hawaii,Orange,Tires
+Volkswagen,2018,36866,Pennsylvania,Silver,Tires
+Kia,1991,29300,Ohio,Silver,Exterior
+Ford,1994,2208,Minnesota,Gray,Brakes
+Ford,2020,18973,New Mexico,Blue,Suspension
+Mercedes,2015,22763,Ohio,Blue,Engine
+Lexus,2021,30006,Illinois,White,Exhaust
+Toyota,1999,4585,Mississippi,Silver,Transmission
+Chevrolet,2009,48755,Mississippi,Black,Interior
+Kia,2000,3500,West Virginia,Gray,Tires
+Hyundai,2020,44165,Michigan,Gray,Transmission
+Ford,1999,32682,Maryland,Gray,Tires
+Volvo,2012,31186,North Dakota,Silver,Brakes
+Mazda,2003,32174,Nebraska,Black,Exhaust
+Honda,2023,49889,Idaho,Blue,Exhaust
+Nissan,2023,40707,Wyoming,Green,Suspension
+Toyota,2018,43937,Utah,Red,Exhaust
+Porsche,2002,47796,Florida,Blue,Interior
+Chevrolet,2009,16907,Wyoming,Orange,Exterior
+Maserati,2006,23698,Indiana,Green,Interior
+Mercedes,1993,19772,New Hampshire,Silver,Tires
+Maserati,2019,5702,Indiana,Silver,Suspension
+Porsche,2014,45051,Maryland,Gray,Brakes
+Hyundai,1992,1926,Delaware,Orange,Tires
+Porsche,2009,40751,Colorado,Blue,Brakes
+Volvo,1995,28821,Ohio,Blue,Exhaust
+Toyota,2012,6661,Oregon,Black,Tires
+Volvo,2015,24379,Oklahoma,Orange,Exterior
+Mercedes,1998,37102,New Jersey,Silver,Engine
+Mazda,2004,29241,California,White,Transmission
+Maserati,1999,10739,Arizona,Orange,Exhaust
+Toyota,2016,36389,Vermont,Black,Exhaust
+Subaru,2007,35519,Connecticut,Yellow,Interior
+Chevrolet,2014,19562,Nevada,Blue,Exterior
+Mazda,2014,44058,West Virginia,Black,Tires
+Nissan,1994,36404,North Dakota,Silver,Exterior
+Hyundai,2023,46969,North Carolina,Red,Engine
+Subaru,2005,5629,Idaho,Gray,Brakes
+Lexus,2006,26594,Missouri,Yellow,Brakes
+Maserati,2014,28709,Oklahoma,Black,Tires
+Volkswagen,2009,3864,Tennessee,White,Interior
+Toyota,1994,4813,Ohio,Silver,Suspension
+Honda,2006,34137,Louisiana,White,Suspension
+Audi,2004,31830,South Carolina,Orange,Exhaust
+Lexus,2010,32125,California,Red,Exhaust
+Nissan,2008,27648,New Jersey,Green,Exterior
+Toyota,1999,7042,Indiana,Orange,Transmission
+Kia,1995,23433,Massachusetts,Yellow,Exterior
+Chevrolet,1992,39431,Virginia,Gray,Tires
+Mercedes,2005,43308,North Dakota,Silver,Interior
+Toyota,2007,18720,Rhode Island,White,Suspension
+Subaru,1999,11208,Oklahoma,Yellow,Interior
+Volkswagen,2003,36293,New Hampshire,Black,Tires
+Maserati,2013,4433,California,Red,Transmission
+Mercedes,2016,8634,Washington,Orange,Brakes
+Mercedes,2010,44688,Maine,Green,Brakes
