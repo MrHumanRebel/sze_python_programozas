@@ -625,20 +625,20 @@ France,2015-08-09,Girondins de Bordeaux,Stade de Reims,1,2,1.67,3.75,5.5,1.7,3.6
 France,2015-08-07,LOSC Lille,Paris Saint-Germain,0,1,6.5,3.6,1.57,6.75,3.75,1.65,4.65,3.4,1.75
 France,2015-08-09,Olympique Lyonnais,FC Lorient,0,0,1.57,4.0,6.0,1.57,4.0,6.5,1.5,3.9,6.3
 France,2015-08-08,Olympique de Marseille,SM Caen,0,1,1.57,4.0,6.0,1.55,4.33,6.0,1.55,3.7,6.0
-France,2015-08-08,Montpellier Hérault SC,Angers SCO,0,2,1.83,3.4,4.75,1.75,3.2,5.25,1.8,3.4,4.35
+France,2015-08-08,Montpellier Harault SC,Angers SCO,0,2,1.83,3.4,4.75,1.75,3.2,5.25,1.8,3.4,4.35
 France,2015-08-08,FC Nantes,En Avant de Guingamp,1,0,2.2,3.1,3.6,2.2,3.0,3.5,2.1,3.15,3.45
 France,2015-08-08,OGC Nice,AS Monaco,1,2,4.0,3.1,2.05,3.9,3.25,2.1,3.1,3.1,2.3
-France,2015-08-09,Toulouse FC,AS Saint-Étienne,2,1,3.1,3.1,2.4,2.75,3.1,2.6,2.6,3.2,2.6
+France,2015-08-09,Toulouse FC,AS Saint-atienne,2,1,3.1,3.1,2.4,2.75,3.1,2.6,2.6,3.2,2.6
 France,2015-08-08,ES Troyes AC,GFC Ajaccio,0,0,2.05,3.2,3.75,2.05,3.25,3.6,2.1,3.15,3.45
 France,2015-10-17,SC Bastia,Paris Saint-Germain,0,2,10.0,5.0,1.33,9.5,4.75,1.33,7.5,4.6,1.37
-France,2015-10-18,Girondins de Bordeaux,Montpellier Hérault SC,0,0,1.75,3.6,5.0,1.83,3.3,4.5,1.8,3.4,4.35
+France,2015-10-18,Girondins de Bordeaux,Montpellier Harault SC,0,0,1.75,3.6,5.0,1.83,3.3,4.5,1.8,3.4,4.35
 France,2015-10-17,En Avant de Guingamp,LOSC Lille,1,1,2.6,3.1,2.9,2.7,3.0,2.8,2.6,3.1,2.7
 France,2015-10-18,Olympique de Marseille,FC Lorient,1,1,1.57,4.0,6.0,1.6,3.8,5.5,1.6,3.6,5.6
 France,2015-10-16,AS Monaco,Olympique Lyonnais,1,1,2.55,3.2,2.9,2.65,3.0,3.05,2.4,3.1,2.95
 France,2015-10-17,FC Nantes,ES Troyes AC,3,0,1.95,3.3,4.2,1.95,3.2,4.1,1.9,3.3,4.0
 France,2015-10-17,Stade de Reims,SM Caen,0,1,2.5,3.2,2.9,2.5,3.1,2.9,2.3,3.1,3.1
 France,2015-10-18,Stade Rennais FC,OGC Nice,1,4,2.1,3.25,3.75,2.2,3.1,3.4,2.1,3.15,3.45
-France,2015-10-17,AS Saint-Étienne,GFC Ajaccio,2,0,1.5,3.8,8.0,1.5,3.8,7.0,1.5,3.9,6.3
+France,2015-10-17,AS Saint-atienne,GFC Ajaccio,2,0,1.5,3.8,8.0,1.5,3.8,7.0,1.5,3.9,6.3
 France,2015-10-17,Toulouse FC,Angers SCO,1,2,2.05,3.3,3.8,2.1,3.2,3.5,2.0,3.2,3.75
 France,2015-10-24,Angers SCO,En Avant de Guingamp,0,0,2.4,3.0,3.3,2.45,3.0,3.3,2.3,3.1,3.1
 France,2015-10-25,Girondins de Bordeaux,ES Troyes AC,1,0,1.5,3.8,7.5,1.57,3.7,6.25,1.6,3.6,5.6
@@ -647,8 +647,8 @@ France,2015-10-24,GFC Ajaccio,OGC Nice,3,1,3.4,3.3,2.2,3.7,3.3,2.15,3.2,3.2,2.2
 France,2015-10-25,LOSC Lille,Olympique de Marseille,1,2,2.6,3.1,2.9,2.7,3.2,2.8,2.6,3.05,2.75
 France,2015-10-24,FC Lorient,Stade Rennais FC,1,1,2.4,3.1,3.2,2.4,3.1,3.0,2.3,3.1,3.1
 France,2015-10-23,Olympique Lyonnais,Toulouse FC,3,0,1.73,3.6,5.25,1.75,3.6,5.0,1.65,3.5,5.3
-France,2015-10-24,Montpellier Hérault SC,SC Bastia,2,0,1.95,3.3,4.2,1.95,3.2,4.1,1.9,3.35,3.9
-France,2015-10-25,Paris Saint-Germain,AS Saint-Étienne,4,1,1.25,6.0,12.0,1.28,5.5,12.5,1.3,5.0,9.0
+France,2015-10-24,Montpellier Harault SC,SC Bastia,2,0,1.95,3.3,4.2,1.95,3.2,4.1,1.9,3.35,3.9
+France,2015-10-25,Paris Saint-Germain,AS Saint-atienne,4,1,1.25,6.0,12.0,1.28,5.5,12.5,1.3,5.0,9.0
 France,2015-10-25,Stade de Reims,AS Monaco,0,1,3.0,3.1,2.5,3.2,3.1,2.4,2.8,3.1,2.5
 France,2015-10-31,SC Bastia,SM Caen,1,0,2.9,3.1,2.6,2.85,3.2,2.65,2.6,3.2,2.6
 France,2015-10-31,GFC Ajaccio,Girondins de Bordeaux,2,0,4.2,3.4,1.95,4.0,3.25,1.95,3.9,3.35,1.9
@@ -657,17 +657,17 @@ France,2015-11-01,AS Monaco,Angers SCO,1,0,1.6,3.75,6.5,1.62,3.6,5.75,1.7,3.5,4.
 France,2015-11-01,FC Nantes,Olympique de Marseille,0,1,4.0,3.1,2.1,3.5,3.2,2.1,3.45,3.15,2.1
 France,2015-11-01,OGC Nice,LOSC Lille,0,0,2.38,3.2,3.2,2.4,3.1,3.0,2.2,3.2,3.2
 France,2015-10-30,Stade Rennais FC,Paris Saint-Germain,0,1,7.5,4.0,1.5,7.0,3.9,1.5,7.0,4.0,1.45
-France,2015-10-31,AS Saint-Étienne,Stade de Reims,3,0,1.62,3.8,6.0,1.62,3.7,5.5,1.6,3.6,5.6
-France,2015-10-31,Toulouse FC,Montpellier Hérault SC,1,1,2.1,3.25,3.75,2.2,3.2,3.3,2.2,3.1,3.3
+France,2015-10-31,AS Saint-atienne,Stade de Reims,3,0,1.62,3.8,6.0,1.62,3.7,5.5,1.6,3.6,5.6
+France,2015-10-31,Toulouse FC,Montpellier Harault SC,1,1,2.1,3.25,3.75,2.2,3.2,3.3,2.2,3.1,3.3
 France,2015-10-31,ES Troyes AC,Olympique Lyonnais,0,1,5.5,3.6,1.7,4.75,3.6,1.72,4.85,3.5,1.7
 France,2015-11-06,Angers SCO,Stade Rennais FC,0,2,2.88,3.0,2.7,2.75,2.9,2.75,2.6,3.1,2.7
 France,2015-11-08,Girondins de Bordeaux,AS Monaco,3,1,2.3,3.1,3.4,2.4,3.2,3.25,2.4,3.15,2.9
 France,2015-11-07,SM Caen,En Avant de Guingamp,2,1,2.2,3.2,3.5,2.15,3.1,3.5,2.2,3.1,3.3
 France,2015-11-07,LOSC Lille,SC Bastia,1,1,1.67,3.5,6.0,1.67,3.4,5.5,1.65,3.5,5.3
 France,2015-11-07,FC Lorient,ES Troyes AC,4,1,1.67,3.75,5.5,1.67,3.4,5.5,1.65,3.5,5.3
-France,2015-11-08,Olympique Lyonnais,AS Saint-Étienne,3,0,1.95,3.5,4.0,1.95,3.4,4.0,1.9,3.35,3.9
+France,2015-11-08,Olympique Lyonnais,AS Saint-atienne,3,0,1.95,3.5,4.0,1.95,3.4,4.0,1.9,3.35,3.9
 France,2015-11-08,Olympique de Marseille,OGC Nice,0,1,1.67,4.0,5.0,1.7,3.75,4.75,1.75,3.4,4.65
-France,2015-11-07,Montpellier Hérault SC,FC Nantes,2,1,2.2,3.1,3.6,2.25,3.0,3.4,2.2,3.1,3.3
+France,2015-11-07,Montpellier Harault SC,FC Nantes,2,1,2.2,3.1,3.6,2.25,3.0,3.4,2.2,3.1,3.3
 France,2015-11-07,Paris Saint-Germain,Toulouse FC,5,0,1.18,7.0,17.0,1.18,6.75,13.0,1.22,5.5,12.0
 France,2015-11-07,Stade de Reims,GFC Ajaccio,1,2,1.91,3.2,4.75,1.83,3.4,4.33,1.85,3.4,4.1
 France,2015-11-22,SC Bastia,GFC Ajaccio,1,2,2.1,3.2,3.8,2.0,3.25,4.1,2.1,3.15,3.45
@@ -675,28 +675,28 @@ France,2015-11-22,SM Caen,Angers SCO,0,0,1.8,3.4,5.0,1.85,3.2,4.6,1.9,3.35,3.9
 France,2015-11-21,En Avant de Guingamp,Toulouse FC,2,0,2.1,3.4,3.6,2.0,3.5,3.75,2.0,3.2,3.75
 France,2015-11-21,FC Lorient,Paris Saint-Germain,1,2,7.5,4.5,1.44,8.0,4.6,1.45,6.3,3.9,1.5
 France,2015-11-21,AS Monaco,FC Nantes,1,0,1.7,3.6,5.5,1.7,3.7,5.25,1.7,3.5,4.85
-France,2015-11-21,Montpellier Hérault SC,Stade de Reims,3,1,2.1,3.25,3.75,2.1,3.2,3.5,2.1,3.15,3.45
+France,2015-11-21,Montpellier Harault SC,Stade de Reims,3,1,2.1,3.25,3.75,2.1,3.2,3.5,2.1,3.15,3.45
 France,2015-11-20,OGC Nice,Olympique Lyonnais,3,0,3.4,3.4,2.15,3.4,3.2,2.25,3.3,3.1,2.2
 France,2015-11-22,Stade Rennais FC,Girondins de Bordeaux,2,2,2.3,3.2,3.3,2.3,3.0,3.3,2.3,3.1,3.1
-France,2015-11-22,AS Saint-Étienne,Olympique de Marseille,0,2,2.45,3.25,3.0,2.5,3.1,3.1,2.3,3.1,3.1
+France,2015-11-22,AS Saint-atienne,Olympique de Marseille,0,2,2.45,3.25,3.0,2.5,3.1,3.1,2.3,3.1,3.1
 France,2015-11-21,ES Troyes AC,LOSC Lille,1,1,3.6,3.2,2.15,3.4,3.2,2.15,3.3,3.1,2.2
 France,2015-11-28,Angers SCO,LOSC Lille,2,0,2.9,2.9,2.8,2.85,2.85,2.7,2.8,3.1,2.5
 France,2015-11-29,Girondins de Bordeaux,SM Caen,1,4,1.95,3.5,4.0,1.95,3.3,4.1,2.0,3.2,3.75
 France,2015-11-28,GFC Ajaccio,FC Lorient,1,1,2.8,3.2,2.6,2.8,3.2,2.5,2.7,3.1,2.6
-France,2015-11-27,Olympique Lyonnais,Montpellier Hérault SC,2,4,1.57,3.8,6.5,1.57,4.0,6.0,1.6,3.6,5.6
+France,2015-11-27,Olympique Lyonnais,Montpellier Harault SC,2,4,1.57,3.8,6.5,1.57,4.0,6.0,1.6,3.6,5.6
 France,2015-11-29,Olympique de Marseille,AS Monaco,3,3,1.95,3.5,4.0,2.0,3.3,4.0,2.1,3.15,3.45
 France,2015-11-28,FC Nantes,SC Bastia,0,0,1.91,3.2,4.75,1.91,3.25,4.4,1.85,3.4,4.1
 France,2015-11-28,Paris Saint-Germain,ES Troyes AC,4,1,1.08,10.0,34.0,1.1,9.75,26.0,1.12,8.0,16.0
 France,2015-11-28,Stade de Reims,Stade Rennais FC,2,2,3.0,3.0,2.6,2.75,3.1,2.6,2.9,3.15,2.4
-France,2015-11-29,AS Saint-Étienne,En Avant de Guingamp,3,0,1.83,3.3,5.0,1.8,3.4,5.0,1.7,3.5,4.85
+France,2015-11-29,AS Saint-atienne,En Avant de Guingamp,3,0,1.83,3.3,5.0,1.8,3.4,5.0,1.7,3.5,4.85
 France,2015-11-28,Toulouse FC,OGC Nice,2,0,2.38,3.4,3.0,2.4,3.3,2.85,2.4,3.15,2.9
 France,2015-12-01,Angers SCO,Paris Saint-Germain,0,0,10.0,5.0,1.33,10.0,5.0,1.33,8.3,4.8,1.33
 France,2015-12-02,SC Bastia,Girondins de Bordeaux,1,0,3.0,3.2,2.5,2.85,3.1,2.55,2.8,3.1,2.5
 France,2015-12-02,En Avant de Guingamp,Stade de Reims,1,2,1.91,3.3,4.5,1.95,3.3,3.9,2.0,3.2,3.75
-France,2015-12-02,LOSC Lille,AS Saint-Étienne,1,0,2.5,3.1,3.1,2.5,2.9,3.1,2.4,3.1,2.95
+France,2015-12-02,LOSC Lille,AS Saint-atienne,1,0,2.5,3.1,3.1,2.5,2.9,3.1,2.4,3.1,2.95
 France,2015-12-01,FC Lorient,OGC Nice,0,0,2.25,3.3,3.3,2.3,3.3,3.0,2.2,3.1,3.3
 France,2015-12-02,AS Monaco,SM Caen,1,1,1.85,3.5,4.33,1.87,3.4,4.1,1.85,3.4,4.1
-France,2015-12-02,Montpellier Hérault SC,GFC Ajaccio,0,2,1.83,3.5,4.5,1.9,3.4,4.0,1.8,3.4,4.35
+France,2015-12-02,Montpellier Harault SC,GFC Ajaccio,0,2,1.83,3.5,4.5,1.9,3.4,4.0,1.8,3.4,4.35
 France,2015-12-01,FC Nantes,Olympique Lyonnais,0,0,3.6,3.25,2.15,3.5,3.25,2.2,3.3,3.1,2.2
 France,2015-12-03,Stade Rennais FC,Olympique de Marseille,0,1,3.1,3.1,2.5,2.95,3.0,2.5,2.8,3.1,2.5
 France,2015-12-02,ES Troyes AC,Toulouse FC,0,3,3.0,3.3,2.4,2.9,3.1,2.5,2.75,3.1,2.55
@@ -705,16 +705,16 @@ France,2015-12-06,Girondins de Bordeaux,En Avant de Guingamp,1,0,2.0,3.2,4.2,2.0
 France,2015-12-05,SM Caen,LOSC Lille,1,2,2.4,3.1,3.25,2.4,3.0,3.1,2.5,3.1,2.8
 France,2015-12-05,GFC Ajaccio,FC Nantes,1,1,2.5,3.0,3.1,2.6,3.0,3.0,2.5,3.0,2.9
 France,2015-12-05,Olympique Lyonnais,Angers SCO,0,2,1.53,3.75,7.5,1.57,4.0,6.0,1.65,3.5,5.3
-France,2015-12-06,Olympique de Marseille,Montpellier Hérault SC,2,2,1.65,3.75,5.5,1.65,3.8,5.5,1.6,3.6,5.6
+France,2015-12-06,Olympique de Marseille,Montpellier Harault SC,2,2,1.65,3.75,5.5,1.65,3.8,5.5,1.6,3.6,5.6
 France,2015-12-04,OGC Nice,Paris Saint-Germain,0,3,6.5,4.33,1.5,6.5,4.33,1.5,6.3,3.9,1.5
 France,2015-12-05,Stade de Reims,ES Troyes AC,1,1,1.67,3.75,5.5,1.75,3.6,4.5,1.7,3.5,4.85
-France,2015-12-06,AS Saint-Étienne,Stade Rennais FC,1,1,2.05,3.1,4.2,2.1,3.1,4.0,2.1,3.15,3.45
+France,2015-12-06,AS Saint-atienne,Stade Rennais FC,1,1,2.05,3.1,4.2,2.1,3.1,4.0,2.1,3.15,3.45
 France,2015-12-05,Toulouse FC,FC Lorient,2,3,2.0,3.4,3.8,2.2,3.2,3.3,2.2,3.1,3.3
 France,2015-12-13,Angers SCO,Girondins de Bordeaux,1,1,2.4,3.0,3.3,2.45,3.0,3.0,2.5,3.1,2.8
 France,2015-12-12,LOSC Lille,FC Lorient,3,0,1.75,3.5,5.25,1.85,3.3,4.33,1.9,3.3,4.0
 France,2015-12-13,Olympique de Marseille,GFC Ajaccio,1,1,1.4,4.75,8.0,1.42,4.5,8.25,1.4,4.3,7.5
-France,2015-12-13,AS Monaco,AS Saint-Étienne,1,0,2.05,3.25,4.0,2.1,3.1,4.0,2.1,3.15,3.45
-France,2015-12-12,Montpellier Hérault SC,En Avant de Guingamp,2,1,2.0,3.3,4.0,2.05,3.2,3.9,2.1,3.15,3.45
+France,2015-12-13,AS Monaco,AS Saint-atienne,1,0,2.05,3.25,4.0,2.1,3.1,4.0,2.1,3.15,3.45
+France,2015-12-12,Montpellier Harault SC,En Avant de Guingamp,2,1,2.0,3.3,4.0,2.05,3.2,3.9,2.1,3.15,3.45
 France,2015-12-12,FC Nantes,Toulouse FC,1,1,2.38,3.1,3.3,2.4,2.95,3.2,2.2,3.1,3.3
 France,2015-12-13,Paris Saint-Germain,Olympique Lyonnais,5,1,1.25,5.5,13.0,1.28,5.25,13.0,1.3,5.0,9.0
 France,2015-12-12,Stade de Reims,OGC Nice,1,1,2.6,3.1,2.9,2.65,3.1,2.85,2.6,3.1,2.7
@@ -726,8 +726,8 @@ France,2015-12-19,SM Caen,Paris Saint-Germain,0,3,7.0,4.2,1.5,7.5,4.0,1.5,6.3,3.
 France,2015-12-20,GFC Ajaccio,Olympique Lyonnais,2,1,3.25,3.3,2.3,3.25,3.25,2.3,3.2,3.2,2.2
 France,2015-12-19,En Avant de Guingamp,Stade Rennais FC,0,2,2.5,3.0,3.2,2.45,3.0,3.0,2.6,3.1,2.7
 France,2015-12-19,FC Lorient,FC Nantes,0,0,2.15,3.1,3.75,2.15,3.0,3.7,2.3,3.0,3.2
-France,2015-12-18,OGC Nice,Montpellier Hérault SC,1,0,2.3,3.25,3.2,2.4,3.2,2.95,2.3,3.1,3.1
-France,2015-12-20,AS Saint-Étienne,Angers SCO,1,0,1.91,3.3,4.5,1.9,3.3,4.5,1.9,3.3,4.0
+France,2015-12-18,OGC Nice,Montpellier Harault SC,1,0,2.3,3.25,3.2,2.4,3.2,2.95,2.3,3.1,3.1
+France,2015-12-20,AS Saint-atienne,Angers SCO,1,0,1.91,3.3,4.5,1.9,3.3,4.5,1.9,3.3,4.0
 France,2015-12-19,Toulouse FC,LOSC Lille,1,1,2.55,3.1,3.0,2.5,3.1,2.9,2.4,3.15,2.9
 France,2015-12-19,ES Troyes AC,AS Monaco,0,0,4.2,3.5,1.91,4.1,3.4,1.95,4.35,3.4,1.8
 France,2015-08-15,Angers SCO,FC Nantes,0,0,2.5,3.1,3.1,2.6,3.0,2.85,2.3,3.1,3.1
@@ -737,45 +737,45 @@ France,2015-08-16,FC Lorient,SC Bastia,1,1,1.85,3.4,4.75,1.91,3.3,4.1,2.0,3.2,3.
 France,2015-08-14,AS Monaco,LOSC Lille,0,0,1.62,3.6,6.5,1.62,3.7,6.5,1.7,3.5,4.85
 France,2015-08-16,Paris Saint-Germain,GFC Ajaccio,2,0,1.11,10.0,21.0,1.11,10.0,26.0,1.15,7.0,15.0
 France,2015-08-16,Stade de Reims,Olympique de Marseille,1,0,3.5,3.25,2.2,3.2,3.2,2.25,3.45,3.15,2.1
-France,2015-08-15,Stade Rennais FC,Montpellier Hérault SC,1,0,2.25,3.1,3.5,2.25,3.2,3.2,2.1,3.15,3.45
-France,2015-08-15,AS Saint-Étienne,Girondins de Bordeaux,1,1,1.95,3.4,4.2,2.0,3.3,3.7,1.9,3.3,4.0
+France,2015-08-15,Stade Rennais FC,Montpellier Harault SC,1,0,2.25,3.1,3.5,2.25,3.2,3.2,2.1,3.15,3.45
+France,2015-08-15,AS Saint-atienne,Girondins de Bordeaux,1,1,1.95,3.4,4.2,2.0,3.3,3.7,1.9,3.3,4.0
 France,2015-08-15,ES Troyes AC,OGC Nice,3,3,2.15,3.25,3.6,2.2,3.1,3.4,2.3,3.1,3.1
 France,2016-01-09,Angers SCO,SM Caen,2,0,2.5,3.0,3.2,2.5,3.1,2.9,2.4,3.15,2.9
 France,2016-01-09,AS Monaco,GFC Ajaccio,2,2,1.62,3.75,6.0,1.62,3.7,6.25,1.5,3.9,6.3
-France,2016-01-10,FC Nantes,AS Saint-Étienne,2,1,2.5,3.0,3.1,2.6,3.0,3.0,2.8,3.1,2.5
+France,2016-01-10,FC Nantes,AS Saint-atienne,2,1,2.5,3.0,3.1,2.6,3.0,3.0,2.8,3.1,2.5
 France,2016-01-10,LOSC Lille,OGC Nice,1,1,1.85,3.4,4.75,1.91,3.4,4.0,1.9,3.3,4.0
-France,2016-01-09,Montpellier Hérault SC,Girondins de Bordeaux,0,1,2.4,3.1,3.25,2.35,3.1,3.4,2.3,3.1,3.1
+France,2016-01-09,Montpellier Harault SC,Girondins de Bordeaux,0,1,2.4,3.1,3.25,2.35,3.1,3.4,2.3,3.1,3.1
 France,2016-01-10,Olympique de Marseille,En Avant de Guingamp,0,0,1.62,3.75,6.0,1.62,3.7,6.25,1.5,3.9,6.3
 France,2016-01-09,Olympique Lyonnais,ES Troyes AC,4,1,1.33,5.0,9.0,1.36,5.25,8.0,1.4,4.3,7.5
 France,2016-01-08,Paris Saint-Germain,SC Bastia,2,0,1.1,10.0,26.0,1.11,9.5,23.0,1.12,8.0,16.0
 France,2016-01-09,Stade de Reims,Toulouse FC,1,3,2.6,3.1,2.9,2.6,2.95,2.9,2.5,3.1,2.8
 France,2016-01-09,Stade Rennais FC,FC Lorient,2,2,2.0,3.25,4.2,2.0,3.3,3.7,2.0,3.2,3.75
-France,2016-01-17,AS Saint-Étienne,Olympique Lyonnais,1,0,2.88,3.1,2.63,2.75,3.2,2.7,2.5,3.1,2.8
+France,2016-01-17,AS Saint-atienne,Olympique Lyonnais,1,0,2.88,3.1,2.63,2.75,3.2,2.7,2.5,3.1,2.8
 France,2016-01-16,En Avant de Guingamp,FC Nantes,2,2,2.4,3.0,3.3,2.4,3.0,3.1,2.4,3.15,2.9
 France,2016-01-16,ES Troyes AC,Stade Rennais FC,2,4,3.75,3.3,2.1,3.25,3.4,2.15,3.45,3.15,2.1
 France,2016-01-16,Girondins de Bordeaux,LOSC Lille,1,0,2.4,3.0,3.3,2.4,3.0,3.1,2.2,3.1,3.3
 France,2016-01-17,FC Lorient,AS Monaco,0,2,3.0,3.0,2.6,2.9,3.1,2.6,2.7,3.1,2.6
 France,2016-01-16,GFC Ajaccio,Stade de Reims,2,2,2.05,3.2,4.0,2.15,3.2,3.4,2.0,3.2,3.75
 France,2016-01-15,OGC Nice,Angers SCO,2,1,2.05,3.1,4.0,2.15,2.95,3.7,2.2,3.1,3.3
-France,2016-01-16,SC Bastia,Montpellier Hérault SC,1,0,2.75,3.0,2.8,2.75,3.0,2.7,2.4,3.15,2.9
+France,2016-01-16,SC Bastia,Montpellier Harault SC,1,0,2.75,3.0,2.8,2.75,3.0,2.7,2.4,3.15,2.9
 France,2016-01-17,SM Caen,Olympique de Marseille,1,3,2.9,3.2,2.55,2.9,3.1,2.6,2.9,3.15,2.4
 France,2016-01-16,Toulouse FC,Paris Saint-Germain,0,1,8.0,4.75,1.4,8.0,4.75,1.4,7.5,4.3,1.4
 France,2016-01-24,AS Monaco,Toulouse FC,4,0,1.91,3.3,4.5,1.9,3.5,4.25,1.8,3.4,4.35
 France,2016-01-23,En Avant de Guingamp,SC Bastia,1,0,1.85,3.25,5.0,1.85,3.25,4.5,2.0,3.2,3.75
 France,2016-01-23,FC Nantes,Girondins de Bordeaux,2,2,2.38,3.1,3.3,2.4,3.0,3.1,2.5,3.0,2.9
 France,2016-01-23,LOSC Lille,ES Troyes AC,1,3,1.36,4.75,9.5,1.4,4.33,8.0,1.5,3.9,6.3
-France,2016-01-23,Montpellier Hérault SC,SM Caen,1,2,2.25,3.2,3.4,2.25,3.1,3.25,2.0,3.2,3.75
+France,2016-01-23,Montpellier Harault SC,SM Caen,1,2,2.25,3.2,3.4,2.25,3.1,3.25,2.0,3.2,3.75
 France,2016-01-23,OGC Nice,FC Lorient,2,1,1.91,3.4,4.33,1.91,3.3,4.1,2.0,3.2,3.75
 France,2016-01-24,Olympique Lyonnais,Olympique de Marseille,1,1,2.25,3.3,3.3,2.25,3.3,3.3,2.3,3.1,3.1
 France,2016-01-23,Paris Saint-Germain,Angers SCO,5,1,1.17,7.0,19.0,1.16,7.5,17.5,1.2,5.8,13.0
-France,2016-01-24,Stade de Reims,AS Saint-Étienne,1,1,2.7,3.1,2.8,2.8,3.1,2.7,2.8,3.1,2.5
+France,2016-01-24,Stade de Reims,AS Saint-atienne,1,1,2.7,3.1,2.8,2.8,3.1,2.7,2.8,3.1,2.5
 France,2016-01-22,Stade Rennais FC,GFC Ajaccio,1,0,1.91,3.3,4.5,1.9,3.4,4.0,1.9,3.35,3.9
 France,2016-01-30,Angers SCO,AS Monaco,3,0,3.4,3.0,2.38,3.2,3.1,2.4,3.1,3.1,2.3
-France,2016-01-31,AS Saint-Étienne,Paris Saint-Germain,0,2,7.5,3.8,1.53,7.5,3.7,1.55,6.0,3.7,1.55
+France,2016-01-31,AS Saint-atienne,Paris Saint-Germain,0,2,7.5,3.8,1.53,7.5,3.7,1.55,6.0,3.7,1.55
 France,2016-01-30,ES Troyes AC,FC Nantes,0,1,3.2,3.3,2.3,2.95,3.25,2.35,2.9,3.15,2.4
 France,2016-01-31,Girondins de Bordeaux,Stade Rennais FC,4,0,2.3,3.2,3.3,2.3,3.1,3.2,2.2,3.1,3.3
 France,2016-01-30,FC Lorient,Stade de Reims,2,0,2.05,3.3,3.8,2.05,3.1,3.8,2.0,3.2,3.75
-France,2016-01-30,GFC Ajaccio,Montpellier Hérault SC,0,4,2.4,3.2,3.1,2.5,3.1,2.85,2.4,3.15,2.9
+France,2016-01-30,GFC Ajaccio,Montpellier Harault SC,0,4,2.4,3.2,3.1,2.5,3.1,2.85,2.4,3.15,2.9
 France,2016-01-29,Olympique de Marseille,LOSC Lille,1,1,1.95,3.3,4.33,2.0,3.3,4.0,1.9,3.35,3.9
 France,2016-01-30,SC Bastia,Olympique Lyonnais,1,0,5.5,3.5,1.73,5.25,3.5,1.75,4.3,3.3,1.85
 France,2016-01-31,SM Caen,OGC Nice,2,0,2.3,3.2,3.1,2.35,3.2,3.0,2.5,3.1,2.8
@@ -784,16 +784,16 @@ France,2016-02-02,AS Monaco,SC Bastia,2,0,1.44,4.0,9.0,1.45,4.2,8.0,1.5,3.9,6.3
 France,2016-02-03,En Avant de Guingamp,ES Troyes AC,4,0,1.62,3.8,6.0,1.62,3.5,6.0,1.65,3.5,5.3
 France,2016-02-03,FC Nantes,GFC Ajaccio,3,1,1.91,3.3,4.5,1.95,3.1,4.2,1.9,3.35,3.9
 France,2016-02-03,LOSC Lille,SM Caen,1,0,1.75,3.5,5.0,1.83,3.5,4.25,1.85,3.4,4.1
-France,2016-02-02,Montpellier Hérault SC,Olympique de Marseille,0,1,2.6,3.2,2.88,2.6,3.2,2.85,2.6,3.2,2.6
+France,2016-02-02,Montpellier Harault SC,Olympique de Marseille,0,1,2.6,3.2,2.88,2.6,3.2,2.85,2.6,3.2,2.6
 France,2016-02-03,OGC Nice,Toulouse FC,1,0,2.2,3.25,3.5,2.2,3.2,3.3,2.1,3.15,3.45
 France,2016-02-03,Olympique Lyonnais,Girondins de Bordeaux,3,0,1.67,3.75,5.5,1.7,3.8,5.0,1.75,3.4,4.65
 France,2016-02-03,Paris Saint-Germain,FC Lorient,3,1,1.18,6.5,21.0,1.18,7.25,16.0,1.17,6.5,14.0
 France,2016-02-03,Stade de Reims,Angers SCO,2,1,2.4,3.0,3.3,2.4,3.0,3.1,2.3,3.1,3.1
-France,2016-02-04,Stade Rennais FC,AS Saint-Étienne,0,1,2.25,3.1,3.5,2.35,3.0,3.4,2.3,3.1,3.1
+France,2016-02-04,Stade Rennais FC,AS Saint-atienne,0,1,2.25,3.1,3.5,2.35,3.0,3.4,2.3,3.1,3.1
 France,2016-02-06,Angers SCO,Olympique Lyonnais,0,3,3.6,3.1,2.2,3.4,3.25,2.25,3.1,3.1,2.3
 France,2016-02-06,AS Monaco,OGC Nice,1,0,1.8,3.5,4.75,1.87,3.4,4.5,1.75,3.4,4.65
-France,2016-02-07,Girondins de Bordeaux,AS Saint-Étienne,1,4,2.25,3.2,3.4,2.3,3.1,3.4,2.4,3.1,2.9
-France,2016-02-06,FC Lorient,Montpellier Hérault SC,1,1,2.4,3.2,3.1,2.4,3.1,3.0,2.3,3.1,3.1
+France,2016-02-07,Girondins de Bordeaux,AS Saint-atienne,1,4,2.25,3.2,3.4,2.3,3.1,3.4,2.4,3.1,2.9
+France,2016-02-06,FC Lorient,Montpellier Harault SC,1,1,2.4,3.2,3.1,2.4,3.1,3.0,2.3,3.1,3.1
 France,2016-02-06,GFC Ajaccio,En Avant de Guingamp,0,0,2.6,3.1,2.9,2.65,3.0,2.95,2.5,3.1,2.8
 France,2016-02-07,LOSC Lille,Stade Rennais FC,1,1,2.0,3.2,4.2,1.95,3.25,4.0,1.9,3.1,3.9
 France,2016-02-07,Olympique de Marseille,Paris Saint-Germain,1,2,5.25,3.6,1.73,5.5,3.5,1.72,5.3,3.5,1.65
@@ -801,67 +801,67 @@ France,2016-02-06,SC Bastia,ES Troyes AC,2,0,1.83,3.5,4.5,1.83,3.4,4.33,1.85,3.4
 France,2016-02-06,SM Caen,Stade de Reims,0,2,2.05,3.3,3.8,2.05,3.2,3.7,2.1,3.15,3.45
 France,2016-02-06,Toulouse FC,FC Nantes,0,0,2.25,3.1,3.5,2.25,3.1,3.3,2.1,3.15,3.45
 France,2016-02-13,GFC Ajaccio,ES Troyes AC,2,3,1.67,3.6,5.75,1.67,3.6,5.25,1.65,3.5,5.3
-France,2016-02-14,AS Saint-Étienne,AS Monaco,1,1,2.55,3.1,3.0,2.55,3.1,3.0,2.6,3.1,2.7
+France,2016-02-14,AS Saint-atienne,AS Monaco,1,1,2.55,3.1,3.0,2.55,3.1,3.0,2.6,3.1,2.7
 France,2016-02-13,En Avant de Guingamp,Girondins de Bordeaux,2,4,2.25,3.2,3.4,2.3,3.0,3.3,2.5,3.1,2.8
 France,2016-02-13,FC Nantes,FC Lorient,2,1,2.1,3.1,4.0,2.1,3.1,3.75,2.0,3.2,3.75
-France,2016-02-13,Montpellier Hérault SC,Toulouse FC,2,0,2.1,3.2,3.8,2.1,3.2,3.5,2.1,3.15,3.45
+France,2016-02-13,Montpellier Harault SC,Toulouse FC,2,0,2.1,3.2,3.8,2.1,3.2,3.5,2.1,3.15,3.45
 France,2016-02-14,OGC Nice,Olympique de Marseille,1,1,3.1,3.2,2.4,3.1,3.2,2.4,2.8,3.1,2.5
 France,2016-02-14,Olympique Lyonnais,SM Caen,4,1,1.57,3.8,6.5,1.57,4.0,6.25,1.6,3.6,5.6
 France,2016-02-13,Paris Saint-Germain,LOSC Lille,0,0,1.4,4.75,8.0,1.4,4.5,9.5,1.33,4.8,8.3
 France,2016-02-13,Stade de Reims,SC Bastia,0,1,1.85,3.25,5.0,1.83,3.3,4.6,1.9,3.3,4.0
 France,2016-02-12,Stade Rennais FC,Angers SCO,1,0,1.91,3.25,4.5,1.95,3.2,4.4,2.0,3.2,3.75
-France,2016-02-20,Angers SCO,Montpellier Hérault SC,2,3,2.9,3.0,2.65,2.8,2.9,2.7,2.7,3.0,2.7
+France,2016-02-20,Angers SCO,Montpellier Harault SC,2,3,2.9,3.0,2.65,2.8,2.9,2.7,2.7,3.0,2.7
 France,2016-02-20,AS Monaco,ES Troyes AC,3,1,1.36,4.75,9.5,1.36,5.25,8.25,1.35,4.7,7.9
 France,2016-02-19,Girondins de Bordeaux,OGC Nice,0,0,2.0,3.3,4.0,2.0,3.3,4.0,2.0,3.2,3.75
 France,2016-02-20,FC Lorient,En Avant de Guingamp,4,3,2.2,3.1,3.6,2.2,3.2,3.3,2.2,3.1,3.3
 France,2016-02-21,LOSC Lille,Olympique Lyonnais,1,0,2.63,3.1,2.8,2.7,3.0,2.85,2.6,3.1,2.7
-France,2016-02-21,Olympique de Marseille,AS Saint-Étienne,1,1,1.91,3.3,4.5,1.91,3.25,4.5,2.0,3.2,3.75
+France,2016-02-21,Olympique de Marseille,AS Saint-atienne,1,1,1.91,3.3,4.5,1.91,3.25,4.5,2.0,3.2,3.75
 France,2016-02-20,Paris Saint-Germain,Stade de Reims,4,1,1.18,7.0,17.0,1.2,6.5,15.0,1.2,5.8,13.0
 France,2016-03-09,SC Bastia,FC Nantes,0,0,2.88,2.9,2.8,2.8,2.8,2.8,2.9,2.85,2.6
 France,2016-02-21,SM Caen,Stade Rennais FC,1,0,2.7,3.1,2.8,2.7,3.0,2.7,2.65,3.1,2.65
 France,2016-02-20,Toulouse FC,GFC Ajaccio,1,1,1.8,3.3,4.75,1.85,3.3,4.4,2.0,3.2,3.75
-France,2016-02-28,AS Saint-Étienne,SM Caen,1,2,1.73,3.6,5.25,1.75,3.6,5.0,1.7,3.5,4.85
+France,2016-02-28,AS Saint-atienne,SM Caen,1,2,1.73,3.6,5.25,1.75,3.6,5.0,1.7,3.5,4.85
 France,2016-02-27,En Avant de Guingamp,Angers SCO,2,2,2.05,3.1,4.2,2.1,3.1,3.7,2.0,3.2,3.75
 France,2016-02-27,ES Troyes AC,FC Lorient,0,1,3.3,3.3,2.2,3.25,3.25,2.2,3.9,3.35,1.9
 France,2016-02-28,FC Nantes,AS Monaco,0,0,2.45,3.0,3.2,2.6,3.0,3.0,2.6,3.1,2.7
 France,2016-03-09,GFC Ajaccio,Olympique de Marseille,1,1,3.6,3.25,2.15,3.25,3.25,2.2,3.3,3.1,2.2
-France,2016-02-27,Montpellier Hérault SC,LOSC Lille,3,0,2.4,3.0,3.3,2.45,2.95,3.1,2.5,3.1,2.8
+France,2016-02-27,Montpellier Harault SC,LOSC Lille,3,0,2.4,3.0,3.3,2.45,2.95,3.1,2.5,3.1,2.8
 France,2016-02-26,OGC Nice,SC Bastia,0,2,1.83,3.4,4.75,1.75,3.4,5.0,1.8,3.4,4.35
 France,2016-02-28,Olympique Lyonnais,Paris Saint-Germain,2,1,5.0,3.6,1.75,4.6,3.6,1.8,4.35,3.4,1.8
 France,2016-02-27,Stade de Reims,Girondins de Bordeaux,4,1,2.45,3.1,3.1,2.5,3.1,2.9,2.65,3.1,2.65
 France,2016-02-27,Toulouse FC,Stade Rennais FC,1,2,2.3,3.1,3.4,2.3,3.1,3.2,2.3,3.1,3.1
-France,2016-03-05,Angers SCO,AS Saint-Étienne,0,0,3.1,3.0,2.55,3.1,2.85,2.5,2.9,3.15,2.4
+France,2016-03-05,Angers SCO,AS Saint-atienne,0,0,3.1,3.0,2.55,3.1,2.85,2.5,2.9,3.15,2.4
 France,2016-03-05,Girondins de Bordeaux,GFC Ajaccio,1,1,1.67,3.75,5.5,1.7,3.6,5.0,1.7,3.5,4.85
 France,2016-03-05,LOSC Lille,Stade de Reims,2,0,1.83,3.3,5.0,1.85,3.4,4.33,1.8,3.4,4.35
 France,2016-03-05,OGC Nice,ES Troyes AC,2,1,1.53,4.0,6.5,1.53,4.2,5.75,1.5,3.9,6.3
 France,2016-03-06,Olympique de Marseille,Toulouse FC,1,1,1.7,3.6,5.5,1.65,3.7,5.25,1.75,3.4,4.65
 France,2016-03-06,Olympique Lyonnais,En Avant de Guingamp,5,1,1.45,4.0,9.0,1.5,3.8,7.0,1.4,4.3,7.5
-France,2016-03-05,Paris Saint-Germain,Montpellier Hérault SC,0,0,1.44,4.0,9.0,1.4,4.25,8.5,1.45,4.0,7.0
+France,2016-03-05,Paris Saint-Germain,Montpellier Harault SC,0,0,1.44,4.0,9.0,1.4,4.25,8.5,1.45,4.0,7.0
 France,2016-03-05,SC Bastia,FC Lorient,0,0,2.3,3.1,3.4,2.4,3.0,3.1,2.4,3.15,2.9
 France,2016-03-04,SM Caen,AS Monaco,2,2,3.25,3.2,2.38,3.2,3.1,2.4,2.9,3.15,2.4
 France,2016-03-06,Stade Rennais FC,FC Nantes,4,1,2.2,3.0,3.6,2.3,2.95,3.4,2.25,3.1,3.2
 France,2015-08-22,SC Bastia,En Avant de Guingamp,3,0,2.3,3.0,3.4,2.4,3.0,3.1,2.2,3.1,3.3
 France,2015-08-22,GFC Ajaccio,Angers SCO,0,2,2.3,3.0,3.6,2.3,2.9,3.4,2.2,3.1,3.3
 France,2015-08-23,LOSC Lille,Girondins de Bordeaux,0,0,2.1,3.2,3.8,2.15,3.1,3.5,2.2,3.1,3.3
-France,2015-08-23,FC Lorient,AS Saint-Étienne,0,1,2.63,3.0,3.0,2.65,3.0,2.8,2.6,3.2,2.6
+France,2015-08-23,FC Lorient,AS Saint-atienne,0,1,2.63,3.0,3.0,2.65,3.0,2.8,2.6,3.2,2.6
 France,2015-08-22,Olympique Lyonnais,Stade Rennais FC,1,2,1.57,3.75,7.0,1.57,3.75,6.0,1.6,3.6,5.6
 France,2015-08-23,Olympique de Marseille,ES Troyes AC,6,0,1.62,3.8,6.0,1.67,3.9,6.0,1.55,3.7,6.0
-France,2015-08-21,Montpellier Hérault SC,Paris Saint-Germain,0,1,8.0,4.2,1.45,8.5,4.2,1.5,6.3,3.9,1.5
+France,2015-08-21,Montpellier Harault SC,Paris Saint-Germain,0,1,8.0,4.2,1.45,8.5,4.2,1.5,6.3,3.9,1.5
 France,2015-08-22,FC Nantes,Stade de Reims,1,0,2.2,3.1,3.6,2.2,3.0,3.5,2.1,3.15,3.45
 France,2015-08-22,OGC Nice,SM Caen,2,1,2.2,3.3,3.4,2.3,3.4,3.2,2.3,3.1,3.1
 France,2015-08-22,Toulouse FC,AS Monaco,1,1,3.1,3.1,2.5,3.1,3.25,2.55,2.9,3.15,2.4
 France,2016-03-11,AS Monaco,Stade de Reims,2,2,1.62,3.8,6.0,1.62,3.8,6.0,1.65,3.5,5.3
-France,2016-03-12,En Avant de Guingamp,AS Saint-Étienne,2,0,3.0,3.1,2.55,2.75,3.25,2.5,2.9,3.15,2.4
+France,2016-03-12,En Avant de Guingamp,AS Saint-atienne,2,0,3.0,3.1,2.55,2.75,3.25,2.5,2.9,3.15,2.4
 France,2016-03-13,ES Troyes AC,Paris Saint-Germain,0,9,12.0,6.0,1.25,11.5,5.25,1.26,9.0,5.0,1.3
 France,2016-03-12,FC Lorient,Olympique de Marseille,1,1,3.1,3.3,2.35,3.1,3.25,2.3,2.9,3.15,2.4
 France,2016-03-13,FC Nantes,Angers SCO,2,0,1.85,3.25,5.0,1.83,3.25,4.6,2.0,3.2,3.75
 France,2016-03-12,GFC Ajaccio,SM Caen,1,0,2.45,3.1,3.2,2.55,3.25,2.7,2.6,3.2,2.6
-France,2016-03-12,Montpellier Hérault SC,OGC Nice,0,2,2.0,3.3,4.0,2.0,3.3,3.75,2.1,3.2,3.4
+France,2016-03-12,Montpellier Harault SC,OGC Nice,0,2,2.0,3.3,4.0,2.0,3.3,3.75,2.1,3.2,3.4
 France,2016-03-12,SC Bastia,LOSC Lille,1,2,3.1,2.9,2.6,3.0,3.0,2.5,2.65,3.1,2.65
 France,2016-03-13,Stade Rennais FC,Olympique Lyonnais,2,2,3.2,3.2,2.38,3.1,3.2,2.3,2.9,3.15,2.4
 France,2016-03-12,Toulouse FC,Girondins de Bordeaux,4,0,2.3,3.3,3.2,2.25,3.3,3.1,2.3,3.2,3.0
 France,2016-03-19,Angers SCO,FC Lorient,5,1,2.6,3.0,3.0,2.4,3.1,3.0,2.5,3.1,2.8
-France,2016-03-19,AS Saint-Étienne,Montpellier Hérault SC,3,0,2.0,3.2,4.2,1.91,3.3,4.1,1.9,3.3,4.0
+France,2016-03-19,AS Saint-atienne,Montpellier Harault SC,3,0,2.0,3.2,4.2,1.91,3.3,4.1,1.9,3.3,4.0
 France,2016-03-20,Girondins de Bordeaux,SC Bastia,1,1,1.75,3.3,5.5,1.7,3.5,5.0,1.75,3.4,4.65
 France,2016-03-19,LOSC Lille,Toulouse FC,1,0,1.91,3.3,4.5,1.91,3.2,4.25,1.9,3.3,4.0
 France,2016-03-20,OGC Nice,GFC Ajaccio,3,0,1.8,3.5,4.75,1.78,3.5,4.5,1.8,3.4,4.35
@@ -871,20 +871,20 @@ France,2016-03-20,Paris Saint-Germain,AS Monaco,0,2,1.33,5.0,10.0,1.33,4.75,9.5,
 France,2016-03-19,SM Caen,ES Troyes AC,2,1,1.5,4.33,6.5,1.42,4.5,6.75,1.4,4.3,7.5
 France,2016-03-19,Stade de Reims,En Avant de Guingamp,0,1,2.2,3.2,3.5,2.15,3.3,3.3,2.2,3.0,3.4
 France,2016-04-01,AS Monaco,Girondins de Bordeaux,1,2,1.73,3.6,4.75,1.78,3.6,4.75,1.8,3.4,4.35
-France,2016-04-02,En Avant de Guingamp,Montpellier Hérault SC,2,2,2.3,3.0,3.5,2.4,3.0,3.1,2.4,3.15,2.9
+France,2016-04-02,En Avant de Guingamp,Montpellier Harault SC,2,2,2.3,3.0,3.5,2.4,3.0,3.1,2.4,3.15,2.9
 France,2016-04-02,ES Troyes AC,Angers SCO,0,1,3.4,3.1,2.3,3.2,3.3,2.2,3.45,3.15,2.1
 France,2016-04-03,FC Lorient,Olympique Lyonnais,1,3,3.8,3.5,2.0,3.5,3.5,2.0,3.3,3.1,2.2
 France,2016-04-03,FC Nantes,LOSC Lille,0,3,2.3,2.9,3.75,2.35,2.8,3.5,2.5,3.1,2.8
-France,2016-04-02,GFC Ajaccio,AS Saint-Étienne,0,2,3.3,3.0,2.4,3.1,2.9,2.5,2.9,3.15,2.4
+France,2016-04-02,GFC Ajaccio,AS Saint-atienne,0,2,3.3,3.0,2.4,3.1,2.9,2.5,2.9,3.15,2.4
 France,2016-04-02,Paris Saint-Germain,OGC Nice,4,1,1.57,3.75,6.5,1.6,3.75,5.75,1.6,3.7,5.4
 France,2016-04-03,SC Bastia,Olympique de Marseille,2,1,3.25,3.1,2.38,3.0,3.1,2.4,3.1,3.1,2.3
 France,2016-04-02,Stade Rennais FC,Stade de Reims,3,1,1.95,3.2,4.5,1.87,3.4,4.2,1.85,3.4,4.1
 France,2016-04-02,Toulouse FC,SM Caen,2,0,2.0,3.3,4.0,2.0,3.3,3.7,2.0,3.3,3.6
 France,2016-04-09,Angers SCO,GFC Ajaccio,0,0,2.15,3.2,3.5,2.0,3.1,4.0,2.0,3.2,3.75
-France,2016-04-09,AS Saint-Étienne,ES Troyes AC,1,0,1.29,5.25,10.0,1.28,5.5,9.25,1.2,5.8,13.0
+France,2016-04-09,AS Saint-atienne,ES Troyes AC,1,0,1.29,5.25,10.0,1.28,5.5,9.25,1.2,5.8,13.0
 France,2016-04-09,En Avant de Guingamp,Paris Saint-Germain,0,2,3.75,3.2,2.05,3.8,3.3,2.0,3.6,3.3,2.0
 France,2016-04-10,LOSC Lille,AS Monaco,4,1,2.25,3.0,3.5,2.3,2.9,3.4,2.4,3.1,2.95
-France,2016-04-08,Montpellier Hérault SC,Olympique Lyonnais,0,2,3.5,3.4,2.1,3.25,3.2,2.2,3.75,3.2,2.0
+France,2016-04-08,Montpellier Harault SC,Olympique Lyonnais,0,2,3.5,3.4,2.1,3.25,3.2,2.2,3.75,3.2,2.0
 France,2016-04-10,OGC Nice,Stade Rennais FC,3,0,2.3,3.25,3.1,2.3,3.1,3.2,2.4,3.15,2.9
 France,2016-04-10,Olympique de Marseille,Girondins de Bordeaux,0,0,1.83,3.5,4.33,1.85,3.6,4.0,2.0,3.2,3.75
 France,2016-04-09,SM Caen,FC Lorient,1,2,2.15,3.4,3.3,2.1,3.2,3.5,2.1,3.15,3.45
@@ -894,45 +894,45 @@ France,2016-04-17,AS Monaco,Olympique de Marseille,2,1,2.1,3.4,3.6,2.1,3.3,3.4,2
 France,2016-04-16,ES Troyes AC,Stade de Reims,2,1,5.0,4.0,1.67,4.5,4.0,1.67,4.35,3.4,1.8
 France,2016-04-16,Girondins de Bordeaux,Angers SCO,1,3,1.85,3.3,4.75,1.85,3.25,4.6,1.8,3.4,4.35
 France,2016-04-16,FC Lorient,Toulouse FC,1,1,2.8,3.4,2.5,2.7,3.3,2.5,2.8,3.1,2.5
-France,2016-04-17,FC Nantes,Montpellier Hérault SC,0,2,2.4,3.1,3.2,2.4,3.1,3.0,2.3,3.1,3.1
+France,2016-04-17,FC Nantes,Montpellier Harault SC,0,2,2.4,3.1,3.2,2.4,3.1,3.0,2.3,3.1,3.1
 France,2016-04-16,GFC Ajaccio,LOSC Lille,2,4,3.2,3.2,2.38,3.3,3.0,2.3,3.3,3.1,2.2
 France,2016-04-15,Olympique Lyonnais,OGC Nice,1,1,1.55,4.2,6.0,1.57,4.0,6.0,1.55,3.7,6.0
 France,2016-04-16,Paris Saint-Germain,SM Caen,6,0,1.36,5.0,8.5,1.4,4.6,7.0,1.45,4.0,7.0
-France,2016-04-16,SC Bastia,AS Saint-Étienne,0,1,4.0,3.2,2.0,3.5,3.2,2.1,3.3,3.1,2.2
+France,2016-04-16,SC Bastia,AS Saint-atienne,0,1,4.0,3.2,2.0,3.5,3.2,2.1,3.3,3.1,2.2
 France,2016-04-17,Stade Rennais FC,En Avant de Guingamp,0,3,1.91,3.6,4.0,1.83,3.4,4.33,1.9,3.3,4.0
-France,2016-04-24,AS Saint-Étienne,FC Lorient,2,0,1.44,4.33,8.0,1.5,3.8,7.0,1.5,3.9,6.3
+France,2016-04-24,AS Saint-atienne,FC Lorient,2,0,1.44,4.33,8.0,1.5,3.8,7.0,1.5,3.9,6.3
 France,2016-04-24,En Avant de Guingamp,SM Caen,1,1,1.95,3.3,4.2,1.9,3.25,4.25,1.9,3.2,4.2
 France,2016-05-11,Girondins de Bordeaux,Paris Saint-Germain,1,1,5.5,4.33,1.57,6.0,4.2,1.5,6.3,3.9,1.5
 France,2016-04-24,GFC Ajaccio,SC Bastia,3,2,1.91,3.2,4.75,1.78,3.4,4.75,1.75,3.4,4.65
 France,2016-04-27,LOSC Lille,Angers SCO,0,0,1.62,3.6,6.5,1.65,3.4,6.0,1.7,3.5,4.85
-France,2016-04-24,Montpellier Hérault SC,ES Troyes AC,4,1,1.25,5.5,12.0,1.26,5.5,10.5,1.25,5.5,10.3
+France,2016-04-24,Montpellier Harault SC,ES Troyes AC,4,1,1.25,5.5,12.0,1.26,5.5,10.5,1.25,5.5,10.3
 France,2016-04-22,OGC Nice,Stade de Reims,2,0,1.65,3.8,5.5,1.65,3.8,5.5,1.75,3.4,4.65
 France,2016-04-24,Olympique de Marseille,FC Nantes,1,1,,,,1.7,3.4,5.25,1.7,3.5,4.85
 France,2016-04-24,Stade Rennais FC,AS Monaco,1,1,2.7,3.1,2.8,2.6,3.1,2.75,2.65,3.1,2.65
 France,2016-04-23,Toulouse FC,Olympique Lyonnais,2,3,3.5,3.4,2.1,3.1,3.4,2.2,2.9,3.15,2.4
 France,2016-05-01,Angers SCO,Olympique de Marseille,0,1,3.4,3.2,2.25,3.4,3.2,2.25,3.45,3.15,2.1
 France,2016-04-30,AS Monaco,En Avant de Guingamp,3,2,1.44,4.33,8.0,1.45,4.5,7.0,1.5,3.9,6.3
-France,2016-04-30,AS Saint-Étienne,Toulouse FC,0,0,2.0,3.3,4.0,2.0,3.5,3.8,1.85,3.4,4.1
+France,2016-04-30,AS Saint-atienne,Toulouse FC,0,0,2.0,3.3,4.0,2.0,3.5,3.8,1.85,3.4,4.1
 France,2016-04-30,ES Troyes AC,Girondins de Bordeaux,2,4,4.5,4.0,1.73,4.75,4.0,1.7,5.3,3.7,1.6
 France,2016-04-30,FC Lorient,LOSC Lille,0,1,3.5,3.25,2.2,3.4,3.4,2.15,3.3,3.2,2.15
 France,2016-04-30,FC Nantes,OGC Nice,1,0,3.0,3.2,2.5,2.95,3.25,2.5,3.1,3.1,2.3
 France,2016-04-30,Olympique Lyonnais,GFC Ajaccio,2,1,1.3,5.25,11.0,1.3,5.5,10.0,1.3,5.0,9.0
 France,2016-04-29,Paris Saint-Germain,Stade Rennais FC,4,0,1.3,5.5,10.0,1.33,5.5,8.75,1.35,4.7,7.9
 France,2016-04-30,SM Caen,SC Bastia,0,0,1.95,3.25,4.33,1.95,3.3,4.2,2.2,2.9,3.5
-France,2016-04-30,Stade de Reims,Montpellier Hérault SC,2,3,2.0,3.3,4.0,2.05,3.4,3.8,2.2,3.1,3.3
+France,2016-04-30,Stade de Reims,Montpellier Harault SC,2,3,2.0,3.3,4.0,2.05,3.4,3.8,2.2,3.1,3.3
 France,2016-05-07,Girondins de Bordeaux,FC Lorient,3,0,1.7,3.8,4.75,1.72,3.6,4.75,1.85,3.4,4.1
 France,2016-05-07,FC Nantes,SM Caen,1,2,1.83,3.4,4.75,1.95,3.3,3.9,2.0,3.2,3.75
 France,2016-05-07,GFC Ajaccio,Paris Saint-Germain,0,4,7.5,4.33,1.45,6.75,4.25,1.45,5.5,4.2,1.5
 France,2016-05-07,LOSC Lille,En Avant de Guingamp,0,0,1.44,4.33,8.0,1.44,4.0,8.0,1.4,4.3,7.5
-France,2016-05-07,Montpellier Hérault SC,Stade Rennais FC,2,0,2.38,3.3,3.1,2.3,3.1,3.25,2.3,3.2,3.0
-France,2016-05-07,OGC Nice,AS Saint-Étienne,2,0,2.2,3.25,3.5,2.15,3.1,3.5,2.3,3.1,3.1
+France,2016-05-07,Montpellier Harault SC,Stade Rennais FC,2,0,2.38,3.3,3.1,2.3,3.1,3.25,2.3,3.2,3.0
+France,2016-05-07,OGC Nice,AS Saint-atienne,2,0,2.2,3.25,3.5,2.15,3.1,3.5,2.3,3.1,3.1
 France,2016-05-07,Olympique de Marseille,Stade de Reims,1,0,1.91,3.3,4.2,1.9,3.75,3.6,1.85,3.7,3.7
 France,2016-05-07,Olympique Lyonnais,AS Monaco,6,1,1.7,3.8,4.75,1.72,3.6,4.75,1.9,3.35,3.9
 France,2016-05-07,SC Bastia,Angers SCO,1,0,2.5,3.1,3.1,2.4,3.0,3.1,2.5,2.9,3.0
 France,2016-05-07,Toulouse FC,ES Troyes AC,1,0,1.22,6.5,13.0,1.22,6.5,10.5,1.2,5.8,13.0
 France,2016-05-14,Angers SCO,Toulouse FC,2,3,4.75,3.4,1.85,4.25,3.4,1.85,5.6,3.6,1.6
-France,2016-05-14,AS Monaco,Montpellier Hérault SC,2,0,1.4,4.33,8.5,1.4,4.4,8.0,1.3,5.0,9.0
-France,2016-05-14,AS Saint-Étienne,LOSC Lille,0,1,2.38,3.2,3.1,2.25,3.25,3.1,2.1,3.2,3.4
+France,2016-05-14,AS Monaco,Montpellier Harault SC,2,0,1.4,4.33,8.5,1.4,4.4,8.0,1.3,5.0,9.0
+France,2016-05-14,AS Saint-atienne,LOSC Lille,0,1,2.38,3.2,3.1,2.25,3.25,3.1,2.1,3.2,3.4
 France,2016-05-14,En Avant de Guingamp,OGC Nice,2,3,4.2,3.75,1.85,4.2,3.4,1.85,4.35,3.4,1.8
 France,2016-05-14,ES Troyes AC,Olympique de Marseille,1,1,5.0,4.2,1.65,4.75,4.2,1.6,5.0,3.9,1.6
 France,2016-05-14,FC Lorient,GFC Ajaccio,1,0,3.1,3.6,2.2,3.1,3.3,2.25,3.2,3.2,2.2
@@ -948,13 +948,13 @@ France,2015-08-29,LOSC Lille,GFC Ajaccio,1,0,1.4,4.0,10.0,1.5,4.0,6.5,1.5,3.9,6.
 France,2015-08-30,AS Monaco,Paris Saint-Germain,0,3,4.2,3.25,2.0,3.75,3.3,2.0,3.75,3.2,2.0
 France,2015-08-29,Stade de Reims,FC Lorient,4,1,2.25,3.1,3.5,2.25,3.2,3.2,2.2,3.1,3.3
 France,2015-08-29,Stade Rennais FC,Toulouse FC,3,1,2.15,3.25,3.6,2.2,3.25,3.2,2.1,3.15,3.45
-France,2015-08-30,AS Saint-Étienne,SC Bastia,2,1,1.73,3.4,5.75,1.73,3.5,5.0,1.65,3.5,5.3
-France,2015-08-29,ES Troyes AC,Montpellier Hérault SC,0,0,2.5,3.1,3.0,2.5,3.25,2.75,2.5,3.1,2.8
+France,2015-08-30,AS Saint-atienne,SC Bastia,2,1,1.73,3.4,5.75,1.73,3.5,5.0,1.65,3.5,5.3
+France,2015-08-29,ES Troyes AC,Montpellier Harault SC,0,0,2.5,3.1,3.0,2.5,3.25,2.75,2.5,3.1,2.8
 France,2015-09-13,GFC Ajaccio,AS Monaco,0,1,4.5,3.3,1.91,4.6,3.3,1.91,3.45,3.15,2.1
 France,2015-09-12,FC Lorient,Angers SCO,3,1,1.91,3.3,4.5,1.95,3.25,4.0,2.1,3.15,3.45
 France,2015-09-12,Olympique Lyonnais,LOSC Lille,0,0,1.83,3.4,4.75,1.83,3.4,4.75,1.85,3.4,4.1
 France,2015-09-13,Olympique de Marseille,SC Bastia,4,1,1.44,4.2,8.5,1.5,4.0,7.25,1.45,4.0,7.0
-France,2015-09-12,Montpellier Hérault SC,AS Saint-Étienne,1,2,2.5,3.1,3.1,2.7,2.95,3.0,2.6,3.2,2.6
+France,2015-09-12,Montpellier Harault SC,AS Saint-atienne,1,2,2.5,3.1,3.1,2.7,2.95,3.0,2.6,3.2,2.6
 France,2015-09-13,FC Nantes,Stade Rennais FC,0,2,2.6,2.88,3.1,2.7,2.9,3.0,2.5,3.1,2.8
 France,2015-09-12,OGC Nice,En Avant de Guingamp,0,1,2.25,3.1,3.5,2.25,3.1,3.3,2.0,3.2,3.75
 France,2015-09-11,Paris Saint-Germain,Girondins de Bordeaux,2,2,1.25,5.75,13.0,1.25,6.0,12.0,1.25,5.5,10.3
@@ -963,37 +963,37 @@ France,2015-09-12,ES Troyes AC,SM Caen,1,3,2.25,3.2,3.4,2.3,3.1,3.25,2.25,3.1,3.
 France,2015-09-19,Angers SCO,ES Troyes AC,1,0,2.1,3.1,4.0,2.1,3.0,3.8,2.1,3.15,3.45
 France,2015-09-19,SC Bastia,OGC Nice,1,3,2.25,3.1,3.5,2.25,3.1,3.25,2.1,3.15,3.45
 France,2015-09-20,Girondins de Bordeaux,Toulouse FC,1,1,2.1,3.1,4.0,2.1,3.1,3.75,2.0,3.2,3.75
-France,2015-09-19,SM Caen,Montpellier Hérault SC,2,1,2.15,3.1,3.75,2.15,3.1,3.6,2.1,3.15,3.45
+France,2015-09-19,SM Caen,Montpellier Harault SC,2,1,2.15,3.1,3.75,2.15,3.1,3.6,2.1,3.15,3.45
 France,2015-09-19,En Avant de Guingamp,GFC Ajaccio,2,1,1.85,3.3,4.75,1.78,3.5,5.0,1.9,3.25,4.0
 France,2015-09-20,Olympique de Marseille,Olympique Lyonnais,1,1,2.05,3.3,3.8,2.1,3.5,3.6,2.2,3.1,3.3
 France,2015-09-20,AS Monaco,FC Lorient,2,3,1.7,3.6,5.5,1.7,3.75,5.5,1.57,3.7,5.8
 France,2015-09-19,Stade de Reims,Paris Saint-Germain,1,1,8.0,4.75,1.4,8.5,4.75,1.4,7.0,4.0,1.45
 France,2015-09-18,Stade Rennais FC,LOSC Lille,1,1,2.38,3.0,3.4,2.4,3.0,3.1,2.4,3.1,2.95
-France,2015-09-20,AS Saint-Étienne,FC Nantes,2,0,1.67,3.5,6.0,1.72,3.5,5.75,1.75,3.4,4.65
+France,2015-09-20,AS Saint-atienne,FC Nantes,2,0,1.67,3.5,6.0,1.72,3.5,5.75,1.75,3.4,4.65
 France,2015-09-22,Angers SCO,Stade de Reims,0,0,2.5,3.0,3.2,2.55,3.0,2.9,2.4,3.15,2.9
 France,2015-09-23,GFC Ajaccio,Stade Rennais FC,1,1,3.5,3.0,2.3,3.6,2.95,2.3,3.1,3.1,2.3
 France,2015-09-29,LOSC Lille,FC Nantes,0,1,1.85,3.2,5.0,1.87,3.1,4.6,1.85,3.25,4.4
 France,2015-09-23,FC Lorient,SM Caen,2,0,2.2,3.2,3.5,2.2,3.1,3.4,2.2,3.1,3.3
 France,2015-09-23,Olympique Lyonnais,SC Bastia,2,0,1.5,4.0,7.5,1.5,3.9,7.75,1.6,3.6,5.6
-France,2015-09-24,Montpellier Hérault SC,AS Monaco,2,3,3.2,3.1,2.4,3.1,3.1,2.5,2.9,3.15,2.4
+France,2015-09-24,Montpellier Harault SC,AS Monaco,2,3,3.2,3.1,2.4,3.1,3.1,2.5,2.9,3.15,2.4
 France,2015-09-23,OGC Nice,Girondins de Bordeaux,6,1,2.7,3.0,2.88,2.6,3.0,3.0,2.5,3.1,2.8
 France,2015-09-22,Paris Saint-Germain,En Avant de Guingamp,3,0,1.2,6.5,17.0,1.2,6.75,14.0,1.2,5.8,13.0
 France,2015-09-23,Toulouse FC,Olympique de Marseille,1,1,2.9,3.1,2.6,2.8,3.25,2.6,2.9,3.15,2.4
-France,2015-09-23,ES Troyes AC,AS Saint-Étienne,0,1,3.4,3.1,2.3,3.3,3.1,2.35,3.1,3.1,2.3
+France,2015-09-23,ES Troyes AC,AS Saint-atienne,0,1,3.4,3.1,2.3,3.3,3.1,2.35,3.1,3.1,2.3
 France,2015-09-26,SC Bastia,Toulouse FC,3,0,2.88,3.1,2.63,2.75,3.0,2.75,2.7,3.0,2.7
 France,2015-09-26,Girondins de Bordeaux,Olympique Lyonnais,3,1,2.75,3.0,2.8,2.75,3.0,2.8,2.7,3.1,2.6
 France,2015-09-26,SM Caen,GFC Ajaccio,2,0,1.75,3.6,5.0,1.75,3.5,4.6,1.8,3.4,4.35
 France,2015-09-27,En Avant de Guingamp,AS Monaco,3,3,3.25,3.1,2.38,3.4,3.1,2.3,3.3,3.1,2.2
 France,2015-09-27,Olympique de Marseille,Angers SCO,1,2,1.4,4.5,8.5,1.45,4.2,8.0,1.45,4.0,7.0
-France,2015-09-27,Montpellier Hérault SC,FC Lorient,2,1,2.2,3.25,3.5,2.2,3.2,3.3,2.2,3.1,3.3
+France,2015-09-27,Montpellier Harault SC,FC Lorient,2,1,2.2,3.25,3.5,2.2,3.2,3.3,2.2,3.1,3.3
 France,2015-09-26,FC Nantes,Paris Saint-Germain,1,4,10.0,4.33,1.4,8.75,4.0,1.45,7.0,4.0,1.45
 France,2015-09-25,Stade de Reims,LOSC Lille,1,0,2.7,3.1,2.8,2.7,3.0,2.7,2.7,3.0,2.7
 France,2015-09-26,Stade Rennais FC,ES Troyes AC,1,1,1.73,3.5,5.5,1.8,3.5,5.0,1.75,3.4,4.65
-France,2015-09-27,AS Saint-Étienne,OGC Nice,1,4,1.73,3.6,5.25,1.75,3.4,5.5,1.65,3.5,5.3
+France,2015-09-27,AS Saint-atienne,OGC Nice,1,4,1.73,3.6,5.25,1.75,3.4,5.5,1.65,3.5,5.3
 France,2015-10-03,Angers SCO,SC Bastia,1,0,2.1,3.1,4.0,2.15,3.1,3.5,2.1,3.15,3.45
-France,2015-10-04,SM Caen,AS Saint-Étienne,1,0,2.45,3.2,2.88,2.55,3.1,3.0,2.65,3.1,2.65
+France,2015-10-04,SM Caen,AS Saint-atienne,1,0,2.45,3.2,2.88,2.55,3.1,3.0,2.65,3.1,2.65
 France,2015-10-03,GFC Ajaccio,Toulouse FC,2,2,3.1,3.2,2.4,3.0,3.2,2.5,2.8,3.1,2.5
-France,2015-10-02,LOSC Lille,Montpellier Hérault SC,2,0,2.0,3.1,4.33,2.0,3.0,4.25,2.0,3.1,3.9
+France,2015-10-02,LOSC Lille,Montpellier Harault SC,2,0,2.0,3.1,4.33,2.0,3.0,4.25,2.0,3.1,3.9
 France,2015-10-04,FC Lorient,Girondins de Bordeaux,3,2,2.6,3.2,2.8,2.6,3.1,2.75,2.5,3.1,2.8
 France,2015-10-03,Olympique Lyonnais,Stade de Reims,1,0,1.62,3.75,6.0,1.62,3.8,5.75,1.65,3.5,5.3
 France,2015-10-04,AS Monaco,Stade Rennais FC,1,1,1.85,3.4,4.75,1.91,3.4,4.25,1.9,3.25,4.1
@@ -1001,18 +1001,18 @@ France,2015-10-04,Paris Saint-Germain,Olympique de Marseille,2,1,1.33,5.0,10.0,1
 France,2015-10-03,ES Troyes AC,En Avant de Guingamp,0,1,2.63,3.1,2.88,2.65,3.0,2.8,2.6,3.1,2.7
 France,2015-11-04,OGC Nice,FC Nantes,1,2,2.0,3.25,4.2,2.0,3.25,3.75,2.1,3.15,3.45
 Germany,2015-08-14,FC Bayern Munich,Hamburger SV,5,0,1.08,11.0,29.0,1.1,9.0,23.0,1.15,7.0,15.0
-Germany,2015-08-15,Borussia Dortmund,Borussia Mönchengladbach,4,0,1.73,3.75,5.0,1.75,3.75,4.25,1.8,3.5,4.2
+Germany,2015-08-15,Borussia Dortmund,Borussia Manchengladbach,4,0,1.73,3.75,5.0,1.75,3.75,4.25,1.8,3.5,4.2
 Germany,2015-08-15,Bayer 04 Leverkusen,TSG 1899 Hoffenheim,2,1,1.5,4.33,6.5,1.5,4.4,5.75,1.45,4.0,7.0
 Germany,2015-08-16,VfL Wolfsburg,Eintracht Frankfurt,2,1,1.44,4.75,7.0,1.5,4.0,6.5,1.45,4.0,7.0
-Germany,2015-08-16,VfB Stuttgart,1. FC Köln,1,3,2.05,3.3,3.8,2.05,3.25,3.7,2.1,3.3,3.3
+Germany,2015-08-16,VfB Stuttgart,1. FC Kaln,1,3,2.05,3.3,3.8,2.05,3.25,3.7,2.1,3.3,3.3
 Germany,2015-08-15,FC Augsburg,Hertha BSC Berlin,0,1,2.0,3.4,3.9,2.0,3.3,3.75,2.0,3.3,3.6
 Germany,2015-08-15,SV Werder Bremen,FC Schalke 04,0,3,3.0,3.4,2.38,2.9,3.3,2.35,2.75,3.3,2.4
 Germany,2015-08-15,1. FSV Mainz 05,FC Ingolstadt 04,0,1,2.05,3.4,3.75,2.05,3.3,3.6,2.0,3.3,3.6
 Germany,2015-08-15,SV Darmstadt 98,Hannover 96,2,2,2.5,3.3,2.9,2.5,3.25,2.75,2.5,3.3,2.65
-Germany,2015-10-24,FC Bayern Munich,1. FC Köln,4,0,1.1,9.0,29.0,1.12,9.0,23.0,1.15,7.0,15.0
+Germany,2015-10-24,FC Bayern Munich,1. FC Kaln,4,0,1.1,9.0,29.0,1.12,9.0,23.0,1.15,7.0,15.0
 Germany,2015-10-25,Borussia Dortmund,FC Augsburg,5,1,1.2,7.0,13.0,1.2,7.0,13.0,1.25,5.5,10.3
 Germany,2015-10-24,Bayer 04 Leverkusen,VfB Stuttgart,4,3,1.57,4.33,5.5,1.57,4.33,5.5,1.6,3.9,5.0
-Germany,2015-10-25,Borussia Mönchengladbach,FC Schalke 04,3,1,2.15,3.5,3.3,2.3,3.4,3.1,2.2,3.3,3.1
+Germany,2015-10-25,Borussia Manchengladbach,FC Schalke 04,3,1,2.15,3.5,3.3,2.3,3.4,3.1,2.2,3.3,3.1
 Germany,2015-10-24,Hannover 96,Eintracht Frankfurt,1,2,2.5,3.4,2.8,2.5,3.3,2.7,2.4,3.3,2.75
 Germany,2015-10-23,TSG 1899 Hoffenheim,Hamburger SV,0,1,2.1,3.6,3.4,2.05,3.5,3.4,2.1,3.3,3.3
 Germany,2015-10-24,1. FSV Mainz 05,SV Werder Bremen,1,3,2.05,3.5,3.6,2.05,3.4,3.5,2.0,3.3,3.6
@@ -1025,24 +1025,24 @@ Germany,2015-11-01,VfB Stuttgart,SV Darmstadt 98,2,0,1.67,4.0,5.0,1.67,3.6,5.25,
 Germany,2015-10-31,FC Augsburg,1. FSV Mainz 05,3,3,2.3,3.4,3.1,2.35,3.25,2.95,2.5,3.3,2.65
 Germany,2015-10-31,SV Werder Bremen,Borussia Dortmund,1,3,7.5,5.0,1.4,7.75,4.75,1.4,7.0,4.6,1.4
 Germany,2015-10-30,Eintracht Frankfurt,FC Bayern Munich,0,0,15.0,8.0,1.17,14.0,7.0,1.2,12.0,5.5,1.22
-Germany,2015-10-31,1. FC Köln,TSG 1899 Hoffenheim,0,0,2.05,3.5,3.4,2.1,3.3,3.4,2.2,3.3,3.1
-Germany,2015-10-31,Hertha BSC Berlin,Borussia Mönchengladbach,1,4,3.0,3.3,2.4,2.8,3.2,2.5,2.65,3.3,2.5
+Germany,2015-10-31,1. FC Kaln,TSG 1899 Hoffenheim,0,0,2.05,3.5,3.4,2.1,3.3,3.4,2.2,3.3,3.1
+Germany,2015-10-31,Hertha BSC Berlin,Borussia Manchengladbach,1,4,3.0,3.3,2.4,2.8,3.2,2.5,2.65,3.3,2.5
 Germany,2015-11-07,FC Bayern Munich,VfB Stuttgart,4,0,1.1,11.0,21.0,1.12,9.75,17.5,1.12,8.0,16.0
 Germany,2015-11-08,Borussia Dortmund,FC Schalke 04,3,2,1.3,6.0,8.5,1.33,5.25,9.0,1.4,4.4,7.3
-Germany,2015-11-07,Bayer 04 Leverkusen,1. FC Köln,1,2,1.5,4.33,6.5,1.53,4.4,6.0,1.5,4.0,6.1
-Germany,2015-11-07,Borussia Mönchengladbach,FC Ingolstadt 04,0,0,1.62,3.8,6.0,1.67,3.9,4.6,1.6,3.7,5.4
+Germany,2015-11-07,Bayer 04 Leverkusen,1. FC Kaln,1,2,1.5,4.33,6.5,1.53,4.4,6.0,1.5,4.0,6.1
+Germany,2015-11-07,Borussia Manchengladbach,FC Ingolstadt 04,0,0,1.62,3.8,6.0,1.67,3.9,4.6,1.6,3.7,5.4
 Germany,2015-11-08,FC Augsburg,SV Werder Bremen,1,2,2.2,3.4,3.3,2.2,3.4,3.1,2.1,3.3,3.3
 Germany,2015-11-06,Hannover 96,Hertha BSC Berlin,1,3,2.63,3.3,2.7,2.7,3.05,2.7,2.6,3.1,2.7
 Germany,2015-11-07,TSG 1899 Hoffenheim,Eintracht Frankfurt,0,0,2.1,3.6,3.4,2.15,3.3,3.3,2.1,3.3,3.3
 Germany,2015-11-07,1. FSV Mainz 05,VfL Wolfsburg,2,0,3.3,3.6,2.15,3.2,3.5,2.2,3.1,3.3,2.2
 Germany,2015-11-07,SV Darmstadt 98,Hamburger SV,1,1,2.75,3.0,2.8,2.7,3.05,2.7,2.6,3.2,2.6
 Germany,2015-11-21,FC Schalke 04,FC Bayern Munich,1,3,13.0,6.5,1.22,13.0,6.5,1.26,10.0,5.2,1.27
-Germany,2015-11-21,Borussia Mönchengladbach,Hannover 96,2,1,1.5,4.2,7.0,1.5,3.9,6.75,1.55,4.0,5.5
+Germany,2015-11-21,Borussia Manchengladbach,Hannover 96,2,1,1.5,4.2,7.0,1.5,3.9,6.75,1.55,4.0,5.5
 Germany,2015-11-21,VfL Wolfsburg,SV Werder Bremen,6,0,1.57,4.0,5.75,1.62,4.1,5.25,1.55,4.0,5.5
 Germany,2015-11-20,Hamburger SV,Borussia Dortmund,3,1,8.5,5.0,1.36,7.75,5.25,1.36,7.0,4.6,1.4
 Germany,2015-11-21,VfB Stuttgart,FC Augsburg,0,4,1.95,3.8,3.6,1.95,3.5,3.75,2.0,3.3,3.6
 Germany,2015-11-21,Eintracht Frankfurt,Bayer 04 Leverkusen,1,3,3.8,3.6,1.95,3.6,3.6,1.95,3.3,3.3,2.1
-Germany,2015-11-21,1. FC Köln,1. FSV Mainz 05,0,0,2.15,3.5,3.3,2.15,3.3,3.3,2.2,3.2,3.2
+Germany,2015-11-21,1. FC Kaln,1. FSV Mainz 05,0,0,2.15,3.5,3.3,2.15,3.3,3.3,2.2,3.2,3.2
 Germany,2015-11-22,Hertha BSC Berlin,TSG 1899 Hoffenheim,1,0,2.0,3.5,3.8,2.05,3.3,3.6,2.1,3.3,3.3
 Germany,2015-11-22,FC Ingolstadt 04,SV Darmstadt 98,3,1,2.05,3.25,4.0,2.1,3.25,3.5,2.2,3.2,3.2
 Germany,2015-11-28,FC Bayern Munich,Hertha BSC Berlin,2,0,1.08,11.0,26.0,1.09,10.5,29.0,1.1,8.0,20.0
@@ -1051,41 +1051,41 @@ Germany,2015-11-29,Bayer 04 Leverkusen,FC Schalke 04,1,1,1.62,4.2,5.25,1.67,3.9,
 Germany,2015-11-29,FC Augsburg,VfL Wolfsburg,0,0,3.3,3.4,2.2,3.25,3.4,2.25,3.1,3.3,2.2
 Germany,2015-11-28,SV Werder Bremen,Hamburger SV,1,3,2.25,3.4,3.2,2.35,3.25,2.95,2.4,3.3,2.75
 Germany,2015-11-28,Hannover 96,FC Ingolstadt 04,4,0,2.6,3.2,2.8,2.65,3.1,2.7,2.5,3.3,2.65
-Germany,2015-11-28,TSG 1899 Hoffenheim,Borussia Mönchengladbach,3,3,3.1,3.5,2.25,3.0,3.3,2.3,2.9,3.3,2.3
+Germany,2015-11-28,TSG 1899 Hoffenheim,Borussia Manchengladbach,3,3,3.1,3.5,2.25,3.0,3.3,2.3,2.9,3.3,2.3
 Germany,2015-11-28,1. FSV Mainz 05,Eintracht Frankfurt,2,1,2.2,3.5,3.2,2.2,3.4,3.1,2.25,3.3,3.0
-Germany,2015-11-27,SV Darmstadt 98,1. FC Köln,0,0,2.9,3.1,2.6,2.75,3.1,2.6,2.6,3.2,2.6
+Germany,2015-11-27,SV Darmstadt 98,1. FC Kaln,0,0,2.9,3.1,2.6,2.75,3.1,2.6,2.6,3.2,2.6
 Germany,2015-12-04,FC Schalke 04,Hannover 96,3,1,1.6,4.0,5.75,1.6,4.0,5.75,1.65,3.8,4.8
-Germany,2015-12-05,Borussia Mönchengladbach,FC Bayern Munich,3,1,9.0,5.25,1.33,8.0,5.25,1.36,7.3,4.4,1.4
+Germany,2015-12-05,Borussia Manchengladbach,FC Bayern Munich,3,1,9.0,5.25,1.33,8.0,5.25,1.36,7.3,4.4,1.4
 Germany,2015-12-05,VfL Wolfsburg,Borussia Dortmund,1,2,4.0,4.33,1.75,4.2,3.75,1.83,3.9,3.6,1.85
 Germany,2015-12-05,Hamburger SV,1. FSV Mainz 05,1,3,2.25,3.4,3.2,2.3,3.25,3.1,2.3,3.3,2.9
 Germany,2015-12-06,VfB Stuttgart,SV Werder Bremen,1,1,1.95,3.75,3.75,2.0,3.4,3.6,2.1,3.3,3.3
 Germany,2015-12-06,Eintracht Frankfurt,SV Darmstadt 98,0,1,1.91,3.4,4.33,1.91,3.4,3.9,2.0,3.3,3.6
-Germany,2015-12-05,1. FC Köln,FC Augsburg,0,1,2.2,3.3,3.4,2.25,3.25,3.1,2.4,3.2,2.85
+Germany,2015-12-05,1. FC Kaln,FC Augsburg,0,1,2.2,3.3,3.4,2.25,3.25,3.1,2.4,3.2,2.85
 Germany,2015-12-05,Hertha BSC Berlin,Bayer 04 Leverkusen,2,1,3.75,3.4,2.05,3.6,3.4,2.1,3.1,3.3,2.2
 Germany,2015-12-05,FC Ingolstadt 04,TSG 1899 Hoffenheim,1,1,2.25,3.3,3.3,2.35,3.3,2.95,2.4,3.3,2.75
 Germany,2015-12-12,FC Bayern Munich,FC Ingolstadt 04,2,0,1.07,13.0,29.0,1.08,11.0,31.0,1.1,8.0,20.0
 Germany,2015-12-13,Borussia Dortmund,Eintracht Frankfurt,4,1,1.17,8.0,15.0,1.18,7.5,15.0,1.2,5.8,13.0
-Germany,2015-12-12,Bayer 04 Leverkusen,Borussia Mönchengladbach,5,0,1.95,3.75,3.75,2.0,3.6,3.7,2.1,3.3,3.3
+Germany,2015-12-12,Bayer 04 Leverkusen,Borussia Manchengladbach,5,0,1.95,3.75,3.75,2.0,3.6,3.7,2.1,3.3,3.3
 Germany,2015-12-12,VfL Wolfsburg,Hamburger SV,1,1,1.57,4.2,5.75,1.6,4.0,5.75,1.6,3.7,5.4
 Germany,2015-12-13,FC Augsburg,FC Schalke 04,2,1,2.63,3.5,2.63,2.7,3.3,2.65,2.6,3.2,2.6
-Germany,2015-12-12,SV Werder Bremen,1. FC Köln,1,1,2.5,3.3,2.88,2.5,3.3,2.7,2.5,3.3,2.65
+Germany,2015-12-12,SV Werder Bremen,1. FC Kaln,1,1,2.5,3.3,2.88,2.5,3.3,2.7,2.5,3.3,2.65
 Germany,2015-12-12,TSG 1899 Hoffenheim,Hannover 96,1,0,1.8,3.5,4.5,1.87,3.4,4.1,2.0,3.3,3.6
 Germany,2015-12-11,1. FSV Mainz 05,VfB Stuttgart,0,0,2.05,3.6,3.5,2.1,3.3,3.4,2.1,3.3,3.3
 Germany,2015-12-12,SV Darmstadt 98,Hertha BSC Berlin,0,4,3.1,3.1,2.5,2.9,3.1,2.5,2.65,3.3,2.5
 Germany,2015-12-18,FC Schalke 04,TSG 1899 Hoffenheim,1,0,1.67,4.0,5.0,1.7,3.8,5.0,1.8,3.5,4.2
-Germany,2015-12-20,Borussia Mönchengladbach,SV Darmstadt 98,3,2,1.5,4.33,6.5,1.5,4.33,5.75,1.5,4.0,6.1
+Germany,2015-12-20,Borussia Manchengladbach,SV Darmstadt 98,3,2,1.5,4.33,6.5,1.5,4.33,5.75,1.5,4.0,6.1
 Germany,2015-12-19,Hamburger SV,FC Augsburg,0,1,2.4,3.3,3.0,2.35,3.25,2.95,2.3,3.3,2.9
 Germany,2015-12-19,VfB Stuttgart,VfL Wolfsburg,3,1,3.5,3.6,2.0,3.4,3.6,2.1,3.1,3.3,2.2
 Germany,2015-12-19,Eintracht Frankfurt,SV Werder Bremen,2,1,2.25,3.4,3.2,2.3,3.25,3.1,2.3,3.3,2.9
-Germany,2015-12-19,1. FC Köln,Borussia Dortmund,2,1,7.0,4.75,1.44,6.25,4.75,1.48,6.1,4.0,1.5
+Germany,2015-12-19,1. FC Kaln,Borussia Dortmund,2,1,7.0,4.75,1.44,6.25,4.75,1.48,6.1,4.0,1.5
 Germany,2015-12-19,Hannover 96,FC Bayern Munich,0,1,15.0,6.5,1.2,13.5,6.25,1.22,10.3,5.5,1.25
 Germany,2015-12-20,Hertha BSC Berlin,1. FSV Mainz 05,2,0,2.15,3.4,3.4,2.15,3.3,3.3,2.2,3.3,3.1
 Germany,2015-12-19,FC Ingolstadt 04,Bayer 04 Leverkusen,0,1,4.75,3.5,1.8,4.5,3.7,1.8,3.8,3.45,1.9
 Germany,2016-01-24,FC Schalke 04,SV Werder Bremen,1,3,1.67,4.0,5.0,1.67,3.8,5.25,1.75,3.5,4.5
-Germany,2016-01-23,Borussia Mönchengladbach,Borussia Dortmund,1,3,4.5,4.2,1.7,4.75,3.9,1.72,4.1,3.6,1.8
+Germany,2016-01-23,Borussia Manchengladbach,Borussia Dortmund,1,3,4.5,4.2,1.7,4.75,3.9,1.72,4.1,3.6,1.8
 Germany,2016-01-22,Hamburger SV,FC Bayern Munich,1,2,13.0,6.5,1.22,11.5,6.75,1.24,9.0,5.0,1.3
 Germany,2016-01-24,Eintracht Frankfurt,VfL Wolfsburg,3,2,3.6,3.5,2.05,3.5,3.6,2.05,3.3,3.3,2.1
-Germany,2016-01-23,1. FC Köln,VfB Stuttgart,1,3,2.15,3.5,3.3,2.15,3.3,3.3,2.3,3.3,2.9
+Germany,2016-01-23,1. FC Kaln,VfB Stuttgart,1,3,2.15,3.5,3.3,2.15,3.3,3.3,2.3,3.3,2.9
 Germany,2016-01-23,Hannover 96,SV Darmstadt 98,1,2,2.3,3.3,3.2,2.25,3.3,3.1,2.1,3.3,3.3
 Germany,2016-01-23,Hertha BSC Berlin,FC Augsburg,0,0,2.2,3.3,3.4,2.2,3.3,3.2,2.3,3.2,3.0
 Germany,2016-01-23,TSG 1899 Hoffenheim,Bayer 04 Leverkusen,1,1,4.33,3.8,1.8,4.33,3.75,1.8,3.8,3.45,1.9
@@ -1093,25 +1093,25 @@ Germany,2016-01-23,FC Ingolstadt 04,1. FSV Mainz 05,1,0,2.4,3.2,3.1,2.5,3.2,2.8,
 Germany,2016-01-31,FC Bayern Munich,TSG 1899 Hoffenheim,2,0,1.08,13.0,21.0,1.11,9.5,23.0,1.1,8.0,20.0
 Germany,2016-01-30,Borussia Dortmund,FC Ingolstadt 04,2,0,1.17,7.0,19.0,1.17,7.25,17.0,1.22,5.5,12.0
 Germany,2016-01-30,Bayer 04 Leverkusen,Hannover 96,3,0,1.25,6.0,12.0,1.3,5.5,10.0,1.35,4.8,7.6
-Germany,2016-01-31,VfL Wolfsburg,1. FC Köln,1,1,1.57,4.0,5.75,1.62,4.0,5.5,1.6,3.9,5.0
+Germany,2016-01-31,VfL Wolfsburg,1. FC Kaln,1,1,1.57,4.0,5.75,1.62,4.0,5.5,1.6,3.9,5.0
 Germany,2016-01-30,VfB Stuttgart,Hamburger SV,2,1,1.95,3.6,3.8,1.95,3.5,3.7,2.1,3.3,3.3
 Germany,2016-01-30,FC Augsburg,Eintracht Frankfurt,0,0,1.95,3.6,4.0,2.05,3.3,3.6,2.1,3.3,3.3
 Germany,2016-01-30,SV Werder Bremen,Hertha BSC Berlin,3,3,2.5,3.3,2.8,2.6,3.2,2.75,2.6,3.2,2.6
-Germany,2016-01-29,1. FSV Mainz 05,Borussia Mönchengladbach,1,0,2.6,3.4,2.7,2.6,3.3,2.7,2.6,3.2,2.6
+Germany,2016-01-29,1. FSV Mainz 05,Borussia Manchengladbach,1,0,2.6,3.4,2.7,2.6,3.3,2.7,2.6,3.2,2.6
 Germany,2016-01-30,SV Darmstadt 98,FC Schalke 04,0,2,3.4,3.4,2.15,3.4,3.3,2.2,2.9,3.3,2.3
 Germany,2015-08-22,FC Schalke 04,SV Darmstadt 98,1,1,1.44,4.5,7.5,1.45,4.33,6.75,1.45,4.0,7.0
-Germany,2015-08-23,Borussia Mönchengladbach,1. FSV Mainz 05,1,2,1.67,4.0,5.0,1.7,3.7,4.75,1.65,3.6,5.1
+Germany,2015-08-23,Borussia Manchengladbach,1. FSV Mainz 05,1,2,1.67,4.0,5.0,1.7,3.7,4.75,1.65,3.6,5.1
 Germany,2015-08-22,Hamburger SV,VfB Stuttgart,3,2,2.88,3.5,2.4,2.8,3.3,2.45,2.55,3.4,2.55
 Germany,2015-08-22,Eintracht Frankfurt,FC Augsburg,1,1,2.25,3.4,3.25,2.25,3.4,3.0,2.2,3.3,3.1
-Germany,2015-08-22,1. FC Köln,VfL Wolfsburg,1,1,4.2,3.8,1.83,3.9,3.6,1.87,3.8,3.45,1.9
+Germany,2015-08-22,1. FC Kaln,VfL Wolfsburg,1,1,4.2,3.8,1.83,3.9,3.6,1.87,3.8,3.45,1.9
 Germany,2015-08-22,Hannover 96,Bayer 04 Leverkusen,0,1,4.2,3.75,1.83,4.0,3.6,1.85,3.75,3.5,1.9
 Germany,2015-08-21,Hertha BSC Berlin,SV Werder Bremen,1,1,2.05,3.5,3.6,2.1,3.3,3.4,2.1,3.3,3.3
 Germany,2015-08-22,TSG 1899 Hoffenheim,FC Bayern Munich,1,2,9.5,6.0,1.25,9.0,5.25,1.33,8.0,5.0,1.33
 Germany,2015-08-23,FC Ingolstadt 04,Borussia Dortmund,0,4,7.0,4.5,1.45,6.25,4.33,1.48,6.1,4.0,1.5
 Germany,2016-02-06,FC Schalke 04,VfL Wolfsburg,3,0,2.45,3.5,2.8,2.45,3.4,2.9,2.4,3.3,2.75
 Germany,2016-02-06,Bayer 04 Leverkusen,FC Bayern Munich,0,0,5.25,4.2,1.6,5.5,4.1,1.65,5.1,3.6,1.65
-Germany,2016-02-05,Borussia Mönchengladbach,SV Werder Bremen,5,1,1.7,4.0,4.5,1.75,3.8,4.2,1.8,3.5,4.2
-Germany,2016-02-07,Hamburger SV,1. FC Köln,1,1,2.5,3.2,3.0,2.5,3.2,2.8,2.5,3.3,2.65
+Germany,2016-02-05,Borussia Manchengladbach,SV Werder Bremen,5,1,1.7,4.0,4.5,1.75,3.8,4.2,1.8,3.5,4.2
+Germany,2016-02-07,Hamburger SV,1. FC Kaln,1,1,2.5,3.2,3.0,2.5,3.2,2.8,2.5,3.3,2.65
 Germany,2016-02-06,Eintracht Frankfurt,VfB Stuttgart,2,4,2.7,3.6,2.5,2.7,3.25,2.6,2.6,3.2,2.6
 Germany,2016-02-06,Hannover 96,1. FSV Mainz 05,0,1,2.75,3.3,2.6,2.7,3.2,2.65,2.6,3.2,2.6
 Germany,2016-02-06,Hertha BSC Berlin,Borussia Dortmund,0,0,6.5,4.33,1.5,6.0,4.33,1.53,5.6,3.9,1.55
@@ -1119,17 +1119,17 @@ Germany,2016-02-07,TSG 1899 Hoffenheim,SV Darmstadt 98,0,2,2.0,3.3,4.0,2.0,3.25,
 Germany,2016-02-06,FC Ingolstadt 04,FC Augsburg,2,1,2.5,3.1,3.1,2.5,3.2,2.8,2.4,3.3,2.75
 Germany,2016-02-13,Borussia Dortmund,Hannover 96,1,0,1.14,8.5,17.0,1.14,7.75,15.5,1.15,7.0,15.0
 Germany,2016-02-13,VfL Wolfsburg,FC Ingolstadt 04,2,0,1.73,3.6,5.25,1.75,3.7,4.75,1.7,3.6,4.7
-Germany,2016-02-14,Hamburger SV,Borussia Mönchengladbach,3,2,3.3,3.6,2.1,3.1,3.4,2.2,2.9,3.3,2.3
+Germany,2016-02-14,Hamburger SV,Borussia Manchengladbach,3,2,3.3,3.6,2.1,3.1,3.4,2.2,2.9,3.3,2.3
 Germany,2016-02-13,VfB Stuttgart,Hertha BSC Berlin,2,0,2.1,3.5,3.5,2.15,3.3,3.3,2.2,3.3,3.1
 Germany,2016-02-14,FC Augsburg,FC Bayern Munich,1,3,13.0,6.0,1.22,9.25,6.25,1.28,8.5,4.8,1.33
 Germany,2016-02-13,SV Werder Bremen,TSG 1899 Hoffenheim,1,1,2.2,3.5,3.25,2.2,3.3,3.2,2.2,3.3,3.1
-Germany,2016-02-13,1. FC Köln,Eintracht Frankfurt,3,1,1.91,3.8,3.8,1.95,3.3,3.9,2.1,3.3,3.3
+Germany,2016-02-13,1. FC Kaln,Eintracht Frankfurt,3,1,1.91,3.8,3.8,1.95,3.3,3.9,2.1,3.3,3.3
 Germany,2016-02-12,1. FSV Mainz 05,FC Schalke 04,2,1,2.9,3.4,2.45,2.9,3.25,2.5,2.6,3.2,2.6
 Germany,2016-02-13,SV Darmstadt 98,Bayer 04 Leverkusen,1,2,4.75,3.75,1.75,5.0,3.6,1.75,4.2,3.5,1.8
 Germany,2016-02-20,FC Bayern Munich,SV Darmstadt 98,3,1,1.08,12.0,26.0,1.08,11.0,34.0,1.07,9.5,22.0
 Germany,2016-02-21,FC Schalke 04,VfB Stuttgart,1,1,2.15,3.75,3.1,2.15,3.5,3.3,2.0,3.3,3.6
 Germany,2016-02-21,Bayer 04 Leverkusen,Borussia Dortmund,0,1,3.4,3.5,2.1,3.4,3.4,2.15,3.1,3.3,2.2
-Germany,2016-02-20,Borussia Mönchengladbach,1. FC Köln,1,0,1.91,3.6,4.0,1.95,3.4,3.75,2.0,3.3,3.6
+Germany,2016-02-20,Borussia Manchengladbach,1. FC Kaln,1,0,1.91,3.6,4.0,1.95,3.4,3.75,2.0,3.3,3.6
 Germany,2016-02-19,Eintracht Frankfurt,Hamburger SV,0,0,2.25,3.5,3.0,2.3,3.25,3.1,2.3,3.3,2.9
 Germany,2016-02-21,Hannover 96,FC Augsburg,0,1,2.63,3.3,2.75,2.7,3.1,2.7,2.6,3.2,2.6
 Germany,2016-02-20,Hertha BSC Berlin,VfL Wolfsburg,1,1,2.75,3.3,2.6,2.8,3.2,2.65,2.6,3.2,2.6
@@ -1139,53 +1139,53 @@ Germany,2016-02-28,Borussia Dortmund,TSG 1899 Hoffenheim,3,1,1.18,7.0,17.0,1.2,6
 Germany,2016-02-27,VfL Wolfsburg,FC Bayern Munich,0,2,9.0,4.5,1.4,9.0,4.5,1.45,5.5,4.0,1.55
 Germany,2016-02-27,Hamburger SV,FC Ingolstadt 04,1,1,2.4,3.0,3.3,2.45,3.1,2.95,2.3,3.2,3.0
 Germany,2016-02-27,VfB Stuttgart,Hannover 96,1,2,1.53,4.0,6.5,1.55,4.2,5.5,1.5,4.0,6.1
-Germany,2016-02-28,FC Augsburg,Borussia Mönchengladbach,2,2,2.7,3.4,2.6,2.6,3.3,2.6,2.65,3.3,2.5
+Germany,2016-02-28,FC Augsburg,Borussia Manchengladbach,2,2,2.7,3.4,2.6,2.6,3.3,2.6,2.65,3.3,2.5
 Germany,2016-02-27,SV Werder Bremen,SV Darmstadt 98,2,2,2.1,3.4,3.6,2.1,3.3,3.4,2.2,3.3,3.1
 Germany,2016-02-28,Eintracht Frankfurt,FC Schalke 04,0,0,3.2,3.4,2.25,3.2,3.4,2.25,3.1,3.3,2.2
-Germany,2016-02-26,1. FC Köln,Hertha BSC Berlin,0,1,2.1,3.3,3.75,2.1,3.3,3.4,2.15,3.3,3.2
+Germany,2016-02-26,1. FC Kaln,Hertha BSC Berlin,0,1,2.1,3.3,3.75,2.1,3.3,3.4,2.15,3.3,3.2
 Germany,2016-02-28,1. FSV Mainz 05,Bayer 04 Leverkusen,3,1,3.75,3.5,2.0,3.5,3.4,2.05,3.1,3.3,2.2
 Germany,2016-03-02,FC Bayern Munich,1. FSV Mainz 05,1,2,1.13,9.0,21.0,1.13,8.0,17.5,1.15,7.0,15.0
 Germany,2016-03-02,FC Schalke 04,Hamburger SV,3,2,1.85,3.6,4.33,1.83,3.5,4.25,1.9,3.45,3.8
 Germany,2016-03-02,Bayer 04 Leverkusen,SV Werder Bremen,1,4,1.44,4.75,7.0,1.4,4.75,6.75,1.45,4.0,7.0
-Germany,2016-03-02,Borussia Mönchengladbach,VfB Stuttgart,4,0,2.05,3.8,3.4,2.1,3.4,3.3,2.1,3.3,3.3
+Germany,2016-03-02,Borussia Manchengladbach,VfB Stuttgart,4,0,2.05,3.8,3.4,2.1,3.4,3.3,2.1,3.3,3.3
 Germany,2016-03-01,Hannover 96,VfL Wolfsburg,0,4,4.2,3.75,1.85,3.7,3.75,1.95,3.6,3.3,2.0
 Germany,2016-03-02,Hertha BSC Berlin,Eintracht Frankfurt,2,0,1.85,3.6,4.33,1.8,3.6,4.25,1.8,3.5,4.2
 Germany,2016-03-02,TSG 1899 Hoffenheim,FC Augsburg,2,1,2.25,3.4,3.3,2.35,3.4,2.85,2.4,3.3,2.75
-Germany,2016-03-01,FC Ingolstadt 04,1. FC Köln,1,1,2.5,3.1,3.0,2.5,3.1,2.9,2.6,3.1,2.7
+Germany,2016-03-01,FC Ingolstadt 04,1. FC Kaln,1,1,2.5,3.1,3.0,2.5,3.1,2.9,2.6,3.1,2.7
 Germany,2016-03-02,SV Darmstadt 98,Borussia Dortmund,0,2,8.0,4.75,1.4,7.0,4.75,1.4,7.3,4.4,1.4
 Germany,2016-03-05,Borussia Dortmund,FC Bayern Munich,0,0,3.1,3.4,2.3,3.0,3.3,2.3,3.0,3.45,2.3
-Germany,2016-03-05,VfL Wolfsburg,Borussia Mönchengladbach,2,1,1.95,3.75,3.6,2.0,3.4,3.6,2.2,3.3,3.1
+Germany,2016-03-05,VfL Wolfsburg,Borussia Manchengladbach,2,1,1.95,3.75,3.6,2.0,3.4,3.6,2.2,3.3,3.1
 Germany,2016-03-06,Hamburger SV,Hertha BSC Berlin,2,0,2.88,3.1,2.63,2.7,3.25,2.55,2.6,3.2,2.6
 Germany,2016-03-05,VfB Stuttgart,TSG 1899 Hoffenheim,5,1,1.91,3.6,4.0,1.87,3.7,3.8,2.0,3.3,3.6
 Germany,2016-03-05,FC Augsburg,Bayer 04 Leverkusen,3,3,2.9,3.3,2.5,2.9,3.2,2.4,2.65,3.3,2.5
 Germany,2016-03-05,SV Werder Bremen,Hannover 96,4,1,1.73,3.8,4.75,1.75,3.6,4.6,1.8,3.5,4.2
 Germany,2016-03-05,Eintracht Frankfurt,FC Ingolstadt 04,1,1,2.5,3.2,3.0,2.4,3.2,2.95,2.4,3.3,2.75
-Germany,2016-03-05,1. FC Köln,FC Schalke 04,1,3,2.4,3.2,3.1,2.45,3.2,2.85,2.6,3.2,2.6
+Germany,2016-03-05,1. FC Kaln,FC Schalke 04,1,3,2.4,3.2,3.1,2.45,3.2,2.85,2.6,3.2,2.6
 Germany,2016-03-06,1. FSV Mainz 05,SV Darmstadt 98,0,0,1.75,3.6,5.0,1.8,3.5,4.4,1.7,3.6,4.7
 Germany,2016-03-12,FC Bayern Munich,SV Werder Bremen,5,0,1.13,9.0,21.0,1.15,7.5,14.5,1.12,8.0,16.0
 Germany,2016-03-13,Borussia Dortmund,1. FSV Mainz 05,2,0,1.36,5.0,8.5,1.34,5.0,8.25,1.35,4.8,7.6
 Germany,2016-03-13,Bayer 04 Leverkusen,Hamburger SV,1,0,1.67,3.75,5.5,1.62,3.9,5.0,1.7,3.7,4.5
-Germany,2016-03-12,Borussia Mönchengladbach,Eintracht Frankfurt,3,0,1.57,4.33,5.5,1.55,4.1,5.5,1.6,3.9,5.0
-Germany,2016-03-12,Hannover 96,1. FC Köln,0,2,3.5,3.3,2.15,3.2,3.4,2.15,2.75,3.3,2.4
+Germany,2016-03-12,Borussia Manchengladbach,Eintracht Frankfurt,3,0,1.57,4.33,5.5,1.55,4.1,5.5,1.6,3.9,5.0
+Germany,2016-03-12,Hannover 96,1. FC Kaln,0,2,3.5,3.3,2.15,3.2,3.4,2.15,2.75,3.3,2.4
 Germany,2016-03-11,Hertha BSC Berlin,FC Schalke 04,2,0,2.4,3.2,3.0,2.55,3.25,2.85,2.6,3.2,2.6
 Germany,2016-03-12,TSG 1899 Hoffenheim,VfL Wolfsburg,1,0,3.4,3.6,2.1,3.3,3.4,2.1,3.3,3.3,2.1
 Germany,2016-03-12,FC Ingolstadt 04,VfB Stuttgart,3,3,3.0,3.2,2.5,2.9,3.25,2.4,2.6,3.2,2.6
 Germany,2016-03-12,SV Darmstadt 98,FC Augsburg,2,2,2.8,3.1,2.7,2.65,3.2,2.65,2.6,3.2,2.6
-Germany,2016-03-18,FC Schalke 04,Borussia Mönchengladbach,2,1,2.45,3.5,2.8,2.5,3.3,2.85,2.4,3.3,2.75
+Germany,2016-03-18,FC Schalke 04,Borussia Manchengladbach,2,1,2.45,3.5,2.8,2.5,3.3,2.85,2.4,3.3,2.75
 Germany,2016-03-19,VfL Wolfsburg,SV Darmstadt 98,1,1,1.44,4.33,8.0,1.44,4.25,7.25,1.45,4.0,7.0
 Germany,2016-03-19,Hamburger SV,TSG 1899 Hoffenheim,1,3,2.25,3.4,3.2,2.2,3.3,3.2,2.2,3.3,3.1
 Germany,2016-03-20,VfB Stuttgart,Bayer 04 Leverkusen,0,2,2.3,3.5,2.9,2.35,3.3,2.9,2.4,3.3,2.75
 Germany,2016-03-20,FC Augsburg,Borussia Dortmund,1,3,6.5,4.33,1.5,6.25,4.33,1.48,6.1,4.0,1.5
 Germany,2016-03-19,SV Werder Bremen,1. FSV Mainz 05,1,1,2.38,3.4,3.0,2.4,3.25,2.9,2.5,3.3,2.65
 Germany,2016-03-19,Eintracht Frankfurt,Hannover 96,1,0,1.85,3.6,4.33,1.83,3.5,4.25,1.8,3.5,4.2
-Germany,2016-03-19,1. FC Köln,FC Bayern Munich,0,1,11.0,5.0,1.29,9.75,5.75,1.26,10.3,5.5,1.25
+Germany,2016-03-19,1. FC Kaln,FC Bayern Munich,0,1,11.0,5.0,1.29,9.75,5.75,1.26,10.3,5.5,1.25
 Germany,2016-03-19,Hertha BSC Berlin,FC Ingolstadt 04,2,1,2.05,3.2,4.0,2.0,3.2,3.9,1.9,3.45,3.8
 Germany,2016-04-02,FC Bayern Munich,Eintracht Frankfurt,1,0,1.13,9.0,21.0,1.1,9.0,21.0,1.1,8.0,20.0
 Germany,2016-04-02,Borussia Dortmund,SV Werder Bremen,3,2,1.2,7.0,13.0,1.2,6.5,11.5,1.25,6.0,9.0
 Germany,2016-04-01,Bayer 04 Leverkusen,VfL Wolfsburg,3,0,2.0,3.2,4.0,2.0,3.5,3.8,2.0,3.3,3.6
-Germany,2016-04-03,Borussia Mönchengladbach,Hertha BSC Berlin,5,0,1.83,3.6,4.33,1.83,3.5,4.25,1.9,3.45,3.8
+Germany,2016-04-03,Borussia Manchengladbach,Hertha BSC Berlin,5,0,1.83,3.6,4.33,1.83,3.5,4.25,1.9,3.45,3.8
 Germany,2016-04-02,Hannover 96,Hamburger SV,0,3,3.1,3.25,2.38,2.9,3.25,2.4,2.9,3.3,2.3
-Germany,2016-04-03,TSG 1899 Hoffenheim,1. FC Köln,1,1,2.38,3.3,3.1,2.45,3.3,2.8,2.2,3.3,3.1
+Germany,2016-04-03,TSG 1899 Hoffenheim,1. FC Kaln,1,1,2.38,3.3,3.1,2.45,3.3,2.8,2.2,3.3,3.1
 Germany,2016-04-02,1. FSV Mainz 05,FC Augsburg,4,2,2.1,3.4,3.6,2.05,3.2,3.7,2.0,3.3,3.6
 Germany,2016-04-02,FC Ingolstadt 04,FC Schalke 04,3,0,2.75,3.0,2.7,2.7,3.2,2.6,2.75,3.2,2.5
 Germany,2016-04-02,SV Darmstadt 98,VfB Stuttgart,2,2,3.4,3.3,2.2,3.0,3.3,2.3,2.75,3.3,2.4
@@ -1195,16 +1195,16 @@ Germany,2016-04-09,Hamburger SV,SV Darmstadt 98,1,2,2.05,3.4,3.6,2.05,3.25,3.6,2
 Germany,2016-04-09,VfB Stuttgart,FC Bayern Munich,1,3,6.0,4.33,1.5,6.0,4.75,1.44,7.0,4.0,1.45
 Germany,2016-04-09,SV Werder Bremen,FC Augsburg,1,2,2.05,3.4,3.5,2.15,3.3,3.3,2.2,3.3,3.1
 Germany,2016-04-09,Eintracht Frankfurt,TSG 1899 Hoffenheim,0,2,2.3,3.25,3.1,2.45,3.25,2.8,2.4,3.3,2.75
-Germany,2016-04-10,1. FC Köln,Bayer 04 Leverkusen,0,2,3.1,3.25,2.3,3.0,3.3,2.3,2.75,3.3,2.4
+Germany,2016-04-10,1. FC Kaln,Bayer 04 Leverkusen,0,2,3.1,3.25,2.3,3.0,3.3,2.3,2.75,3.3,2.4
 Germany,2016-04-08,Hertha BSC Berlin,Hannover 96,2,2,1.5,4.2,7.0,1.5,4.1,6.25,1.4,4.6,7.0
-Germany,2016-04-09,FC Ingolstadt 04,Borussia Mönchengladbach,1,0,3.2,3.4,2.2,3.1,3.3,2.25,2.9,3.3,2.3
+Germany,2016-04-09,FC Ingolstadt 04,Borussia Manchengladbach,1,0,3.2,3.4,2.2,3.1,3.3,2.25,2.9,3.3,2.3
 Germany,2015-08-29,FC Bayern Munich,Bayer 04 Leverkusen,3,0,1.33,5.25,9.0,1.3,5.25,9.0,1.33,5.0,8.0
 Germany,2015-08-30,Borussia Dortmund,Hertha BSC Berlin,3,1,1.2,6.5,17.0,1.24,6.25,10.5,1.25,5.5,10.3
 Germany,2015-08-28,VfL Wolfsburg,FC Schalke 04,3,0,2.0,3.8,3.5,2.0,3.3,3.7,2.0,3.3,3.6
 Germany,2015-08-29,VfB Stuttgart,Eintracht Frankfurt,1,4,1.95,3.6,3.8,1.95,3.4,3.8,2.0,3.3,3.6
 Germany,2015-08-29,FC Augsburg,FC Ingolstadt 04,0,1,2.0,3.4,3.8,2.0,3.3,3.75,2.0,3.3,3.6
-Germany,2015-08-30,SV Werder Bremen,Borussia Mönchengladbach,2,1,3.2,3.4,2.25,3.1,3.3,2.25,3.3,3.3,2.1
-Germany,2015-08-29,1. FC Köln,Hamburger SV,2,1,1.83,3.5,4.5,1.83,3.5,4.2,1.9,3.45,3.8
+Germany,2015-08-30,SV Werder Bremen,Borussia Manchengladbach,2,1,3.2,3.4,2.25,3.1,3.3,2.25,3.3,3.3,2.1
+Germany,2015-08-29,1. FC Kaln,Hamburger SV,2,1,1.83,3.5,4.5,1.83,3.5,4.2,1.9,3.45,3.8
 Germany,2015-08-29,1. FSV Mainz 05,Hannover 96,3,0,2.0,3.5,3.8,1.95,3.4,3.8,2.0,3.3,3.6
 Germany,2015-08-29,SV Darmstadt 98,TSG 1899 Hoffenheim,0,0,3.0,3.3,2.4,2.75,3.3,2.5,2.65,3.3,2.5
 Germany,2016-04-16,FC Bayern Munich,FC Schalke 04,3,0,1.18,7.5,15.0,1.18,7.0,12.5,1.22,5.5,12.0
@@ -1212,51 +1212,51 @@ Germany,2016-04-17,Borussia Dortmund,Hamburger SV,3,0,1.33,5.25,9.0,1.28,5.75,8.
 Germany,2016-04-16,Bayer 04 Leverkusen,Eintracht Frankfurt,3,0,1.36,5.25,8.0,1.36,5.0,7.5,1.4,4.5,7.0
 Germany,2016-04-16,FC Augsburg,VfB Stuttgart,1,0,2.45,3.6,2.75,2.5,3.3,2.75,2.3,3.3,2.9
 Germany,2016-04-16,SV Werder Bremen,VfL Wolfsburg,3,2,2.5,3.5,2.75,2.35,3.5,2.75,2.5,3.3,2.65
-Germany,2016-04-15,Hannover 96,Borussia Mönchengladbach,2,0,5.5,4.0,1.62,5.0,4.1,1.65,4.7,3.6,1.7
+Germany,2016-04-15,Hannover 96,Borussia Manchengladbach,2,0,5.5,4.0,1.62,5.0,4.1,1.65,4.7,3.6,1.7
 Germany,2016-04-16,TSG 1899 Hoffenheim,Hertha BSC Berlin,2,1,2.38,3.4,3.0,2.45,3.25,2.85,2.5,3.2,2.75
-Germany,2016-04-17,1. FSV Mainz 05,1. FC Köln,2,3,2.1,3.4,3.6,2.0,3.4,3.6,2.1,3.3,3.3
+Germany,2016-04-17,1. FSV Mainz 05,1. FC Kaln,2,3,2.1,3.4,3.6,2.0,3.4,3.6,2.1,3.3,3.3
 Germany,2016-04-16,SV Darmstadt 98,FC Ingolstadt 04,2,0,2.55,3.2,2.88,2.5,3.1,2.85,2.6,3.0,2.8
 Germany,2016-04-23,FC Schalke 04,Bayer 04 Leverkusen,2,3,3.0,3.3,2.4,2.85,3.5,2.3,2.6,3.2,2.6
-Germany,2016-04-24,Borussia Mönchengladbach,TSG 1899 Hoffenheim,3,1,1.62,4.2,5.25,1.62,3.9,5.0,1.65,3.8,4.8
+Germany,2016-04-24,Borussia Manchengladbach,TSG 1899 Hoffenheim,3,1,1.62,4.2,5.25,1.62,3.9,5.0,1.65,3.8,4.8
 Germany,2016-04-23,VfL Wolfsburg,FC Augsburg,0,2,1.8,3.75,4.33,1.75,3.7,4.4,1.9,3.45,3.8
 Germany,2016-04-22,Hamburger SV,SV Werder Bremen,2,1,2.6,3.5,2.63,2.6,3.55,2.6,2.4,3.3,2.75
 Germany,2016-04-23,VfB Stuttgart,Borussia Dortmund,0,3,4.75,4.2,1.65,4.5,4.1,1.65,4.4,3.8,1.7
 Germany,2016-04-24,Eintracht Frankfurt,1. FSV Mainz 05,2,1,2.88,3.3,2.5,2.7,3.25,2.55,2.65,3.3,2.5
-Germany,2016-04-23,1. FC Köln,SV Darmstadt 98,4,1,1.95,3.3,4.33,1.91,3.4,3.9,2.0,3.3,3.6
+Germany,2016-04-23,1. FC Kaln,SV Darmstadt 98,4,1,1.95,3.3,4.33,1.91,3.4,3.9,2.0,3.3,3.6
 Germany,2016-04-23,Hertha BSC Berlin,FC Bayern Munich,0,2,9.0,4.5,1.4,7.0,4.4,1.42,7.3,4.4,1.4
 Germany,2016-04-23,FC Ingolstadt 04,Hannover 96,2,2,1.91,3.4,4.33,1.83,3.5,4.25,1.8,3.5,4.2
-Germany,2016-04-30,FC Bayern Munich,Borussia Mönchengladbach,1,1,1.4,5.0,7.5,1.44,5.25,6.0,1.4,4.4,7.3
+Germany,2016-04-30,FC Bayern Munich,Borussia Manchengladbach,1,1,1.4,5.0,7.5,1.44,5.25,6.0,1.4,4.4,7.3
 Germany,2016-04-30,Borussia Dortmund,VfL Wolfsburg,5,1,1.36,5.0,8.5,1.35,5.5,7.75,1.4,4.5,7.0
 Germany,2016-04-30,Bayer 04 Leverkusen,Hertha BSC Berlin,2,1,1.62,3.75,6.0,1.62,4.0,5.5,1.55,4.0,5.5
-Germany,2016-04-29,FC Augsburg,1. FC Köln,0,0,2.45,3.25,3.0,2.4,3.4,2.95,2.2,3.3,3.1
+Germany,2016-04-29,FC Augsburg,1. FC Kaln,0,0,2.45,3.25,3.0,2.4,3.4,2.95,2.2,3.3,3.1
 Germany,2016-05-02,SV Werder Bremen,VfB Stuttgart,6,2,2.05,3.6,3.5,2.1,3.8,3.25,2.2,3.3,3.1
 Germany,2016-04-30,Hannover 96,FC Schalke 04,1,3,3.8,4.0,1.85,4.0,3.9,1.83,4.0,3.45,1.85
 Germany,2016-04-30,TSG 1899 Hoffenheim,FC Ingolstadt 04,2,1,1.8,3.6,4.6,1.8,3.6,4.6,1.9,3.45,3.8
 Germany,2016-04-30,1. FSV Mainz 05,Hamburger SV,0,0,1.8,3.75,4.33,1.75,3.9,4.5,1.9,3.45,3.8
 Germany,2016-04-30,SV Darmstadt 98,Eintracht Frankfurt,1,2,2.5,3.2,3.0,2.5,3.3,2.9,2.4,3.3,2.75
 Germany,2016-05-07,FC Schalke 04,FC Augsburg,1,1,1.7,4.2,4.5,1.7,3.9,4.5,1.65,3.7,4.9
-Germany,2016-05-07,Borussia Mönchengladbach,Bayer 04 Leverkusen,2,1,1.91,3.8,3.8,1.9,3.7,3.7,1.75,3.7,4.2
+Germany,2016-05-07,Borussia Manchengladbach,Bayer 04 Leverkusen,2,1,1.91,3.8,3.8,1.9,3.7,3.7,1.75,3.7,4.2
 Germany,2016-05-07,Hamburger SV,VfL Wolfsburg,0,1,2.7,3.4,2.63,2.6,3.2,2.7,2.4,3.3,2.75
 Germany,2016-05-07,VfB Stuttgart,1. FSV Mainz 05,1,3,2.1,3.8,3.2,2.05,3.6,3.25,2.0,3.4,3.5
 Germany,2016-05-07,Eintracht Frankfurt,Borussia Dortmund,1,0,7.0,4.75,1.45,7.0,4.75,1.4,5.2,4.5,1.5
-Germany,2016-05-07,1. FC Köln,SV Werder Bremen,0,0,2.8,3.75,2.38,2.75,3.75,2.25,2.7,3.6,2.3
+Germany,2016-05-07,1. FC Kaln,SV Werder Bremen,0,0,2.8,3.75,2.38,2.75,3.75,2.25,2.7,3.6,2.3
 Germany,2016-05-07,Hannover 96,TSG 1899 Hoffenheim,1,0,3.4,3.75,2.05,3.4,3.6,2.0,3.8,3.45,1.9
 Germany,2016-05-07,Hertha BSC Berlin,SV Darmstadt 98,1,2,1.75,3.6,5.0,1.7,3.75,4.6,1.75,3.6,4.3
 Germany,2016-05-07,FC Ingolstadt 04,FC Bayern Munich,1,2,15.0,7.0,1.18,10.0,6.5,1.22,10.3,5.5,1.25
 Germany,2016-05-14,FC Bayern Munich,Hannover 96,3,1,1.08,11.0,26.0,1.09,11.0,16.0,1.15,7.0,15.0
-Germany,2016-05-14,Borussia Dortmund,1. FC Köln,2,2,1.29,5.75,8.0,1.3,5.5,8.5,1.3,5.0,9.0
+Germany,2016-05-14,Borussia Dortmund,1. FC Kaln,2,2,1.29,5.75,8.0,1.3,5.5,8.5,1.3,5.0,9.0
 Germany,2016-05-14,Bayer 04 Leverkusen,FC Ingolstadt 04,3,2,1.5,4.33,6.5,1.5,4.33,5.75,1.5,4.0,6.1
 Germany,2016-05-14,VfL Wolfsburg,VfB Stuttgart,3,1,2.3,4.0,2.75,2.35,3.8,2.6,2.5,3.5,2.5
 Germany,2016-05-14,FC Augsburg,Hamburger SV,1,3,2.0,3.5,3.8,2.0,3.5,3.5,2.0,3.3,3.6
 Germany,2016-05-14,SV Werder Bremen,Eintracht Frankfurt,1,0,2.0,3.75,3.5,2.0,3.7,3.3,2.1,3.3,3.3
 Germany,2016-05-14,TSG 1899 Hoffenheim,FC Schalke 04,1,4,3.2,3.8,2.05,2.9,3.9,2.15,3.0,3.6,2.1
 Germany,2016-05-14,1. FSV Mainz 05,Hertha BSC Berlin,0,0,2.05,3.6,3.5,2.05,3.6,3.25,1.85,3.5,3.9
-Germany,2016-05-14,SV Darmstadt 98,Borussia Mönchengladbach,0,2,3.5,3.75,2.0,3.7,3.5,1.95,3.8,3.45,1.9
+Germany,2016-05-14,SV Darmstadt 98,Borussia Manchengladbach,0,2,3.5,3.75,2.0,3.7,3.5,1.95,3.8,3.45,1.9
 Germany,2015-09-12,FC Bayern Munich,FC Augsburg,2,1,1.13,9.5,19.0,1.13,9.25,18.0,1.12,8.0,16.0
 Germany,2015-09-13,FC Schalke 04,1. FSV Mainz 05,2,1,1.85,3.75,4.2,1.87,3.5,4.33,1.8,3.5,4.2
 Germany,2015-09-12,Bayer 04 Leverkusen,SV Darmstadt 98,0,1,1.25,6.0,13.0,1.26,6.0,11.0,1.3,5.0,9.0
-Germany,2015-09-11,Borussia Mönchengladbach,Hamburger SV,0,3,1.67,4.0,5.0,1.67,3.75,5.0,1.65,3.7,4.9
-Germany,2015-09-12,Eintracht Frankfurt,1. FC Köln,6,2,2.3,3.3,3.2,2.3,3.3,3.0,2.3,3.3,2.9
+Germany,2015-09-11,Borussia Manchengladbach,Hamburger SV,0,3,1.67,4.0,5.0,1.67,3.75,5.0,1.65,3.7,4.9
+Germany,2015-09-12,Eintracht Frankfurt,1. FC Kaln,6,2,2.3,3.3,3.2,2.3,3.3,3.0,2.3,3.3,2.9
 Germany,2015-09-12,Hannover 96,Borussia Dortmund,2,4,7.5,4.5,1.44,7.25,4.5,1.45,7.0,4.0,1.45
 Germany,2015-09-12,Hertha BSC Berlin,VfB Stuttgart,2,1,2.5,3.4,2.8,2.5,3.3,2.7,2.4,3.3,2.75
 Germany,2015-09-13,TSG 1899 Hoffenheim,SV Werder Bremen,1,3,1.95,3.75,3.75,1.95,3.4,3.8,1.9,3.45,3.8
@@ -1267,31 +1267,31 @@ Germany,2015-09-19,Hamburger SV,Eintracht Frankfurt,0,0,2.5,3.5,2.75,2.55,3.3,2.
 Germany,2015-09-20,VfB Stuttgart,FC Schalke 04,0,1,2.63,3.5,2.6,2.65,3.4,2.65,2.65,3.3,2.5
 Germany,2015-09-20,FC Augsburg,Hannover 96,2,0,2.0,3.5,3.75,2.0,3.3,3.7,1.9,3.45,3.8
 Germany,2015-09-19,SV Werder Bremen,FC Ingolstadt 04,0,1,2.05,3.5,3.6,2.05,3.4,3.5,2.1,3.3,3.3
-Germany,2015-09-19,1. FC Köln,Borussia Mönchengladbach,1,0,2.4,3.3,3.0,2.4,3.25,2.9,2.55,3.4,2.55
+Germany,2015-09-19,1. FC Kaln,Borussia Manchengladbach,1,0,2.4,3.3,3.0,2.4,3.25,2.9,2.55,3.4,2.55
 Germany,2015-09-18,1. FSV Mainz 05,TSG 1899 Hoffenheim,3,1,2.15,3.5,3.3,2.2,3.3,3.2,2.2,3.3,3.1
 Germany,2015-09-19,SV Darmstadt 98,FC Bayern Munich,0,3,19.0,7.0,1.17,16.0,7.5,1.17,12.5,6.0,1.2
 Germany,2015-09-22,FC Bayern Munich,VfL Wolfsburg,5,1,1.25,6.0,12.0,1.3,5.25,11.5,1.35,4.8,7.6
 Germany,2015-09-23,FC Schalke 04,Eintracht Frankfurt,2,0,1.83,3.8,4.2,1.8,3.9,4.25,1.75,3.5,4.5
 Germany,2015-09-23,Bayer 04 Leverkusen,1. FSV Mainz 05,1,0,1.53,4.33,6.0,1.57,4.0,6.0,1.6,3.9,5.0
-Germany,2015-09-23,Borussia Mönchengladbach,FC Augsburg,4,2,2.15,3.4,3.4,2.2,3.3,3.2,2.2,3.3,3.1
+Germany,2015-09-23,Borussia Manchengladbach,FC Augsburg,4,2,2.15,3.4,3.4,2.2,3.3,3.2,2.2,3.3,3.1
 Germany,2015-09-23,Hannover 96,VfB Stuttgart,1,3,2.88,3.5,2.4,2.85,3.3,2.4,2.65,3.3,2.5
-Germany,2015-09-22,Hertha BSC Berlin,1. FC Köln,2,0,2.38,3.25,3.1,2.4,3.3,2.85,2.4,3.3,2.75
+Germany,2015-09-22,Hertha BSC Berlin,1. FC Kaln,2,0,2.38,3.25,3.1,2.4,3.3,2.85,2.4,3.3,2.75
 Germany,2015-09-23,TSG 1899 Hoffenheim,Borussia Dortmund,1,1,7.0,4.75,1.44,6.75,4.5,1.48,6.1,4.0,1.5
 Germany,2015-09-22,FC Ingolstadt 04,Hamburger SV,0,1,2.3,3.3,3.25,2.3,3.2,3.1,2.3,3.3,2.9
 Germany,2015-09-22,SV Darmstadt 98,SV Werder Bremen,2,1,2.63,3.25,2.8,2.65,3.2,2.65,2.6,3.2,2.6
 Germany,2015-09-27,Borussia Dortmund,SV Darmstadt 98,2,2,1.14,8.5,17.0,1.16,8.0,16.5,1.15,7.0,15.0
 Germany,2015-09-26,VfL Wolfsburg,Hannover 96,1,1,1.4,4.75,8.0,1.42,4.75,7.5,1.45,4.0,7.0
 Germany,2015-09-26,Hamburger SV,FC Schalke 04,0,1,2.88,3.5,2.4,2.85,3.3,2.5,2.75,3.3,2.4
-Germany,2015-09-26,VfB Stuttgart,Borussia Mönchengladbach,1,3,2.1,3.5,3.4,2.1,3.5,3.2,2.2,3.3,3.1
+Germany,2015-09-26,VfB Stuttgart,Borussia Manchengladbach,1,3,2.1,3.5,3.4,2.1,3.5,3.2,2.2,3.3,3.1
 Germany,2015-09-26,FC Augsburg,TSG 1899 Hoffenheim,1,3,2.25,3.5,3.1,2.25,3.4,3.0,2.2,3.3,3.1
 Germany,2015-09-26,SV Werder Bremen,Bayer 04 Leverkusen,0,3,3.8,3.6,1.95,3.75,3.5,2.0,3.3,3.3,2.1
 Germany,2015-09-27,Eintracht Frankfurt,Hertha BSC Berlin,1,1,1.95,3.5,4.0,1.95,3.4,3.75,2.0,3.3,3.6
-Germany,2015-09-25,1. FC Köln,FC Ingolstadt 04,1,1,2.05,3.3,3.8,2.05,3.25,3.6,2.1,3.3,3.3
+Germany,2015-09-25,1. FC Kaln,FC Ingolstadt 04,1,1,2.05,3.3,3.8,2.05,3.25,3.6,2.1,3.3,3.3
 Germany,2015-09-26,1. FSV Mainz 05,FC Bayern Munich,0,3,12.0,6.0,1.25,10.5,5.75,1.28,10.0,5.2,1.27
 Germany,2015-10-04,FC Bayern Munich,Borussia Dortmund,5,1,1.5,4.33,6.5,1.53,4.4,6.5,1.6,4.0,5.5
-Germany,2015-10-04,FC Schalke 04,1. FC Köln,0,3,1.73,3.8,4.8,1.75,3.7,4.75,1.8,3.5,4.2
+Germany,2015-10-04,FC Schalke 04,1. FC Kaln,0,3,1.73,3.8,4.8,1.75,3.7,4.75,1.8,3.5,4.2
 Germany,2015-10-04,Bayer 04 Leverkusen,FC Augsburg,1,1,1.4,4.75,8.0,1.4,4.75,8.0,1.4,4.4,7.3
-Germany,2015-10-03,Borussia Mönchengladbach,VfL Wolfsburg,2,0,2.6,3.4,2.7,2.7,3.25,2.7,2.6,3.2,2.6
+Germany,2015-10-03,Borussia Manchengladbach,VfL Wolfsburg,2,0,2.6,3.4,2.7,2.7,3.25,2.7,2.6,3.2,2.6
 Germany,2015-10-03,Hannover 96,SV Werder Bremen,1,0,2.6,3.4,2.7,2.65,3.2,2.65,2.5,3.3,2.65
 Germany,2015-10-03,Hertha BSC Berlin,Hamburger SV,3,0,2.2,3.2,3.5,2.15,3.3,3.3,2.2,3.2,3.2
 Germany,2015-10-03,TSG 1899 Hoffenheim,VfB Stuttgart,2,2,2.45,3.75,2.65,2.5,3.3,2.7,2.4,3.3,2.75
@@ -1303,8 +1303,8 @@ Germany,2015-10-17,Hamburger SV,Bayer 04 Leverkusen,0,0,4.75,3.5,1.8,4.6,3.6,1.8
 Germany,2015-10-18,VfB Stuttgart,FC Ingolstadt 04,1,0,1.8,3.75,4.33,1.83,3.6,4.1,1.8,3.5,4.2
 Germany,2015-10-17,FC Augsburg,SV Darmstadt 98,0,2,1.8,3.5,4.75,1.85,3.5,4.1,1.85,3.45,4.0
 Germany,2015-10-17,SV Werder Bremen,FC Bayern Munich,0,1,17.0,7.0,1.18,12.0,7.0,1.22,13.0,5.8,1.2
-Germany,2015-10-17,Eintracht Frankfurt,Borussia Mönchengladbach,1,5,2.45,3.4,2.88,2.5,3.3,2.7,2.55,3.4,2.55
-Germany,2015-10-18,1. FC Köln,Hannover 96,0,1,1.95,3.5,4.0,1.95,3.4,3.8,1.8,3.5,4.2
+Germany,2015-10-17,Eintracht Frankfurt,Borussia Manchengladbach,1,5,2.45,3.4,2.88,2.5,3.3,2.7,2.55,3.4,2.55
+Germany,2015-10-18,1. FC Kaln,Hannover 96,0,1,1.95,3.5,4.0,1.95,3.4,3.8,1.8,3.5,4.2
 Germany,2015-10-16,1. FSV Mainz 05,Borussia Dortmund,0,2,5.75,4.75,1.5,5.5,4.6,1.53,5.5,4.0,1.55
 Italy,2015-08-23,Empoli,Chievo Verona,1,3,2.15,3.25,3.6,2.2,3.1,3.4,2.3,3.2,3.0
 Italy,2015-08-23,Fiorentina,Milan,2,0,2.15,3.4,3.5,2.2,3.1,3.4,2.3,3.3,2.9
@@ -1995,169 +1995,169 @@ Netherlands,2015-10-18,PEC Zwolle,Vitesse,1,5,2.9,3.5,2.3,2.75,3.5,2.3,2.9,3.3,2
 Portugal,2015-08-15,CF Os Belenenses,Rio Ave FC,3,3,2.45,3.1,3.0,2.45,3.1,2.9,2.5,3.0,2.8
 Portugal,2015-08-16,SL Benfica,Estoril Praia,4,0,1.3,5.5,9.0,1.3,5.0,9.0,1.3,4.8,8.5
 Portugal,2015-08-16,SC Braga,CD Nacional,2,1,1.73,3.5,5.0,1.7,3.4,5.0,1.7,3.5,4.4
-Portugal,2015-08-17,FC Paços de Ferreira,Académica de Coimbra,1,0,1.8,3.3,4.75,1.8,3.3,4.5,1.85,3.3,4.0
+Portugal,2015-08-17,FC Paaos de Ferreira,Acadamica de Coimbra,1,0,1.8,3.3,4.75,1.8,3.3,4.5,1.85,3.3,4.0
 Portugal,2015-08-16,Moreirense FC,FC Arouca,0,2,2.2,3.2,3.4,2.25,3.1,3.2,2.2,3.1,3.1
-Portugal,2015-08-16,Vitória Setúbal,Boavista FC,2,2,2.25,3.2,3.25,2.15,3.1,3.4,2.3,3.1,2.9
-Portugal,2015-08-15,FC Porto,Vitória Guimaraes,3,0,1.18,6.5,15.0,1.18,5.75,16.0,1.2,5.5,12.0
-Portugal,2015-08-16,Uniao da Madeira,CS Marítimo,2,1,2.8,3.25,2.5,2.85,3.0,2.55,2.6,3.0,2.6
+Portugal,2015-08-16,Vitaria Setabal,Boavista FC,2,2,2.25,3.2,3.25,2.15,3.1,3.4,2.3,3.1,2.9
+Portugal,2015-08-15,FC Porto,Vitaria Guimaraes,3,0,1.18,6.5,15.0,1.18,5.75,16.0,1.2,5.5,12.0
+Portugal,2015-08-16,Uniao da Madeira,CS Maratimo,2,1,2.8,3.25,2.5,2.85,3.0,2.55,2.6,3.0,2.6
 Portugal,2015-08-14,Tondela,Sporting CP,1,2,13.0,5.25,1.25,12.5,5.0,1.26,7.3,4.5,1.35
 Portugal,2015-11-08,FC Arouca,Sporting CP,0,1,9.0,4.5,1.36,7.75,4.2,1.4,7.0,4.1,1.4
 Portugal,2015-11-09,CF Os Belenenses,Tondela,2,1,1.75,3.5,4.75,1.8,3.25,4.6,1.8,3.4,4.0
 Portugal,2015-11-08,SL Benfica,Boavista FC,2,0,1.14,7.5,19.0,1.17,6.25,14.5,1.2,5.5,12.0
-Portugal,2015-11-07,Vitória Guimaraes,CD Nacional,0,1,2.1,3.25,3.5,2.1,3.1,3.5,2.1,3.2,3.2
-Portugal,2015-11-08,CS Marítimo,Rio Ave FC,3,2,2.1,3.1,3.8,2.0,3.1,3.9,2.1,3.2,3.2
-Portugal,2015-11-08,FC Porto,Vitória Setúbal,2,0,1.18,7.0,13.0,1.18,6.5,13.0,1.17,5.8,13.0
-Portugal,2015-11-06,Estoril Praia,Académica de Coimbra,1,1,1.75,3.4,5.0,1.72,3.4,5.0,1.75,3.4,4.3
+Portugal,2015-11-07,Vitaria Guimaraes,CD Nacional,0,1,2.1,3.25,3.5,2.1,3.1,3.5,2.1,3.2,3.2
+Portugal,2015-11-08,CS Maratimo,Rio Ave FC,3,2,2.1,3.1,3.8,2.0,3.1,3.9,2.1,3.2,3.2
+Portugal,2015-11-08,FC Porto,Vitaria Setabal,2,0,1.18,7.0,13.0,1.18,6.5,13.0,1.17,5.8,13.0
+Portugal,2015-11-06,Estoril Praia,Acadamica de Coimbra,1,1,1.75,3.4,5.0,1.72,3.4,5.0,1.75,3.4,4.3
 Portugal,2015-11-09,Uniao da Madeira,SC Braga,0,1,4.0,3.4,1.91,4.6,3.3,1.8,3.8,3.4,1.85
-Portugal,2015-11-08,Moreirense FC,FC Paços de Ferreira,2,0,2.63,3.1,2.75,2.7,3.0,2.65,2.6,3.0,2.6
-Portugal,2015-11-29,Académica de Coimbra,FC Arouca,1,1,2.5,3.0,3.0,2.4,2.95,3.1,2.4,2.9,3.0
-Portugal,2015-11-28,Boavista FC,Vitória Guimaraes,1,2,2.5,3.0,3.0,2.45,2.9,3.1,2.4,2.9,3.0
-Portugal,2015-11-28,Vitória Setúbal,Uniao da Madeira,2,2,1.91,3.2,4.33,1.75,3.25,5.0,1.9,3.3,3.7
+Portugal,2015-11-08,Moreirense FC,FC Paaos de Ferreira,2,0,2.63,3.1,2.75,2.7,3.0,2.65,2.6,3.0,2.6
+Portugal,2015-11-29,Acadamica de Coimbra,FC Arouca,1,1,2.5,3.0,3.0,2.4,2.95,3.1,2.4,2.9,3.0
+Portugal,2015-11-28,Boavista FC,Vitaria Guimaraes,1,2,2.5,3.0,3.0,2.45,2.9,3.1,2.4,2.9,3.0
+Portugal,2015-11-28,Vitaria Setabal,Uniao da Madeira,2,2,1.91,3.2,4.33,1.75,3.25,5.0,1.9,3.3,3.7
 Portugal,2015-11-30,Sporting CP,CF Os Belenenses,1,0,1.17,7.5,13.0,1.17,6.25,15.0,1.17,5.8,13.0
 Portugal,2015-11-30,SC Braga,SL Benfica,0,2,3.0,3.25,2.38,3.0,3.2,2.3,2.8,3.2,2.3
-Portugal,2015-11-29,FC Paços de Ferreira,Estoril Praia,2,0,2.1,3.1,3.8,2.2,3.0,3.4,2.1,3.1,3.3
-Portugal,2015-11-27,CD Nacional,CS Marítimo,3,1,2.38,3.1,3.1,2.35,3.1,3.0,2.3,3.1,2.9
+Portugal,2015-11-29,FC Paaos de Ferreira,Estoril Praia,2,0,2.1,3.1,3.8,2.2,3.0,3.4,2.1,3.1,3.3
+Portugal,2015-11-27,CD Nacional,CS Maratimo,3,1,2.38,3.1,3.1,2.35,3.1,3.0,2.3,3.1,2.9
 Portugal,2015-11-29,Rio Ave FC,Moreirense FC,0,1,1.83,3.4,4.5,1.75,3.3,4.75,1.8,3.4,4.0
 Portugal,2015-11-28,Tondela,FC Porto,0,1,19.0,6.5,1.17,15.0,6.0,1.18,13.0,5.8,1.17
 Portugal,2015-12-06,FC Arouca,Boavista FC,3,2,2.15,3.0,3.75,2.1,3.0,3.7,2.1,3.1,3.3
-Portugal,2015-12-05,CF Os Belenenses,Vitória Setúbal,0,3,2.3,3.0,3.4,2.2,3.0,3.4,2.3,3.1,2.9
+Portugal,2015-12-05,CF Os Belenenses,Vitaria Setabal,0,3,2.3,3.0,3.4,2.2,3.0,3.4,2.3,3.1,2.9
 Portugal,2015-12-06,Estoril Praia,CD Nacional,1,1,2.38,3.1,3.1,2.25,3.2,3.1,2.3,3.1,2.9
-Portugal,2015-12-07,Vitória Guimaraes,Rio Ave FC,3,1,2.3,3.1,3.3,2.25,3.0,3.3,2.3,3.1,2.9
-Portugal,2015-12-05,CS Marítimo,Sporting CP,0,1,7.5,3.8,1.5,6.25,3.9,1.5,5.4,3.7,1.55
-Portugal,2015-12-04,SL Benfica,Académica de Coimbra,3,0,1.17,6.5,19.0,1.16,7.5,17.5,1.15,6.2,14.0
+Portugal,2015-12-07,Vitaria Guimaraes,Rio Ave FC,3,1,2.3,3.1,3.3,2.25,3.0,3.3,2.3,3.1,2.9
+Portugal,2015-12-05,CS Maratimo,Sporting CP,0,1,7.5,3.8,1.5,6.25,3.9,1.5,5.4,3.7,1.55
+Portugal,2015-12-04,SL Benfica,Acadamica de Coimbra,3,0,1.17,6.5,19.0,1.16,7.5,17.5,1.15,6.2,14.0
 Portugal,2015-12-06,Moreirense FC,SC Braga,0,0,5.75,3.3,1.7,5.5,3.6,1.62,4.4,3.5,1.7
-Portugal,2015-12-05,FC Porto,FC Paços de Ferreira,2,1,1.18,6.5,15.0,1.18,6.5,13.0,1.15,6.2,14.0
+Portugal,2015-12-05,FC Porto,FC Paaos de Ferreira,2,1,1.18,6.5,15.0,1.18,6.5,13.0,1.15,6.2,14.0
 Portugal,2015-12-06,Uniao da Madeira,Tondela,2,0,2.1,3.0,4.0,2.15,3.0,3.5,2.1,3.1,3.3
-Portugal,2015-12-14,Académica de Coimbra,CF Os Belenenses,4,3,2.5,3.0,3.0,2.5,3.0,2.85,2.5,3.0,2.8
+Portugal,2015-12-14,Acadamica de Coimbra,CF Os Belenenses,4,3,2.5,3.0,3.0,2.5,3.0,2.85,2.5,3.0,2.8
 Portugal,2015-12-11,Boavista FC,Estoril Praia,1,1,2.6,2.9,3.0,2.5,3.0,3.0,2.5,3.0,2.8
-Portugal,2015-12-12,FC Paços de Ferreira,Uniao da Madeira,6,0,1.8,3.2,5.0,1.78,3.3,4.75,1.8,3.3,4.2
-Portugal,2015-12-12,Vitória Guimaraes,CS Marítimo,3,4,2.4,3.0,3.2,2.4,3.1,2.95,2.3,3.1,2.9
+Portugal,2015-12-12,FC Paaos de Ferreira,Uniao da Madeira,6,0,1.8,3.2,5.0,1.78,3.3,4.75,1.8,3.3,4.2
+Portugal,2015-12-12,Vitaria Guimaraes,CS Maratimo,3,4,2.4,3.0,3.2,2.4,3.1,2.95,2.3,3.1,2.9
 Portugal,2015-12-14,CD Nacional,FC Porto,1,2,7.5,4.5,1.4,7.0,4.1,1.44,7.0,4.1,1.4
 Portugal,2015-12-12,Rio Ave FC,FC Arouca,3,1,2.0,3.1,4.2,1.9,3.2,4.2,2.0,3.1,3.5
-Portugal,2015-12-12,Vitória Setúbal,SL Benfica,2,4,7.0,4.33,1.44,6.75,4.1,1.45,6.5,3.9,1.45
+Portugal,2015-12-12,Vitaria Setabal,SL Benfica,2,4,7.0,4.33,1.44,6.75,4.1,1.45,6.5,3.9,1.45
 Portugal,2015-12-13,Tondela,SC Braga,0,1,7.0,3.75,1.53,6.25,3.7,1.55,5.4,3.7,1.55
 Portugal,2015-12-13,Sporting CP,Moreirense FC,3,1,1.17,7.0,15.0,1.16,6.5,15.5,1.17,5.8,13.0
-Portugal,2015-12-19,FC Arouca,CS Marítimo,4,1,2.5,3.2,2.88,2.6,3.0,2.8,2.5,3.2,2.6
+Portugal,2015-12-19,FC Arouca,CS Maratimo,4,1,2.5,3.2,2.88,2.6,3.0,2.8,2.5,3.2,2.6
 Portugal,2015-12-21,CF Os Belenenses,Boavista FC,1,0,2.2,3.1,3.5,2.2,3.0,3.4,2.2,3.2,3.0
 Portugal,2015-12-20,SL Benfica,Rio Ave FC,3,1,1.29,4.5,15.0,1.28,5.0,10.5,1.25,5.0,10.0
-Portugal,2015-12-21,SC Braga,FC Paços de Ferreira,1,1,1.62,3.4,6.5,1.65,3.5,5.25,1.65,3.5,4.6
-Portugal,2015-12-19,Estoril Praia,Vitória Guimaraes,0,1,2.2,3.1,3.5,2.25,3.1,3.2,2.3,3.2,2.8
+Portugal,2015-12-21,SC Braga,FC Paaos de Ferreira,1,1,1.62,3.4,6.5,1.65,3.5,5.25,1.65,3.5,4.6
+Portugal,2015-12-19,Estoril Praia,Vitaria Guimaraes,0,1,2.2,3.1,3.5,2.25,3.1,3.2,2.3,3.2,2.8
 Portugal,2015-12-20,Moreirense FC,CD Nacional,2,0,2.5,3.25,2.8,2.5,2.95,2.9,2.5,3.2,2.6
-Portugal,2015-12-20,FC Porto,Académica de Coimbra,3,1,1.14,7.0,21.0,1.14,6.75,19.5,1.15,6.2,14.0
-Portugal,2015-12-20,Tondela,Vitória Setúbal,1,3,2.8,3.25,2.5,2.75,3.1,2.55,2.8,3.2,2.3
+Portugal,2015-12-20,FC Porto,Acadamica de Coimbra,3,1,1.14,7.0,21.0,1.14,6.75,19.5,1.15,6.2,14.0
+Portugal,2015-12-20,Tondela,Vitaria Setabal,1,3,2.8,3.25,2.5,2.75,3.1,2.55,2.8,3.2,2.3
 Portugal,2015-12-20,Uniao da Madeira,Sporting CP,1,0,9.0,5.0,1.33,9.0,5.0,1.3,8.5,4.8,1.3
-Portugal,2016-01-02,Académica de Coimbra,Uniao da Madeira,3,1,2.38,3.0,3.2,2.45,2.85,3.1,2.4,3.0,2.9
+Portugal,2016-01-02,Acadamica de Coimbra,Uniao da Madeira,3,1,2.38,3.0,3.2,2.45,2.85,3.1,2.4,3.0,2.9
 Portugal,2016-01-02,Boavista FC,Moreirense FC,0,3,2.5,3.0,3.0,2.6,2.7,3.1,2.4,3.0,2.9
 Portugal,2016-01-03,Rio Ave FC,Tondela,2,3,1.57,3.5,7.0,1.53,3.9,6.0,1.55,3.7,5.4
 Portugal,2016-01-02,CD Nacional,FC Arouca,2,2,2.05,3.1,4.0,2.05,2.95,4.0,2.0,3.3,3.3
-Portugal,2016-01-02,FC Paços de Ferreira,CF Os Belenenses,2,2,1.85,3.5,4.2,1.85,3.25,4.4,1.9,3.3,3.7
-Portugal,2016-01-02,Vitória Guimaraes,SL Benfica,0,1,6.5,3.8,1.53,6.75,3.6,1.53,5.7,3.8,1.5
-Portugal,2016-01-02,Vitória Setúbal,SC Braga,1,1,4.0,3.4,1.91,4.1,3.3,1.87,3.7,3.3,1.9
-Portugal,2016-01-02,CS Marítimo,Estoril Praia,1,1,1.91,3.3,4.2,1.95,3.0,4.25,2.1,3.1,3.3
+Portugal,2016-01-02,FC Paaos de Ferreira,CF Os Belenenses,2,2,1.85,3.5,4.2,1.85,3.25,4.4,1.9,3.3,3.7
+Portugal,2016-01-02,Vitaria Guimaraes,SL Benfica,0,1,6.5,3.8,1.53,6.75,3.6,1.53,5.7,3.8,1.5
+Portugal,2016-01-02,Vitaria Setabal,SC Braga,1,1,4.0,3.4,1.91,4.1,3.3,1.87,3.7,3.3,1.9
+Portugal,2016-01-02,CS Maratimo,Estoril Praia,1,1,1.91,3.3,4.2,1.95,3.0,4.25,2.1,3.1,3.3
 Portugal,2016-01-02,Sporting CP,FC Porto,2,0,2.4,3.2,3.0,2.55,3.2,2.9,2.5,3.2,2.7
 Portugal,2016-01-06,FC Arouca,Estoril Praia,1,0,2.38,3.1,3.1,2.4,2.95,3.1,2.3,3.1,2.9
 Portugal,2016-01-06,CF Os Belenenses,CD Nacional,2,2,2.45,3.1,3.0,2.25,3.1,3.2,2.1,3.1,3.3
-Portugal,2016-01-06,SL Benfica,CS Marítimo,6,0,1.33,5.0,9.0,1.33,5.0,8.0,1.2,5.5,12.0
+Portugal,2016-01-06,SL Benfica,CS Maratimo,6,0,1.33,5.0,9.0,1.33,5.0,8.0,1.2,5.5,12.0
 Portugal,2016-01-06,FC Porto,Rio Ave FC,1,1,1.18,6.5,15.0,1.22,6.0,11.0,1.17,5.8,13.0
-Portugal,2016-01-06,Vitória Setúbal,Sporting CP,0,6,8.5,4.33,1.4,6.25,4.1,1.48,5.7,3.8,1.5
-Portugal,2016-01-06,SC Braga,Académica de Coimbra,3,0,1.3,5.0,11.0,1.3,4.6,10.5,1.35,4.5,7.3
+Portugal,2016-01-06,Vitaria Setabal,Sporting CP,0,6,8.5,4.33,1.4,6.25,4.1,1.48,5.7,3.8,1.5
+Portugal,2016-01-06,SC Braga,Acadamica de Coimbra,3,0,1.3,5.0,11.0,1.3,4.6,10.5,1.35,4.5,7.3
 Portugal,2016-01-06,Uniao da Madeira,Boavista FC,1,0,2.25,3.0,3.5,2.15,3.0,3.6,1.9,3.3,3.7
-Portugal,2016-01-06,Tondela,FC Paços de Ferreira,0,2,3.5,3.1,2.2,3.5,3.1,2.1,2.9,3.1,2.3
-Portugal,2016-01-06,Moreirense FC,Vitória Guimaraes,3,4,2.63,3.1,2.75,2.7,2.85,2.8,2.5,3.0,2.75
-Portugal,2016-01-10,Académica de Coimbra,Tondela,2,1,2.0,3.1,4.2,1.95,3.2,4.0,2.0,3.1,3.5
+Portugal,2016-01-06,Tondela,FC Paaos de Ferreira,0,2,3.5,3.1,2.2,3.5,3.1,2.1,2.9,3.1,2.3
+Portugal,2016-01-06,Moreirense FC,Vitaria Guimaraes,3,4,2.63,3.1,2.75,2.7,2.85,2.8,2.5,3.0,2.75
+Portugal,2016-01-10,Acadamica de Coimbra,Tondela,2,1,2.0,3.1,4.2,1.95,3.2,4.0,2.0,3.1,3.5
 Portugal,2016-01-10,Boavista FC,FC Porto,0,5,15.0,5.25,1.25,10.0,5.0,1.28,8.5,4.8,1.3
-Portugal,2016-01-11,FC Paços de Ferreira,Vitória Setúbal,2,1,1.85,3.3,4.5,1.87,3.4,4.0,1.9,3.3,3.7
-Portugal,2016-01-10,CS Marítimo,Moreirense FC,5,1,2.0,3.2,4.0,2.0,3.25,3.7,2.1,3.1,3.3
+Portugal,2016-01-11,FC Paaos de Ferreira,Vitaria Setabal,2,1,1.85,3.3,4.5,1.87,3.4,4.0,1.9,3.3,3.7
+Portugal,2016-01-10,CS Maratimo,Moreirense FC,5,1,2.0,3.2,4.0,2.0,3.25,3.7,2.1,3.1,3.3
 Portugal,2016-01-10,Rio Ave FC,Uniao da Madeira,1,0,1.75,3.5,4.75,1.75,3.3,4.75,1.8,3.3,4.2
-Portugal,2016-01-09,Vitória Guimaraes,FC Arouca,2,2,2.0,3.3,3.8,2.0,3.2,3.8,2.1,3.1,3.3
+Portugal,2016-01-09,Vitaria Guimaraes,FC Arouca,2,2,2.0,3.3,3.8,2.0,3.2,3.8,2.1,3.1,3.3
 Portugal,2016-01-10,Estoril Praia,CF Os Belenenses,2,0,2.1,3.1,3.75,2.0,3.0,4.1,2.1,3.1,3.3
 Portugal,2016-01-11,CD Nacional,SL Benfica,1,4,5.0,4.0,1.62,5.5,3.7,1.6,5.4,3.7,1.55
 Portugal,2016-01-10,Sporting CP,SC Braga,3,2,1.57,3.8,6.0,1.53,3.7,6.25,1.55,3.7,5.4
 Portugal,2016-01-17,Rio Ave FC,CF Os Belenenses,1,2,1.8,3.5,4.5,1.75,3.3,4.75,1.75,3.4,4.3
 Portugal,2016-01-16,Estoril Praia,SL Benfica,1,2,8.0,4.0,1.45,6.75,3.75,1.5,5.7,3.8,1.5
 Portugal,2016-01-17,CD Nacional,SC Braga,2,3,4.0,3.4,1.91,4.0,3.25,1.91,3.4,3.2,2.0
-Portugal,2016-01-16,Académica de Coimbra,FC Paços de Ferreira,1,1,3.0,3.2,2.38,3.2,3.0,2.3,2.8,3.2,2.3
+Portugal,2016-01-16,Acadamica de Coimbra,FC Paaos de Ferreira,1,1,3.0,3.2,2.38,3.2,3.0,2.3,2.8,3.2,2.3
 Portugal,2016-01-17,FC Arouca,Moreirense FC,1,2,2.05,3.2,3.8,2.05,3.1,3.75,2.0,3.2,3.4
-Portugal,2016-01-18,Boavista FC,Vitória Setúbal,4,0,2.7,3.0,2.8,2.7,2.8,2.85,2.5,3.0,2.8
-Portugal,2016-01-17,Vitória Guimaraes,FC Porto,1,0,8.5,4.33,1.4,7.5,4.1,1.42,7.0,4.1,1.4
-Portugal,2016-01-16,CS Marítimo,Uniao da Madeira,0,1,1.67,3.75,5.0,1.6,3.6,5.75,1.6,3.6,5.0
+Portugal,2016-01-18,Boavista FC,Vitaria Setabal,4,0,2.7,3.0,2.8,2.7,2.8,2.85,2.5,3.0,2.8
+Portugal,2016-01-17,Vitaria Guimaraes,FC Porto,1,0,8.5,4.33,1.4,7.5,4.1,1.42,7.0,4.1,1.4
+Portugal,2016-01-16,CS Maratimo,Uniao da Madeira,0,1,1.67,3.75,5.0,1.6,3.6,5.75,1.6,3.6,5.0
 Portugal,2016-01-15,Sporting CP,Tondela,2,2,1.08,10.0,23.0,1.09,8.75,23.0,1.12,7.0,14.0
-Portugal,2016-01-22,Vitória Setúbal,Académica de Coimbra,2,1,2.25,3.0,3.5,2.3,3.0,3.25,2.2,3.1,3.1
+Portugal,2016-01-22,Vitaria Setabal,Acadamica de Coimbra,2,1,2.25,3.0,3.5,2.3,3.0,3.25,2.2,3.1,3.1
 Portugal,2016-01-23,SL Benfica,FC Arouca,3,1,1.17,6.5,19.0,1.19,6.0,14.0,1.17,5.8,13.0
 Portugal,2016-01-25,Tondela,Boavista FC,1,2,2.5,3.0,3.0,2.5,2.85,3.0,2.5,3.1,2.7
 Portugal,2016-01-23,Moreirense FC,Estoril Praia,1,3,2.38,3.0,3.2,2.4,2.95,3.1,2.3,3.1,2.9
-Portugal,2016-01-24,FC Porto,CS Marítimo,1,0,1.17,6.5,17.0,1.19,6.0,13.5,1.2,5.5,12.0
+Portugal,2016-01-24,FC Porto,CS Maratimo,1,0,1.17,6.5,17.0,1.19,6.0,13.5,1.2,5.5,12.0
 Portugal,2016-01-23,Uniao da Madeira,CD Nacional,3,0,3.1,3.1,2.38,2.9,2.85,2.6,2.6,3.0,2.6
-Portugal,2016-01-24,CF Os Belenenses,Vitória Guimaraes,3,3,2.6,3.0,2.9,2.45,2.95,3.0,2.5,3.1,2.7
+Portugal,2016-01-24,CF Os Belenenses,Vitaria Guimaraes,3,3,2.6,3.0,2.9,2.45,2.95,3.0,2.5,3.1,2.7
 Portugal,2016-01-24,SC Braga,Rio Ave FC,5,1,1.53,3.9,6.25,1.5,4.0,6.0,1.55,3.7,5.4
-Portugal,2016-01-23,FC Paços de Ferreira,Sporting CP,1,3,8.5,4.0,1.44,6.5,4.0,1.48,5.4,3.7,1.55
-Portugal,2015-08-24,Académica de Coimbra,Vitória Setúbal,0,4,2.15,3.3,3.4,2.25,3.1,3.2,2.3,3.2,2.8
+Portugal,2016-01-23,FC Paaos de Ferreira,Sporting CP,1,3,8.5,4.0,1.44,6.5,4.0,1.48,5.4,3.7,1.55
+Portugal,2015-08-24,Acadamica de Coimbra,Vitaria Setabal,0,4,2.15,3.3,3.4,2.25,3.1,3.2,2.3,3.2,2.8
 Portugal,2015-08-23,FC Arouca,SL Benfica,1,0,10.0,4.75,1.33,9.0,5.25,1.35,8.5,4.8,1.3
 Portugal,2015-08-23,Boavista FC,Tondela,1,0,1.95,3.3,4.0,2.0,3.5,3.4,1.9,3.3,3.7
 Portugal,2015-08-23,Estoril Praia,Moreirense FC,2,0,1.7,3.5,5.25,1.78,3.5,4.33,1.8,3.4,4.0
-Portugal,2015-08-22,CS Marítimo,FC Porto,1,1,9.0,4.5,1.36,7.75,4.25,1.4,7.0,4.1,1.4
+Portugal,2015-08-22,CS Maratimo,FC Porto,1,1,9.0,4.5,1.36,7.75,4.25,1.4,7.0,4.1,1.4
 Portugal,2015-08-23,CD Nacional,Uniao da Madeira,1,0,1.8,3.4,4.75,1.72,3.5,4.75,1.9,3.3,3.7
-Portugal,2015-08-23,Vitória Guimaraes,CF Os Belenenses,1,1,1.85,3.3,4.5,1.9,3.3,4.0,1.9,3.3,3.7
+Portugal,2015-08-23,Vitaria Guimaraes,CF Os Belenenses,1,1,1.85,3.3,4.5,1.9,3.3,4.0,1.9,3.3,3.7
 Portugal,2015-08-21,Rio Ave FC,SC Braga,1,0,3.25,3.2,2.25,3.0,3.1,2.35,2.6,3.2,2.5
-Portugal,2015-08-22,Sporting CP,FC Paços de Ferreira,1,1,1.33,5.0,9.0,1.33,4.6,9.0,1.3,4.8,8.5
-Portugal,2016-01-30,Sporting CP,Académica de Coimbra,3,2,1.17,7.0,15.0,1.16,6.75,14.0,1.15,6.2,14.0
-Portugal,2016-02-01,CS Marítimo,CF Os Belenenses,1,2,1.85,3.4,4.33,1.83,3.4,4.2,2.0,3.2,3.4
+Portugal,2015-08-22,Sporting CP,FC Paaos de Ferreira,1,1,1.33,5.0,9.0,1.33,4.6,9.0,1.3,4.8,8.5
+Portugal,2016-01-30,Sporting CP,Acadamica de Coimbra,3,2,1.17,7.0,15.0,1.16,6.75,14.0,1.15,6.2,14.0
+Portugal,2016-02-01,CS Maratimo,CF Os Belenenses,1,2,1.85,3.4,4.33,1.83,3.4,4.2,2.0,3.2,3.4
 Portugal,2016-01-31,Moreirense FC,SL Benfica,1,4,11.0,5.0,1.29,9.0,4.6,1.33,8.5,4.8,1.3
-Portugal,2016-01-31,FC Arouca,FC Paços de Ferreira,2,2,2.5,3.1,2.9,2.55,3.0,2.8,2.5,3.1,2.7
+Portugal,2016-01-31,FC Arouca,FC Paaos de Ferreira,2,2,2.5,3.1,2.9,2.55,3.0,2.8,2.5,3.1,2.7
 Portugal,2016-01-31,Boavista FC,SC Braga,0,0,6.0,3.6,1.6,6.0,3.6,1.57,4.6,3.5,1.65
 Portugal,2016-01-30,Estoril Praia,FC Porto,1,3,9.0,5.0,1.33,9.0,4.5,1.34,7.3,4.5,1.35
-Portugal,2016-01-29,Vitória Guimaraes,Uniao da Madeira,3,1,1.62,3.75,5.75,1.6,3.7,5.5,1.75,3.4,4.3
+Portugal,2016-01-29,Vitaria Guimaraes,Uniao da Madeira,3,1,1.62,3.75,5.75,1.6,3.7,5.5,1.75,3.4,4.3
 Portugal,2016-01-31,CD Nacional,Tondela,3,1,1.62,3.5,6.25,1.67,3.5,5.0,1.7,3.5,4.4
-Portugal,2016-01-31,Rio Ave FC,Vitória Setúbal,2,1,1.83,3.25,4.75,1.85,3.3,4.25,2.0,3.1,3.5
+Portugal,2016-01-31,Rio Ave FC,Vitaria Setabal,2,1,1.83,3.25,4.75,1.85,3.3,4.25,2.0,3.1,3.5
 Portugal,2016-02-07,FC Porto,FC Arouca,1,2,1.17,6.5,19.0,1.16,6.25,16.0,1.15,6.2,14.0
-Portugal,2016-02-07,FC Paços de Ferreira,Boavista FC,0,1,2.0,3.1,4.2,1.87,3.2,4.25,1.95,3.3,3.5
-Portugal,2016-02-06,Tondela,Vitória Guimaraes,1,1,3.8,3.2,2.05,3.7,3.2,2.0,3.1,3.3,2.1
-Portugal,2016-02-06,Vitória Setúbal,CS Marítimo,1,1,2.75,3.25,2.55,2.7,3.1,2.6,2.6,3.2,2.5
+Portugal,2016-02-07,FC Paaos de Ferreira,Boavista FC,0,1,2.0,3.1,4.2,1.87,3.2,4.25,1.95,3.3,3.5
+Portugal,2016-02-06,Tondela,Vitaria Guimaraes,1,1,3.8,3.2,2.05,3.7,3.2,2.0,3.1,3.3,2.1
+Portugal,2016-02-06,Vitaria Setabal,CS Maratimo,1,1,2.75,3.25,2.55,2.7,3.1,2.6,2.6,3.2,2.5
 Portugal,2016-02-07,Uniao da Madeira,Moreirense FC,0,1,2.3,3.3,3.1,2.25,3.1,3.2,2.4,3.2,2.7
 Portugal,2016-02-08,Sporting CP,Rio Ave FC,0,0,1.22,5.5,15.0,1.2,5.75,13.5,1.25,5.0,10.0
-Portugal,2016-02-07,Académica de Coimbra,CD Nacional,2,2,2.8,3.2,2.55,2.7,3.1,2.6,2.6,3.2,2.5
+Portugal,2016-02-07,Acadamica de Coimbra,CD Nacional,2,2,2.8,3.2,2.55,2.7,3.1,2.6,2.6,3.2,2.5
 Portugal,2016-02-05,CF Os Belenenses,SL Benfica,0,5,11.0,4.75,1.3,10.0,5.5,1.3,7.8,4.6,1.33
 Portugal,2016-02-08,SC Braga,Estoril Praia,2,0,1.5,4.0,7.0,1.45,4.1,6.75,1.45,3.9,6.5
-Portugal,2016-02-14,Boavista FC,Académica de Coimbra,0,0,2.05,3.1,4.0,1.95,3.25,3.8,2.0,3.2,3.4
+Portugal,2016-02-14,Boavista FC,Acadamica de Coimbra,0,0,2.05,3.1,4.0,1.95,3.25,3.8,2.0,3.2,3.4
 Portugal,2016-02-13,Moreirense FC,CF Os Belenenses,2,3,2.3,3.1,3.3,2.4,3.1,2.95,2.3,3.1,2.9
-Portugal,2016-02-14,CS Marítimo,SC Braga,1,3,4.5,3.4,1.83,4.2,3.3,1.85,3.3,3.3,2.0
-Portugal,2016-02-15,Rio Ave FC,FC Paços de Ferreira,1,1,1.95,3.2,4.2,1.95,3.2,3.9,2.0,3.2,3.4
+Portugal,2016-02-14,CS Maratimo,SC Braga,1,3,4.5,3.4,1.83,4.2,3.3,1.85,3.3,3.3,2.0
+Portugal,2016-02-15,Rio Ave FC,FC Paaos de Ferreira,1,1,1.95,3.2,4.2,1.95,3.2,3.9,2.0,3.2,3.4
 Portugal,2016-02-14,FC Arouca,Uniao da Madeira,3,0,1.75,3.5,4.75,1.75,3.25,5.0,1.8,3.4,4.0
 Portugal,2016-02-12,SL Benfica,FC Porto,1,2,2.15,3.1,3.5,2.3,3.2,3.3,2.15,3.2,3.2
 Portugal,2016-02-14,Estoril Praia,Tondela,2,1,1.85,3.4,4.33,1.8,3.3,4.5,1.75,3.4,4.3
-Portugal,2016-02-13,Vitória Guimaraes,Vitória Setúbal,2,2,1.8,3.3,4.75,1.83,3.3,4.4,1.8,3.4,4.0
+Portugal,2016-02-13,Vitaria Guimaraes,Vitaria Setabal,2,2,1.8,3.3,4.75,1.83,3.3,4.4,1.8,3.4,4.0
 Portugal,2016-02-13,CD Nacional,Sporting CP,0,4,7.0,4.33,1.44,7.0,4.33,1.42,6.5,3.9,1.45
 Portugal,2016-02-21,CF Os Belenenses,FC Arouca,0,2,2.38,3.1,3.1,2.3,3.0,3.2,2.3,3.0,3.0
-Portugal,2016-02-20,FC Paços de Ferreira,SL Benfica,1,3,9.0,5.0,1.33,8.5,4.33,1.36,7.0,4.1,1.4
+Portugal,2016-02-20,FC Paaos de Ferreira,SL Benfica,1,3,9.0,5.0,1.33,8.5,4.33,1.36,7.0,4.1,1.4
 Portugal,2016-02-22,Sporting CP,Boavista FC,2,0,1.22,6.0,13.0,1.2,5.75,13.5,1.2,5.5,12.0
 Portugal,2016-02-19,Uniao da Madeira,Estoril Praia,1,1,2.6,3.0,2.9,2.75,3.0,2.8,2.6,3.0,2.6
-Portugal,2016-02-21,Tondela,CS Marítimo,3,4,2.9,3.1,2.5,3.1,3.2,2.25,2.9,3.1,2.3
+Portugal,2016-02-21,Tondela,CS Maratimo,3,4,2.9,3.1,2.5,3.1,3.2,2.25,2.9,3.1,2.3
 Portugal,2016-02-21,FC Porto,Moreirense FC,3,2,1.2,6.5,13.0,1.16,6.5,16.0,1.17,5.8,13.0
-Portugal,2016-02-21,Vitória Setúbal,CD Nacional,1,1,2.9,3.1,2.5,2.7,3.1,2.6,2.6,3.0,2.6
-Portugal,2016-02-20,Académica de Coimbra,Rio Ave FC,0,2,2.88,3.0,2.63,2.8,3.1,2.5,2.6,3.0,2.6
-Portugal,2016-02-21,SC Braga,Vitória Guimaraes,3,3,1.55,3.6,7.0,1.55,3.75,6.0,1.6,3.6,5.0
-Portugal,2016-02-28,CS Marítimo,Académica de Coimbra,1,0,1.83,3.5,4.33,1.83,3.3,4.25,1.8,3.3,4.2
-Portugal,2016-02-26,CD Nacional,FC Paços de Ferreira,3,0,2.0,3.3,3.75,2.15,3.0,3.6,2.2,3.1,3.1
+Portugal,2016-02-21,Vitaria Setabal,CD Nacional,1,1,2.9,3.1,2.5,2.7,3.1,2.6,2.6,3.0,2.6
+Portugal,2016-02-20,Acadamica de Coimbra,Rio Ave FC,0,2,2.88,3.0,2.63,2.8,3.1,2.5,2.6,3.0,2.6
+Portugal,2016-02-21,SC Braga,Vitaria Guimaraes,3,3,1.55,3.6,7.0,1.55,3.75,6.0,1.6,3.6,5.0
+Portugal,2016-02-28,CS Maratimo,Acadamica de Coimbra,1,0,1.83,3.5,4.33,1.83,3.3,4.25,1.8,3.3,4.2
+Portugal,2016-02-26,CD Nacional,FC Paaos de Ferreira,3,0,2.0,3.3,3.75,2.15,3.0,3.6,2.2,3.1,3.1
 Portugal,2016-02-27,FC Arouca,SC Braga,0,0,4.0,3.1,2.05,3.9,3.1,2.0,3.3,3.1,2.1
 Portugal,2016-02-28,CF Os Belenenses,FC Porto,1,2,11.0,4.5,1.33,8.0,4.5,1.36,7.0,4.1,1.4
 Portugal,2016-02-29,SL Benfica,Uniao da Madeira,2,0,1.13,8.0,21.0,1.12,8.0,16.0,1.12,7.0,14.0
 Portugal,2016-02-27,Boavista FC,Rio Ave FC,1,2,2.9,3.0,2.6,2.7,2.95,2.7,2.6,3.1,2.6
-Portugal,2016-02-27,Estoril Praia,Vitória Setúbal,3,0,2.1,3.2,3.6,2.2,2.9,3.6,2.2,3.0,3.2
-Portugal,2016-02-29,Vitória Guimaraes,Sporting CP,0,0,6.5,3.6,1.57,6.0,4.0,1.5,5.7,3.8,1.5
+Portugal,2016-02-27,Estoril Praia,Vitaria Setabal,3,0,2.1,3.2,3.6,2.2,2.9,3.6,2.2,3.0,3.2
+Portugal,2016-02-29,Vitaria Guimaraes,Sporting CP,0,0,6.5,3.6,1.57,6.0,4.0,1.5,5.7,3.8,1.5
 Portugal,2016-02-28,Moreirense FC,Tondela,1,2,1.8,3.5,4.5,1.8,3.4,4.25,1.85,3.3,3.9
 Portugal,2016-03-06,Tondela,FC Arouca,0,1,3.1,3.0,2.45,3.0,2.85,2.55,2.8,3.1,2.4
 Portugal,2016-03-06,Uniao da Madeira,CF Os Belenenses,0,0,2.9,3.1,2.5,2.75,3.1,2.55,2.5,3.1,2.7
 Portugal,2016-03-05,Sporting CP,SL Benfica,0,1,2.4,3.1,3.1,2.45,3.2,2.8,2.4,3.1,2.95
 Portugal,2016-03-07,Rio Ave FC,Estoril Praia,1,3,2.0,3.3,3.8,2.0,3.4,3.5,1.9,3.3,3.7
-Portugal,2016-03-06,Vitória Setúbal,Moreirense FC,0,1,2.38,3.2,3.0,2.4,3.1,2.95,2.4,2.9,3.0
-Portugal,2016-03-06,Académica de Coimbra,Vitória Guimaraes,2,0,3.1,3.2,2.3,3.0,3.0,2.4,2.8,3.1,2.4
+Portugal,2016-03-06,Vitaria Setabal,Moreirense FC,0,1,2.38,3.2,3.0,2.4,3.1,2.95,2.4,2.9,3.0
+Portugal,2016-03-06,Acadamica de Coimbra,Vitaria Guimaraes,2,0,3.1,3.2,2.3,3.0,3.0,2.4,2.8,3.1,2.4
 Portugal,2016-03-06,Boavista FC,CD Nacional,0,1,2.6,3.1,2.8,2.4,3.1,2.95,2.3,3.1,2.9
 Portugal,2016-03-06,SC Braga,FC Porto,3,1,4.0,3.5,1.91,4.2,3.3,1.85,3.8,3.4,1.85
-Portugal,2016-03-04,FC Paços de Ferreira,CS Marítimo,2,2,2.45,3.25,2.9,2.35,3.3,2.85,2.6,3.1,2.6
-Portugal,2016-03-13,Moreirense FC,Académica de Coimbra,2,2,2.1,3.25,3.5,2.25,3.2,3.1,2.1,3.1,3.3
-Portugal,2016-03-11,CS Marítimo,Boavista FC,0,3,1.91,3.3,4.2,1.9,3.25,4.1,2.0,3.1,3.5
-Portugal,2016-03-13,Vitória Guimaraes,FC Paços de Ferreira,0,1,2.0,3.2,4.0,2.1,3.2,3.4,2.0,3.2,3.4
-Portugal,2016-03-13,FC Arouca,Vitória Setúbal,1,0,1.91,3.2,4.33,1.9,3.3,4.0,2.0,3.2,3.4
+Portugal,2016-03-04,FC Paaos de Ferreira,CS Maratimo,2,2,2.45,3.25,2.9,2.35,3.3,2.85,2.6,3.1,2.6
+Portugal,2016-03-13,Moreirense FC,Acadamica de Coimbra,2,2,2.1,3.25,3.5,2.25,3.2,3.1,2.1,3.1,3.3
+Portugal,2016-03-11,CS Maratimo,Boavista FC,0,3,1.91,3.3,4.2,1.9,3.25,4.1,2.0,3.1,3.5
+Portugal,2016-03-13,Vitaria Guimaraes,FC Paaos de Ferreira,0,1,2.0,3.2,4.0,2.1,3.2,3.4,2.0,3.2,3.4
+Portugal,2016-03-13,FC Arouca,Vitaria Setabal,1,0,1.91,3.2,4.33,1.9,3.3,4.0,2.0,3.2,3.4
 Portugal,2016-03-13,CF Os Belenenses,SC Braga,3,0,3.6,3.2,2.1,3.7,3.4,1.95,3.4,3.2,2.0
 Portugal,2016-03-14,SL Benfica,Tondela,4,1,1.11,8.0,26.0,1.11,8.0,18.0,1.1,7.5,16.0
 Portugal,2016-03-12,Estoril Praia,Sporting CP,1,2,9.0,4.2,1.4,7.25,3.75,1.48,5.7,3.8,1.5
@@ -2166,133 +2166,133 @@ Portugal,2016-03-12,FC Porto,Uniao da Madeira,3,2,1.17,7.0,15.0,1.12,7.5,19.0,1.
 Portugal,2016-03-19,Sporting CP,FC Arouca,5,1,1.2,6.0,15.0,1.22,5.75,12.0,1.2,5.5,12.0
 Portugal,2016-03-20,Tondela,CF Os Belenenses,2,2,3.1,3.1,2.4,3.0,3.2,2.3,3.0,3.2,2.2
 Portugal,2016-03-20,Boavista FC,SL Benfica,0,1,13.0,5.25,1.25,12.0,5.0,1.25,12.0,5.5,1.2
-Portugal,2016-03-20,CD Nacional,Vitória Guimaraes,3,2,2.3,3.1,3.25,2.15,3.25,3.25,2.1,3.2,3.2
-Portugal,2016-03-18,Rio Ave FC,CS Marítimo,1,0,1.83,3.6,4.2,1.91,3.4,3.8,2.0,3.3,3.3
-Portugal,2016-03-19,Vitória Setúbal,FC Porto,0,1,9.0,5.0,1.33,10.5,5.0,1.28,10.0,5.0,1.25
-Portugal,2016-03-20,Académica de Coimbra,Estoril Praia,0,3,2.38,3.2,3.0,2.45,3.1,2.9,2.4,3.1,2.8
+Portugal,2016-03-20,CD Nacional,Vitaria Guimaraes,3,2,2.3,3.1,3.25,2.15,3.25,3.25,2.1,3.2,3.2
+Portugal,2016-03-18,Rio Ave FC,CS Maratimo,1,0,1.83,3.6,4.2,1.91,3.4,3.8,2.0,3.3,3.3
+Portugal,2016-03-19,Vitaria Setabal,FC Porto,0,1,9.0,5.0,1.33,10.5,5.0,1.28,10.0,5.0,1.25
+Portugal,2016-03-20,Acadamica de Coimbra,Estoril Praia,0,3,2.38,3.2,3.0,2.45,3.1,2.9,2.4,3.1,2.8
 Portugal,2016-03-20,SC Braga,Uniao da Madeira,2,0,1.33,5.0,9.0,1.3,5.0,9.25,1.3,4.8,8.5
-Portugal,2016-03-20,FC Paços de Ferreira,Moreirense FC,0,0,2.0,3.3,3.8,2.0,3.4,3.5,2.0,3.2,3.4
-Portugal,2016-04-02,FC Arouca,Académica de Coimbra,3,2,2.1,3.25,3.6,1.91,3.2,4.1,2.1,3.1,3.3
-Portugal,2016-04-02,Vitória Guimaraes,Boavista FC,1,1,2.05,3.1,4.0,1.95,3.2,3.9,2.0,3.2,3.4
-Portugal,2016-04-03,Uniao da Madeira,Vitória Setúbal,2,2,2.25,3.1,3.4,2.25,3.1,3.2,2.3,3.1,2.9
+Portugal,2016-03-20,FC Paaos de Ferreira,Moreirense FC,0,0,2.0,3.3,3.8,2.0,3.4,3.5,2.0,3.2,3.4
+Portugal,2016-04-02,FC Arouca,Acadamica de Coimbra,3,2,2.1,3.25,3.6,1.91,3.2,4.1,2.1,3.1,3.3
+Portugal,2016-04-02,Vitaria Guimaraes,Boavista FC,1,1,2.05,3.1,4.0,1.95,3.2,3.9,2.0,3.2,3.4
+Portugal,2016-04-03,Uniao da Madeira,Vitaria Setabal,2,2,2.25,3.1,3.4,2.25,3.1,3.2,2.3,3.1,2.9
 Portugal,2016-04-04,CF Os Belenenses,Sporting CP,2,5,9.0,5.0,1.33,8.5,4.75,1.33,8.5,4.8,1.3
 Portugal,2016-04-01,SL Benfica,SC Braga,5,1,1.53,3.75,7.0,1.57,4.0,6.25,1.55,3.7,5.4
-Portugal,2016-04-03,Estoril Praia,FC Paços de Ferreira,1,0,2.2,3.2,3.4,2.1,3.2,3.4,2.3,3.1,2.9
-Portugal,2016-04-02,CS Marítimo,CD Nacional,2,0,2.38,3.2,3.0,2.4,3.2,2.85,2.5,3.1,2.7
+Portugal,2016-04-03,Estoril Praia,FC Paaos de Ferreira,1,0,2.2,3.2,3.4,2.1,3.2,3.4,2.3,3.1,2.9
+Portugal,2016-04-02,CS Maratimo,CD Nacional,2,0,2.38,3.2,3.0,2.4,3.2,2.85,2.5,3.1,2.7
 Portugal,2016-04-03,Moreirense FC,Rio Ave FC,0,1,2.8,3.3,2.45,2.8,3.2,2.45,2.8,3.1,2.4
 Portugal,2016-04-04,FC Porto,Tondela,0,1,1.1,9.0,23.0,1.1,8.0,21.0,1.07,7.5,20.0
 Portugal,2016-04-08,Boavista FC,FC Arouca,0,0,2.38,3.0,3.25,2.3,3.0,3.2,2.5,3.1,2.7
-Portugal,2016-04-10,Vitória Setúbal,CF Os Belenenses,0,1,2.38,3.25,3.0,2.3,3.1,3.1,2.4,3.0,2.9
+Portugal,2016-04-10,Vitaria Setabal,CF Os Belenenses,0,1,2.38,3.25,3.0,2.3,3.1,3.1,2.4,3.0,2.9
 Portugal,2016-04-10,CD Nacional,Estoril Praia,4,1,2.15,3.1,3.6,2.3,3.0,3.2,2.3,3.1,2.9
-Portugal,2016-04-11,Rio Ave FC,Vitória Guimaraes,2,0,2.0,3.2,4.0,1.95,3.1,4.1,2.0,3.2,3.4
-Portugal,2016-04-09,Sporting CP,CS Marítimo,3,1,1.2,6.0,15.0,1.22,5.75,11.0,1.2,5.5,12.0
-Portugal,2016-04-09,Académica de Coimbra,SL Benfica,1,2,12.0,4.75,1.3,8.25,4.4,1.36,7.0,4.1,1.4
+Portugal,2016-04-11,Rio Ave FC,Vitaria Guimaraes,2,0,2.0,3.2,4.0,1.95,3.1,4.1,2.0,3.2,3.4
+Portugal,2016-04-09,Sporting CP,CS Maratimo,3,1,1.2,6.0,15.0,1.22,5.75,11.0,1.2,5.5,12.0
+Portugal,2016-04-09,Acadamica de Coimbra,SL Benfica,1,2,12.0,4.75,1.3,8.25,4.4,1.36,7.0,4.1,1.4
 Portugal,2016-04-10,SC Braga,Moreirense FC,1,1,1.44,4.0,8.0,1.4,4.25,7.5,1.45,3.9,6.5
-Portugal,2016-04-10,FC Paços de Ferreira,FC Porto,1,0,8.5,4.33,1.4,7.5,4.33,1.4,7.0,4.1,1.4
+Portugal,2016-04-10,FC Paaos de Ferreira,FC Porto,1,0,8.5,4.33,1.4,7.5,4.33,1.4,7.0,4.1,1.4
 Portugal,2016-04-10,Tondela,Uniao da Madeira,1,0,2.3,3.1,3.2,2.3,3.1,3.1,2.4,3.1,2.8
-Portugal,2015-08-30,Académica de Coimbra,Sporting CP,1,3,8.5,4.33,1.4,7.75,4.1,1.42,5.7,3.8,1.5
-Portugal,2015-08-31,CF Os Belenenses,CS Marítimo,1,1,2.3,3.1,3.25,2.25,3.0,3.3,2.2,3.1,3.1
+Portugal,2015-08-30,Acadamica de Coimbra,Sporting CP,1,3,8.5,4.33,1.4,7.75,4.1,1.42,5.7,3.8,1.5
+Portugal,2015-08-31,CF Os Belenenses,CS Maratimo,1,1,2.3,3.1,3.25,2.25,3.0,3.3,2.2,3.1,3.1
 Portugal,2015-08-29,SL Benfica,Moreirense FC,3,2,1.2,6.0,15.0,1.18,5.75,16.5,1.17,5.8,13.0
-Portugal,2015-08-30,FC Paços de Ferreira,FC Arouca,1,1,2.1,3.2,3.6,1.95,3.2,3.9,2.0,3.2,3.4
+Portugal,2015-08-30,FC Paaos de Ferreira,FC Arouca,1,1,2.1,3.2,3.6,1.95,3.2,3.9,2.0,3.2,3.4
 Portugal,2015-08-30,SC Braga,Boavista FC,4,0,1.5,3.6,8.5,1.55,3.6,6.5,1.55,3.7,5.4
 Portugal,2015-08-29,FC Porto,Estoril Praia,2,0,1.17,6.5,17.0,1.16,6.0,19.5,1.17,5.8,13.0
-Portugal,2015-08-31,Uniao da Madeira,Vitória Guimaraes,0,0,2.9,3.1,2.5,2.95,3.05,2.4,2.7,3.1,2.5
+Portugal,2015-08-31,Uniao da Madeira,Vitaria Guimaraes,0,0,2.9,3.1,2.5,2.95,3.05,2.4,2.7,3.1,2.5
 Portugal,2015-08-30,Tondela,CD Nacional,1,0,2.9,3.1,2.5,2.95,3.1,2.4,2.7,3.1,2.5
-Portugal,2015-08-29,Vitória Setúbal,Rio Ave FC,2,2,2.38,3.1,3.1,2.3,3.0,3.2,2.4,3.1,2.8
-Portugal,2016-04-17,CF Os Belenenses,Académica de Coimbra,1,1,2.2,3.2,3.4,2.0,3.2,3.7,2.2,3.2,3.0
+Portugal,2015-08-29,Vitaria Setabal,Rio Ave FC,2,2,2.38,3.1,3.1,2.3,3.0,3.2,2.4,3.1,2.8
+Portugal,2016-04-17,CF Os Belenenses,Acadamica de Coimbra,1,1,2.2,3.2,3.4,2.0,3.2,3.7,2.2,3.2,3.0
 Portugal,2016-04-16,Estoril Praia,Boavista FC,1,0,2.25,3.1,3.4,2.25,3.1,3.2,2.2,3.1,3.1
-Portugal,2016-04-17,Uniao da Madeira,FC Paços de Ferreira,3,4,2.6,3.1,2.8,2.75,2.95,2.65,2.6,3.0,2.6
-Portugal,2016-04-17,CS Marítimo,Vitória Guimaraes,3,0,2.38,3.2,3.0,2.3,3.0,3.2,2.3,3.0,3.0
+Portugal,2016-04-17,Uniao da Madeira,FC Paaos de Ferreira,3,4,2.6,3.1,2.8,2.75,2.95,2.65,2.6,3.0,2.6
+Portugal,2016-04-17,CS Maratimo,Vitaria Guimaraes,3,0,2.38,3.2,3.0,2.3,3.0,3.2,2.3,3.0,3.0
 Portugal,2016-04-17,FC Porto,CD Nacional,4,0,1.29,5.5,10.0,1.22,5.5,13.5,1.27,5.0,9.0
 Portugal,2016-04-16,FC Arouca,Rio Ave FC,0,0,2.6,3.2,2.7,2.55,3.1,2.75,2.5,3.1,2.7
-Portugal,2016-04-18,SL Benfica,Vitória Setúbal,2,1,1.14,7.5,17.0,1.12,7.75,17.0,1.11,7.5,16.0
+Portugal,2016-04-18,SL Benfica,Vitaria Setabal,2,1,1.14,7.5,17.0,1.12,7.75,17.0,1.11,7.5,16.0
 Portugal,2016-04-18,SC Braga,Tondela,3,0,1.36,4.75,8.0,1.35,4.6,8.0,1.35,4.5,7.3
 Portugal,2016-04-16,Moreirense FC,Sporting CP,0,1,13.0,5.25,1.25,12.0,5.0,1.25,8.5,4.8,1.3
-Portugal,2016-04-24,CS Marítimo,FC Arouca,1,2,2.2,3.2,3.4,2.3,3.2,3.0,2.2,3.1,3.1
+Portugal,2016-04-24,CS Maratimo,FC Arouca,1,2,2.2,3.2,3.4,2.3,3.2,3.0,2.2,3.1,3.1
 Portugal,2016-04-22,Boavista FC,CF Os Belenenses,1,0,1.95,3.1,4.33,1.9,3.2,4.2,2.0,3.3,3.3
 Portugal,2016-04-24,Rio Ave FC,SL Benfica,0,1,8.0,4.5,1.4,8.5,4.6,1.34,8.5,4.8,1.3
-Portugal,2016-04-23,FC Paços de Ferreira,SC Braga,1,0,3.8,3.3,2.0,3.5,3.4,2.0,3.3,3.3,2.0
-Portugal,2016-04-24,Vitória Guimaraes,Estoril Praia,1,1,2.4,3.1,3.1,2.2,3.2,3.2,2.3,3.0,3.0
+Portugal,2016-04-23,FC Paaos de Ferreira,SC Braga,1,0,3.8,3.3,2.0,3.5,3.4,2.0,3.3,3.3,2.0
+Portugal,2016-04-24,Vitaria Guimaraes,Estoril Praia,1,1,2.4,3.1,3.1,2.2,3.2,3.2,2.3,3.0,3.0
 Portugal,2016-04-24,CD Nacional,Moreirense FC,0,1,2.0,3.4,3.75,1.95,3.25,3.8,2.0,3.2,3.4
-Portugal,2016-04-23,Académica de Coimbra,FC Porto,1,2,9.0,4.5,1.36,8.0,4.5,1.36,7.0,4.1,1.4
-Portugal,2016-04-24,Vitória Setúbal,Tondela,0,1,2.05,3.4,3.6,2.0,3.3,3.6,2.0,3.2,3.4
+Portugal,2016-04-23,Acadamica de Coimbra,FC Porto,1,2,9.0,4.5,1.36,8.0,4.5,1.36,7.0,4.1,1.4
+Portugal,2016-04-24,Vitaria Setabal,Tondela,0,1,2.05,3.4,3.6,2.0,3.3,3.6,2.0,3.2,3.4
 Portugal,2016-04-23,Sporting CP,Uniao da Madeira,2,0,1.13,8.0,21.0,1.11,8.0,17.5,1.12,7.0,14.0
-Portugal,2016-05-01,Uniao da Madeira,Académica de Coimbra,3,1,2.5,3.2,2.8,2.5,3.0,2.85,2.3,3.1,2.9
+Portugal,2016-05-01,Uniao da Madeira,Acadamica de Coimbra,3,1,2.5,3.2,2.8,2.5,3.0,2.85,2.3,3.1,2.9
 Portugal,2016-05-01,Moreirense FC,Boavista FC,1,1,2.63,3.0,2.88,2.6,3.0,2.75,2.6,2.9,2.7
 Portugal,2016-04-30,Tondela,Rio Ave FC,1,1,3.1,3.1,2.4,2.9,3.2,2.35,2.8,3.1,2.4
 Portugal,2016-05-01,FC Arouca,CD Nacional,3,0,1.85,3.4,4.33,1.85,3.3,4.2,1.8,3.4,4.0
-Portugal,2016-04-30,CF Os Belenenses,FC Paços de Ferreira,0,2,2.6,3.0,2.88,2.45,3.1,2.85,2.6,3.0,2.6
-Portugal,2016-04-29,SL Benfica,Vitória Guimaraes,1,0,1.11,9.0,19.0,1.11,7.75,19.0,1.1,7.5,16.0
-Portugal,2016-04-29,SC Braga,Vitória Setúbal,3,2,1.44,4.33,7.0,1.48,4.1,6.25,1.5,4.0,5.5
-Portugal,2016-05-01,Estoril Praia,CS Marítimo,2,1,2.05,3.4,3.6,2.0,3.3,3.6,1.9,3.3,3.7
+Portugal,2016-04-30,CF Os Belenenses,FC Paaos de Ferreira,0,2,2.6,3.0,2.88,2.45,3.1,2.85,2.6,3.0,2.6
+Portugal,2016-04-29,SL Benfica,Vitaria Guimaraes,1,0,1.11,9.0,19.0,1.11,7.75,19.0,1.1,7.5,16.0
+Portugal,2016-04-29,SC Braga,Vitaria Setabal,3,2,1.44,4.33,7.0,1.48,4.1,6.25,1.5,4.0,5.5
+Portugal,2016-05-01,Estoril Praia,CS Maratimo,2,1,2.05,3.4,3.6,2.0,3.3,3.6,1.9,3.3,3.7
 Portugal,2016-04-30,FC Porto,Sporting CP,1,3,3.25,3.1,2.3,3.1,3.1,2.3,2.6,3.2,2.5
 Portugal,2016-05-09,Estoril Praia,FC Arouca,1,1,2.25,3.2,3.3,2.3,3.1,3.1,,,
 Portugal,2016-05-08,CD Nacional,CF Os Belenenses,2,2,2.15,3.25,3.4,2.1,3.25,3.4,2.1,3.2,3.2
-Portugal,2016-05-08,CS Marítimo,SL Benfica,0,2,9.0,5.0,1.33,8.75,5.0,1.3,10.0,5.0,1.25
+Portugal,2016-05-08,CS Maratimo,SL Benfica,0,2,9.0,5.0,1.33,8.75,5.0,1.3,10.0,5.0,1.25
 Portugal,2016-05-07,Rio Ave FC,FC Porto,1,3,4.2,3.5,1.85,4.5,3.5,1.75,4.0,3.6,1.75
-Portugal,2016-05-07,Sporting CP,Vitória Setúbal,5,0,1.1,9.0,23.0,1.08,9.5,20.0,1.1,7.5,16.0
-Portugal,2016-05-07,Académica de Coimbra,SC Braga,0,0,3.75,3.4,2.0,3.9,3.4,1.9,3.1,3.3,2.1
+Portugal,2016-05-07,Sporting CP,Vitaria Setabal,5,0,1.1,9.0,23.0,1.08,9.5,20.0,1.1,7.5,16.0
+Portugal,2016-05-07,Acadamica de Coimbra,SC Braga,0,0,3.75,3.4,2.0,3.9,3.4,1.9,3.1,3.3,2.1
 Portugal,2016-05-08,Boavista FC,Uniao da Madeira,1,0,2.2,3.1,3.5,2.15,3.1,3.4,2.5,2.9,2.9
-Portugal,2016-05-06,FC Paços de Ferreira,Tondela,1,4,1.7,3.6,5.0,1.65,3.75,4.75,1.7,3.5,4.4
-Portugal,2016-05-08,Vitória Guimaraes,Moreirense FC,4,1,2.0,3.3,3.8,2.0,3.2,3.75,2.1,3.2,3.2
-Portugal,2016-05-14,Tondela,Académica de Coimbra,2,0,1.57,4.0,5.75,1.55,3.8,5.75,1.5,3.9,5.5
+Portugal,2016-05-06,FC Paaos de Ferreira,Tondela,1,4,1.7,3.6,5.0,1.65,3.75,4.75,1.7,3.5,4.4
+Portugal,2016-05-08,Vitaria Guimaraes,Moreirense FC,4,1,2.0,3.3,3.8,2.0,3.2,3.75,2.1,3.2,3.2
+Portugal,2016-05-14,Tondela,Acadamica de Coimbra,2,0,1.57,4.0,5.75,1.55,3.8,5.75,1.5,3.9,5.5
 Portugal,2016-05-14,FC Porto,Boavista FC,4,0,1.29,5.5,9.5,1.28,5.5,8.25,1.33,4.6,7.8
-Portugal,2016-05-14,Vitória Setúbal,FC Paços de Ferreira,0,0,2.3,3.5,2.9,2.25,3.2,3.1,2.5,3.3,2.5
-Portugal,2016-05-15,Moreirense FC,CS Marítimo,2,1,2.05,3.5,3.5,2.1,3.4,3.2,2.1,3.3,3.1
+Portugal,2016-05-14,Vitaria Setabal,FC Paaos de Ferreira,0,0,2.3,3.5,2.9,2.25,3.2,3.1,2.5,3.3,2.5
+Portugal,2016-05-15,Moreirense FC,CS Maratimo,2,1,2.05,3.5,3.5,2.1,3.4,3.2,2.1,3.3,3.1
 Portugal,2016-05-14,Uniao da Madeira,Rio Ave FC,1,2,2.45,3.1,3.0,2.35,3.1,3.0,2.2,3.2,3.0
-Portugal,2016-05-14,FC Arouca,Vitória Guimaraes,2,2,2.38,3.5,2.8,2.25,3.2,3.1,2.3,3.2,2.8
+Portugal,2016-05-14,FC Arouca,Vitaria Guimaraes,2,2,2.38,3.5,2.8,2.25,3.2,3.1,2.3,3.2,2.8
 Portugal,2016-05-14,CF Os Belenenses,Estoril Praia,2,1,3.1,3.5,2.2,3.2,3.3,2.15,2.9,3.3,2.2
 Portugal,2016-05-15,SL Benfica,CD Nacional,4,1,1.1,9.0,21.0,1.12,8.0,15.5,1.1,7.5,16.0
 Portugal,2016-05-15,SC Braga,Sporting CP,0,4,7.0,4.33,1.44,6.5,4.2,1.45,5.0,3.6,1.6
 Portugal,2015-09-12,FC Arouca,FC Porto,1,3,9.5,4.5,1.36,9.75,5.0,1.28,7.3,4.5,1.35
-Portugal,2015-09-14,Boavista FC,FC Paços de Ferreira,0,1,2.88,3.0,2.63,2.6,3.1,2.65,2.6,3.0,2.6
-Portugal,2015-09-13,Vitória Guimaraes,Tondela,1,0,1.95,3.2,4.2,1.83,3.2,4.6,1.9,3.3,3.7
-Portugal,2015-09-13,CS Marítimo,Vitória Setúbal,5,2,1.83,3.4,4.5,1.78,3.3,4.6,1.8,3.4,4.0
+Portugal,2015-09-14,Boavista FC,FC Paaos de Ferreira,0,1,2.88,3.0,2.63,2.6,3.1,2.65,2.6,3.0,2.6
+Portugal,2015-09-13,Vitaria Guimaraes,Tondela,1,0,1.95,3.2,4.2,1.83,3.2,4.6,1.9,3.3,3.7
+Portugal,2015-09-13,CS Maratimo,Vitaria Setabal,5,2,1.83,3.4,4.5,1.78,3.3,4.6,1.8,3.4,4.0
 Portugal,2015-09-13,Moreirense FC,Uniao da Madeira,0,0,2.25,3.1,3.4,2.25,3.0,3.3,2.3,3.0,3.0
 Portugal,2015-09-13,Rio Ave FC,Sporting CP,1,2,7.0,4.0,1.5,7.0,4.0,1.45,5.7,3.8,1.5
-Portugal,2015-09-13,CD Nacional,Académica de Coimbra,2,0,1.65,3.6,5.5,1.7,3.6,4.75,1.75,3.4,4.3
+Portugal,2015-09-13,CD Nacional,Acadamica de Coimbra,2,0,1.65,3.6,5.5,1.7,3.6,4.75,1.75,3.4,4.3
 Portugal,2015-09-11,SL Benfica,CF Os Belenenses,6,0,1.25,5.5,13.0,1.25,5.25,11.0,1.25,5.0,10.0
 Portugal,2015-09-12,Estoril Praia,SC Braga,1,0,3.0,3.2,2.4,2.9,2.8,2.65,2.7,3.1,2.5
-Portugal,2015-09-20,Académica de Coimbra,Boavista FC,0,2,2.88,3.0,2.63,2.7,2.9,2.75,2.6,2.9,2.7
+Portugal,2015-09-20,Acadamica de Coimbra,Boavista FC,0,2,2.88,3.0,2.63,2.7,2.9,2.75,2.6,2.9,2.7
 Portugal,2015-09-21,CF Os Belenenses,Moreirense FC,2,0,2.1,3.25,3.5,2.05,3.0,3.9,2.1,3.1,3.3
-Portugal,2015-09-21,SC Braga,CS Marítimo,5,1,1.75,3.5,4.75,1.72,3.5,4.75,1.7,3.5,4.4
-Portugal,2015-09-19,FC Paços de Ferreira,Rio Ave FC,0,3,1.95,3.2,4.2,1.95,3.1,4.1,2.0,3.2,3.4
+Portugal,2015-09-21,SC Braga,CS Maratimo,5,1,1.75,3.5,4.75,1.72,3.5,4.75,1.7,3.5,4.4
+Portugal,2015-09-19,FC Paaos de Ferreira,Rio Ave FC,0,3,1.95,3.2,4.2,1.95,3.1,4.1,2.0,3.2,3.4
 Portugal,2015-09-20,Uniao da Madeira,FC Arouca,0,0,2.6,3.1,2.8,2.5,3.0,2.9,2.6,3.0,2.6
 Portugal,2015-09-20,FC Porto,SL Benfica,1,0,2.0,3.2,4.0,2.0,3.3,4.2,2.0,3.2,3.7
 Portugal,2015-09-19,Tondela,Estoril Praia,0,1,2.8,3.1,2.6,2.9,2.95,2.55,2.7,3.1,2.5
-Portugal,2015-09-18,Vitória Setúbal,Vitória Guimaraes,2,2,2.45,3.1,3.0,2.45,3.0,2.95,2.5,3.1,2.7
+Portugal,2015-09-18,Vitaria Setabal,Vitaria Guimaraes,2,2,2.45,3.1,3.0,2.45,3.0,2.95,2.5,3.1,2.7
 Portugal,2015-09-21,Sporting CP,CD Nacional,1,0,1.29,5.0,12.0,1.25,5.5,10.0,1.35,4.5,7.3
 Portugal,2015-09-27,FC Arouca,CF Os Belenenses,2,2,2.4,3.0,3.2,2.4,2.95,3.1,2.2,3.1,3.1
-Portugal,2015-09-26,SL Benfica,FC Paços de Ferreira,3,0,1.25,5.5,13.0,1.25,5.25,11.5,1.15,6.2,14.0
+Portugal,2015-09-26,SL Benfica,FC Paaos de Ferreira,3,0,1.25,5.5,13.0,1.25,5.25,11.5,1.15,6.2,14.0
 Portugal,2015-09-26,Boavista FC,Sporting CP,0,0,9.5,5.0,1.33,10.0,4.75,1.3,7.0,4.1,1.4
 Portugal,2015-09-27,Estoril Praia,Uniao da Madeira,2,1,1.73,3.4,5.25,1.8,3.3,4.5,1.75,3.4,4.3
-Portugal,2015-09-27,CS Marítimo,Tondela,1,0,1.73,3.6,4.75,1.75,3.5,4.5,1.75,3.4,4.3
+Portugal,2015-09-27,CS Maratimo,Tondela,1,0,1.73,3.6,4.75,1.75,3.5,4.5,1.75,3.4,4.3
 Portugal,2015-09-25,Moreirense FC,FC Porto,2,2,15.0,5.5,1.22,13.0,5.0,1.25,10.0,5.0,1.25
-Portugal,2015-09-27,CD Nacional,Vitória Setúbal,1,1,1.91,3.4,4.0,1.8,3.5,4.25,1.8,3.4,4.0
-Portugal,2015-09-28,Rio Ave FC,Académica de Coimbra,1,0,1.62,3.6,6.0,1.6,3.9,5.0,1.6,3.6,5.0
-Portugal,2015-09-27,Vitória Guimaraes,SC Braga,0,1,3.5,3.0,2.25,3.3,2.95,2.3,2.7,3.2,2.4
-Portugal,2015-10-03,Académica de Coimbra,CS Marítimo,1,0,4.0,3.1,2.05,3.8,3.2,2.0,3.3,3.3,2.0
-Portugal,2015-10-03,FC Paços de Ferreira,CD Nacional,3,1,2.2,3.5,3.1,2.1,3.3,3.3,2.1,3.2,3.2
+Portugal,2015-09-27,CD Nacional,Vitaria Setabal,1,1,1.91,3.4,4.0,1.8,3.5,4.25,1.8,3.4,4.0
+Portugal,2015-09-28,Rio Ave FC,Acadamica de Coimbra,1,0,1.62,3.6,6.0,1.6,3.9,5.0,1.6,3.6,5.0
+Portugal,2015-09-27,Vitaria Guimaraes,SC Braga,0,1,3.5,3.0,2.25,3.3,2.95,2.3,2.7,3.2,2.4
+Portugal,2015-10-03,Acadamica de Coimbra,CS Maratimo,1,0,4.0,3.1,2.05,3.8,3.2,2.0,3.3,3.3,2.0
+Portugal,2015-10-03,FC Paaos de Ferreira,CD Nacional,3,1,2.2,3.5,3.1,2.1,3.3,3.3,2.1,3.2,3.2
 Portugal,2015-10-04,SC Braga,FC Arouca,0,0,1.53,4.0,6.0,1.48,3.9,6.75,1.55,3.7,5.4
 Portugal,2015-10-04,FC Porto,CF Os Belenenses,4,0,1.14,7.0,21.0,1.16,6.0,19.5,1.17,5.8,13.0
 Portugal,2015-12-15,Uniao da Madeira,SL Benfica,0,0,10.0,4.75,1.33,10.0,5.0,1.33,7.3,4.5,1.35
 Portugal,2015-10-03,Rio Ave FC,Boavista FC,1,0,2.05,3.3,3.6,2.0,3.3,3.6,2.0,3.3,3.3
-Portugal,2015-10-02,Vitória Setúbal,Estoril Praia,1,0,2.5,3.2,2.88,2.45,3.1,2.85,2.4,3.2,2.7
-Portugal,2015-10-04,Sporting CP,Vitória Guimaraes,5,1,1.29,5.5,10.0,1.26,5.25,10.5,1.3,4.8,8.5
+Portugal,2015-10-02,Vitaria Setabal,Estoril Praia,1,0,2.5,3.2,2.88,2.45,3.1,2.85,2.4,3.2,2.7
+Portugal,2015-10-04,Sporting CP,Vitaria Guimaraes,5,1,1.29,5.5,10.0,1.26,5.25,10.5,1.3,4.8,8.5
 Portugal,2015-10-03,Tondela,Moreirense FC,1,1,2.38,3.1,3.1,2.35,3.0,3.1,2.3,3.1,2.9
 Portugal,2015-10-25,FC Arouca,Tondela,1,1,1.85,3.2,4.75,1.83,3.2,4.5,1.85,3.4,3.8
 Portugal,2015-10-26,CF Os Belenenses,Uniao da Madeira,1,0,1.83,3.4,4.5,1.87,3.25,4.2,1.9,3.3,3.7
 Portugal,2015-10-25,SL Benfica,Sporting CP,0,3,2.2,3.2,3.4,2.2,3.1,3.4,2.1,3.2,3.4
 Portugal,2015-10-24,Estoril Praia,Rio Ave FC,2,2,2.2,3.1,3.5,2.15,3.1,3.4,2.3,3.1,2.9
-Portugal,2015-10-25,Moreirense FC,Vitória Setúbal,0,2,2.3,3.2,3.2,2.35,3.1,3.0,2.3,3.1,2.9
-Portugal,2015-10-24,Vitória Guimaraes,Académica de Coimbra,1,1,1.7,3.6,5.0,1.75,3.25,5.0,1.7,3.5,4.4
+Portugal,2015-10-25,Moreirense FC,Vitaria Setabal,0,2,2.3,3.2,3.2,2.35,3.1,3.0,2.3,3.1,2.9
+Portugal,2015-10-24,Vitaria Guimaraes,Acadamica de Coimbra,1,1,1.7,3.6,5.0,1.75,3.25,5.0,1.7,3.5,4.4
 Portugal,2015-10-23,CD Nacional,Boavista FC,0,0,1.91,3.25,4.33,1.78,3.25,4.75,1.8,3.4,4.0
 Portugal,2015-10-25,FC Porto,SC Braga,0,0,1.33,4.75,9.5,1.33,4.6,9.25,1.35,4.5,7.3
-Portugal,2015-10-24,CS Marítimo,FC Paços de Ferreira,0,2,1.91,3.4,4.0,2.0,3.3,3.6,2.0,3.3,3.3
-Portugal,2015-11-01,Académica de Coimbra,Moreirense FC,1,1,2.35,3.0,3.25,2.35,2.95,3.2,2.4,3.1,2.8
-Portugal,2015-11-01,Boavista FC,CS Marítimo,0,1,2.7,3.2,2.6,2.6,2.95,2.8,2.6,3.0,2.6
-Portugal,2015-11-02,FC Paços de Ferreira,Vitória Guimaraes,0,1,2.15,3.2,3.5,2.0,3.1,3.9,2.1,3.1,3.3
-Portugal,2015-11-01,Vitória Setúbal,FC Arouca,0,0,2.1,3.1,3.75,2.15,3.1,3.4,2.2,3.1,3.1
+Portugal,2015-10-24,CS Maratimo,FC Paaos de Ferreira,0,2,1.91,3.4,4.0,2.0,3.3,3.6,2.0,3.3,3.3
+Portugal,2015-11-01,Acadamica de Coimbra,Moreirense FC,1,1,2.35,3.0,3.25,2.35,2.95,3.2,2.4,3.1,2.8
+Portugal,2015-11-01,Boavista FC,CS Maratimo,0,1,2.7,3.2,2.6,2.6,2.95,2.8,2.6,3.0,2.6
+Portugal,2015-11-02,FC Paaos de Ferreira,Vitaria Guimaraes,0,1,2.15,3.2,3.5,2.0,3.1,3.9,2.1,3.1,3.3
+Portugal,2015-11-01,Vitaria Setabal,FC Arouca,0,0,2.1,3.1,3.75,2.15,3.1,3.4,2.2,3.1,3.1
 Portugal,2015-10-31,SC Braga,CF Os Belenenses,4,0,1.5,4.0,6.5,1.53,3.75,6.25,1.55,3.7,5.4
 Portugal,2015-10-30,Tondela,SL Benfica,0,4,13.0,5.25,1.25,11.0,5.0,1.26,8.5,4.8,1.3
 Portugal,2015-10-31,Sporting CP,Estoril Praia,1,0,1.2,6.0,15.0,1.22,5.75,12.0,1.25,5.0,10.0
@@ -2527,13 +2527,13 @@ Scotland,2015-09-26,Kilmarnock,Hamilton Academical FC,1,2,3.6,3.2,2.1,3.0,3.25,2
 Scotland,2015-09-26,Motherwell,Partick Thistle F.C.,2,1,2.5,3.3,2.75,2.3,3.3,2.75,2.1,3.3,3.1
 Scotland,2015-09-26,St. Johnstone FC,Dundee United,2,1,2.15,3.4,3.3,2.05,3.4,3.1,2.1,3.3,3.1
 Spain,2015-08-23,Levante UD,RC Celta de Vigo,1,2,3.6,3.3,2.15,3.25,3.2,2.2,2.9,3.3,2.3
-Spain,2015-08-22,Atlético Madrid,UD Las Palmas,1,0,1.2,6.5,15.0,1.22,6.0,12.0,1.25,5.5,10.3
-Spain,2015-08-21,Málaga CF,Sevilla FC,0,0,3.4,3.4,2.15,3.3,3.4,2.25,2.9,3.3,2.3
+Spain,2015-08-22,Atlatico Madrid,UD Las Palmas,1,0,1.2,6.5,15.0,1.22,6.0,12.0,1.25,5.5,10.3
+Spain,2015-08-21,Malaga CF,Sevilla FC,0,0,3.4,3.4,2.15,3.3,3.4,2.25,2.9,3.3,2.3
 Spain,2015-08-23,Athletic Club de Bilbao,FC Barcelona,0,1,6.5,4.33,1.5,6.0,4.2,1.5,5.2,4.0,1.57
 Spain,2015-08-24,Granada CF,SD Eibar,1,3,1.91,3.3,4.5,1.95,3.1,4.33,2.0,3.3,3.6
 Spain,2015-08-22,RCD Espanyol,Getafe CF,1,0,1.91,3.4,4.33,1.95,3.25,4.0,2.0,3.3,3.6
-Spain,2015-08-23,Real Betis Balompié,Villarreal CF,1,1,2.8,3.25,2.6,2.65,3.25,2.6,2.6,3.2,2.6
-Spain,2015-08-23,Real Sporting de Gijón,Real Madrid CF,0,0,13.0,6.5,1.22,10.0,6.5,1.22,12.5,6.0,1.2
+Spain,2015-08-23,Real Betis Balompia,Villarreal CF,1,1,2.8,3.25,2.6,2.65,3.25,2.6,2.6,3.2,2.6
+Spain,2015-08-23,Real Sporting de Gijan,Real Madrid CF,0,0,13.0,6.5,1.22,10.0,6.5,1.22,12.5,6.0,1.2
 Spain,2015-08-22,RC Deportivo de La Coruna,Real Sociedad,0,0,2.5,3.2,3.0,2.55,3.1,2.8,2.6,3.2,2.6
 Spain,2015-08-22,Rayo Vallecano,Valencia CF,0,0,3.6,3.5,2.05,3.5,3.4,2.05,3.6,3.3,2.0
 Spain,2015-11-01,SD Eibar,Rayo Vallecano,1,0,2.2,3.4,3.3,2.2,3.3,3.2,2.1,3.3,3.3
@@ -2542,9 +2542,9 @@ Spain,2015-10-31,Villarreal CF,Sevilla FC,2,1,2.25,3.4,3.25,2.25,3.4,3.25,2.2,3.
 Spain,2015-10-31,Real Madrid CF,UD Las Palmas,3,1,1.09,11.0,23.0,1.1,9.25,18.0,1.05,11.0,25.0
 Spain,2015-10-31,Real Sociedad,RC Celta de Vigo,2,3,2.7,3.2,2.75,2.7,3.2,2.75,2.6,3.2,2.6
 Spain,2015-10-31,Valencia CF,Levante UD,3,0,1.44,4.5,7.5,1.45,4.1,7.5,1.4,4.4,7.3
-Spain,2015-10-30,RC Deportivo de La Coruna,Atlético Madrid,1,1,5.5,3.4,1.7,5.75,3.6,1.7,4.5,3.5,1.75
-Spain,2015-11-01,Real Sporting de Gijón,Málaga CF,1,0,2.38,3.2,3.2,2.4,3.0,3.1,2.3,3.2,3.0
-Spain,2015-11-01,Real Betis Balompié,Athletic Club de Bilbao,1,3,3.25,3.25,2.3,3.2,3.0,2.35,2.9,3.3,2.3
+Spain,2015-10-30,RC Deportivo de La Coruna,Atlatico Madrid,1,1,5.5,3.4,1.7,5.75,3.6,1.7,4.5,3.5,1.75
+Spain,2015-11-01,Real Sporting de Gijan,Malaga CF,1,0,2.38,3.2,3.2,2.4,3.0,3.1,2.3,3.2,3.0
+Spain,2015-11-01,Real Betis Balompia,Athletic Club de Bilbao,1,3,3.25,3.25,2.3,3.2,3.0,2.35,2.9,3.3,2.3
 Spain,2015-11-01,RCD Espanyol,Granada CF,1,1,2.0,3.3,4.0,2.0,3.3,3.8,2.0,3.3,3.6
 Spain,2015-11-07,SD Eibar,Getafe CF,3,1,2.1,3.25,3.75,2.1,3.0,3.8,2.1,3.2,3.4
 Spain,2015-11-08,FC Barcelona,Villarreal CF,3,0,1.3,5.5,10.0,1.33,5.25,9.0,1.25,6.0,9.0
@@ -2552,8 +2552,8 @@ Spain,2015-11-08,Sevilla FC,Real Madrid CF,3,2,3.6,4.0,1.91,3.9,3.8,1.91,3.8,3.8
 Spain,2015-11-06,UD Las Palmas,Real Sociedad,2,0,2.75,3.1,2.75,2.7,3.2,2.75,2.5,3.3,2.65
 Spain,2015-11-07,RC Celta de Vigo,Valencia CF,1,5,1.85,3.75,4.2,1.85,3.6,4.0,2.0,3.3,3.6
 Spain,2015-11-07,Levante UD,RC Deportivo de La Coruna,1,1,2.6,3.1,2.9,2.6,3.1,2.75,2.6,3.2,2.6
-Spain,2015-11-08,Atlético Madrid,Real Sporting de Gijón,1,0,1.2,6.5,17.0,1.22,5.5,14.0,1.22,5.5,12.0
-Spain,2015-11-07,Málaga CF,Real Betis Balompié,0,1,1.95,3.5,4.0,1.95,3.3,3.9,2.1,3.3,3.3
+Spain,2015-11-08,Atlatico Madrid,Real Sporting de Gijan,1,0,1.2,6.5,17.0,1.22,5.5,14.0,1.22,5.5,12.0
+Spain,2015-11-07,Malaga CF,Real Betis Balompia,0,1,1.95,3.5,4.0,1.95,3.3,3.9,2.1,3.3,3.3
 Spain,2015-11-08,Athletic Club de Bilbao,RCD Espanyol,2,1,1.44,4.5,7.5,1.45,4.25,7.25,1.55,4.0,5.5
 Spain,2015-11-07,Rayo Vallecano,Granada CF,2,1,1.95,3.5,4.0,1.91,3.4,4.0,1.9,3.45,3.8
 Spain,2015-11-23,Getafe CF,Rayo Vallecano,1,1,2.4,3.3,3.0,2.4,3.25,2.9,2.3,3.2,3.0
@@ -2562,179 +2562,179 @@ Spain,2015-11-21,Real Madrid CF,FC Barcelona,0,4,2.5,3.75,2.8,2.5,3.4,2.8,2.4,3.
 Spain,2015-11-21,Real Sociedad,Sevilla FC,2,0,2.63,3.3,2.7,2.7,3.3,2.7,2.65,3.3,2.5
 Spain,2015-11-21,Valencia CF,UD Las Palmas,1,1,1.44,4.2,7.5,1.5,4.25,6.75,1.4,4.4,7.3
 Spain,2015-11-21,RC Deportivo de La Coruna,RC Celta de Vigo,2,0,3.3,3.4,2.2,3.1,3.3,2.25,2.9,3.3,2.3
-Spain,2015-11-22,Real Sporting de Gijón,Levante UD,0,3,2.2,3.2,3.5,2.2,3.2,3.3,2.1,3.3,3.3
-Spain,2015-11-22,Real Betis Balompié,Atlético Madrid,0,1,5.5,3.8,1.67,5.25,3.8,1.67,4.7,3.6,1.7
-Spain,2015-11-21,RCD Espanyol,Málaga CF,2,0,2.4,3.2,3.1,2.4,3.1,3.0,2.5,3.2,2.75
+Spain,2015-11-22,Real Sporting de Gijan,Levante UD,0,3,2.2,3.2,3.5,2.2,3.2,3.3,2.1,3.3,3.3
+Spain,2015-11-22,Real Betis Balompia,Atlatico Madrid,0,1,5.5,3.8,1.67,5.25,3.8,1.67,4.7,3.6,1.7
+Spain,2015-11-21,RCD Espanyol,Malaga CF,2,0,2.4,3.2,3.1,2.4,3.1,3.0,2.5,3.2,2.75
 Spain,2015-11-22,Granada CF,Athletic Club de Bilbao,2,0,3.75,3.3,2.1,3.5,3.25,2.1,3.6,3.3,2.0
 Spain,2015-11-29,Getafe CF,Villarreal CF,2,0,3.0,3.3,2.4,2.85,3.3,2.4,3.1,3.3,2.2
 Spain,2015-11-29,SD Eibar,Real Madrid CF,0,2,7.5,5.0,1.4,7.25,4.6,1.45,7.3,4.4,1.4
 Spain,2015-11-28,FC Barcelona,Real Sociedad,4,0,1.07,13.0,23.0,1.08,11.5,29.0,1.1,8.0,20.0
 Spain,2015-11-29,Sevilla FC,Valencia CF,1,0,1.75,4.0,4.33,1.8,3.8,4.33,1.85,3.45,4.0
 Spain,2015-11-28,UD Las Palmas,RC Deportivo de La Coruna,0,2,2.3,3.3,3.2,2.35,3.1,3.1,2.3,3.3,2.9
-Spain,2015-11-28,RC Celta de Vigo,Real Sporting de Gijón,2,1,1.4,5.0,7.5,1.4,4.75,7.0,1.45,4.0,7.0
-Spain,2015-11-27,Levante UD,Real Betis Balompié,0,1,2.05,3.4,3.75,2.15,3.2,3.4,2.1,3.3,3.3
-Spain,2015-11-28,Atlético Madrid,RCD Espanyol,1,0,1.22,6.0,15.0,1.25,5.75,13.0,1.25,5.5,10.3
-Spain,2015-11-28,Málaga CF,Granada CF,2,2,1.83,3.4,4.75,1.85,3.4,4.25,1.9,3.45,3.8
+Spain,2015-11-28,RC Celta de Vigo,Real Sporting de Gijan,2,1,1.4,5.0,7.5,1.4,4.75,7.0,1.45,4.0,7.0
+Spain,2015-11-27,Levante UD,Real Betis Balompia,0,1,2.05,3.4,3.75,2.15,3.2,3.4,2.1,3.3,3.3
+Spain,2015-11-28,Atlatico Madrid,RCD Espanyol,1,0,1.22,6.0,15.0,1.25,5.75,13.0,1.25,5.5,10.3
+Spain,2015-11-28,Malaga CF,Granada CF,2,2,1.83,3.4,4.75,1.85,3.4,4.25,1.9,3.45,3.8
 Spain,2015-11-29,Rayo Vallecano,Athletic Club de Bilbao,0,3,3.1,3.4,2.3,2.9,3.4,2.3,2.75,3.3,2.4
 Spain,2015-12-06,Villarreal CF,Rayo Vallecano,2,1,1.57,3.8,6.5,1.57,3.7,6.0,1.55,3.9,5.6
 Spain,2015-12-05,Real Madrid CF,Getafe CF,4,1,1.1,11.0,21.0,1.11,10.0,19.0,1.07,9.5,22.0
 Spain,2015-12-06,Real Sociedad,SD Eibar,2,1,1.85,3.5,4.5,1.9,3.2,4.33,1.9,3.45,3.8
 Spain,2015-12-05,Valencia CF,FC Barcelona,1,1,9.0,6.0,1.3,10.0,5.5,1.3,8.3,4.8,1.33
 Spain,2015-12-05,RC Deportivo de La Coruna,Sevilla FC,1,1,3.0,3.3,2.4,3.0,3.4,2.4,2.65,3.3,2.5
-Spain,2015-12-06,Real Sporting de Gijón,UD Las Palmas,3,1,2.3,3.3,3.25,2.3,3.2,3.1,2.2,3.2,3.2
-Spain,2015-12-05,Real Betis Balompié,RC Celta de Vigo,1,1,3.3,3.5,2.15,3.2,3.3,2.2,3.3,3.3,2.1
+Spain,2015-12-06,Real Sporting de Gijan,UD Las Palmas,3,1,2.3,3.3,3.25,2.3,3.2,3.1,2.2,3.2,3.2
+Spain,2015-12-05,Real Betis Balompia,RC Celta de Vigo,1,1,3.3,3.5,2.15,3.2,3.3,2.2,3.3,3.3,2.1
 Spain,2015-12-07,RCD Espanyol,Levante UD,1,1,2.0,3.5,3.8,2.0,3.25,3.75,2.0,3.3,3.6
-Spain,2015-12-05,Granada CF,Atlético Madrid,0,2,7.0,3.75,1.57,6.75,3.9,1.57,5.4,3.7,1.6
-Spain,2015-12-06,Athletic Club de Bilbao,Málaga CF,0,0,1.45,4.33,7.5,1.5,4.1,6.5,1.45,4.0,7.0
+Spain,2015-12-05,Granada CF,Atlatico Madrid,0,2,7.0,3.75,1.57,6.75,3.9,1.57,5.4,3.7,1.6
+Spain,2015-12-06,Athletic Club de Bilbao,Malaga CF,0,0,1.45,4.33,7.5,1.5,4.1,6.5,1.45,4.0,7.0
 Spain,2015-12-13,Villarreal CF,Real Madrid CF,1,0,5.0,4.2,1.65,4.4,4.25,1.7,4.3,3.9,1.7
 Spain,2015-12-11,Getafe CF,Real Sociedad,1,1,2.88,3.2,2.6,2.8,3.1,2.7,2.6,3.2,2.6
 Spain,2015-12-13,SD Eibar,Valencia CF,1,1,2.45,3.2,3.0,2.55,3.1,3.0,2.6,3.2,2.6
 Spain,2015-12-12,FC Barcelona,RC Deportivo de La Coruna,2,2,1.07,13.0,26.0,1.08,12.0,26.0,1.1,8.0,20.0
-Spain,2015-12-12,Sevilla FC,Real Sporting de Gijón,2,0,1.36,5.0,8.5,1.36,5.0,8.75,1.37,4.6,7.5
-Spain,2015-12-12,UD Las Palmas,Real Betis Balompié,1,0,2.15,3.3,3.5,2.15,3.3,3.3,2.1,3.3,3.3
+Spain,2015-12-12,Sevilla FC,Real Sporting de Gijan,2,0,1.36,5.0,8.5,1.36,5.0,8.75,1.37,4.6,7.5
+Spain,2015-12-12,UD Las Palmas,Real Betis Balompia,1,0,2.15,3.3,3.5,2.15,3.3,3.3,2.1,3.3,3.3
 Spain,2015-12-12,RC Celta de Vigo,RCD Espanyol,1,0,1.53,4.33,6.0,1.55,4.0,5.75,1.55,3.9,5.6
 Spain,2015-12-12,Levante UD,Granada CF,1,2,2.1,3.1,4.0,2.1,3.1,3.7,2.1,3.3,3.3
-Spain,2015-12-13,Atlético Madrid,Athletic Club de Bilbao,2,1,1.57,3.75,7.0,1.62,3.7,6.25,1.65,3.6,5.1
-Spain,2015-12-13,Rayo Vallecano,Málaga CF,1,2,2.3,3.25,3.25,2.3,3.25,3.1,2.3,3.3,2.9
+Spain,2015-12-13,Atlatico Madrid,Athletic Club de Bilbao,2,1,1.57,3.75,7.0,1.62,3.7,6.25,1.65,3.6,5.1
+Spain,2015-12-13,Rayo Vallecano,Malaga CF,1,2,2.3,3.25,3.25,2.3,3.25,3.1,2.3,3.3,2.9
 Spain,2015-12-20,Real Madrid CF,Rayo Vallecano,10,2,1.1,11.0,21.0,1.1,12.0,21.0,1.1,8.0,20.0
 Spain,2015-12-20,Real Sociedad,Villarreal CF,0,2,2.4,3.2,3.1,2.45,3.1,2.95,2.6,3.1,2.7
 Spain,2015-12-19,Valencia CF,Getafe CF,2,2,1.67,3.75,5.5,1.67,3.8,5.5,1.6,3.7,5.4
 Spain,2015-12-19,RC Deportivo de La Coruna,SD Eibar,2,0,2.0,3.3,4.0,2.0,3.3,3.7,2.0,3.3,3.6
-Spain,2016-02-17,Real Sporting de Gijón,FC Barcelona,1,3,19.0,8.0,1.14,13.5,7.75,1.15,15.0,7.0,1.15
-Spain,2015-12-19,Real Betis Balompié,Sevilla FC,0,0,3.75,3.5,2.0,3.75,3.6,2.0,3.3,3.3,2.1
+Spain,2016-02-17,Real Sporting de Gijan,FC Barcelona,1,3,19.0,8.0,1.14,13.5,7.75,1.15,15.0,7.0,1.15
+Spain,2015-12-19,Real Betis Balompia,Sevilla FC,0,0,3.75,3.5,2.0,3.75,3.6,2.0,3.3,3.3,2.1
 Spain,2015-12-19,RCD Espanyol,UD Las Palmas,1,0,2.05,3.4,3.75,2.05,3.4,3.5,2.0,3.3,3.6
 Spain,2015-12-20,Granada CF,RC Celta de Vigo,0,2,3.2,3.3,2.3,3.0,3.3,2.3,3.1,3.3,2.2
 Spain,2015-12-20,Athletic Club de Bilbao,Levante UD,2,0,1.4,4.5,9.0,1.4,4.5,7.5,1.45,4.0,7.0
-Spain,2015-12-20,Málaga CF,Atlético Madrid,1,0,5.25,3.5,1.75,5.0,3.5,1.8,4.5,3.5,1.75
+Spain,2015-12-20,Malaga CF,Atlatico Madrid,1,0,5.25,3.5,1.75,5.0,3.5,1.8,4.5,3.5,1.75
 Spain,2015-12-30,Real Madrid CF,Real Sociedad,3,1,1.1,10.0,19.0,1.12,10.0,16.5,1.1,8.0,20.0
 Spain,2015-12-31,Villarreal CF,Valencia CF,1,0,1.8,3.5,4.5,1.85,3.3,4.33,1.85,3.45,4.0
 Spain,2015-12-30,Getafe CF,RC Deportivo de La Coruna,0,0,2.5,3.2,2.88,2.55,3.2,2.75,2.5,3.1,2.8
-Spain,2015-12-30,SD Eibar,Real Sporting de Gijón,2,0,1.85,3.5,4.2,1.85,3.3,4.33,1.9,3.45,3.8
-Spain,2015-12-30,FC Barcelona,Real Betis Balompié,4,0,1.06,13.0,26.0,1.06,11.0,26.0,1.1,8.0,20.0
+Spain,2015-12-30,SD Eibar,Real Sporting de Gijan,2,0,1.85,3.5,4.2,1.85,3.3,4.33,1.9,3.45,3.8
+Spain,2015-12-30,FC Barcelona,Real Betis Balompia,4,0,1.06,13.0,26.0,1.06,11.0,26.0,1.1,8.0,20.0
 Spain,2015-12-30,Sevilla FC,RCD Espanyol,2,0,1.4,4.75,7.0,1.42,5.0,7.0,1.45,4.0,7.0
 Spain,2015-12-30,UD Las Palmas,Granada CF,4,1,2.0,3.3,3.75,2.1,3.3,3.4,2.1,3.2,3.4
 Spain,2015-12-30,RC Celta de Vigo,Athletic Club de Bilbao,0,1,2.38,3.3,2.9,2.5,3.2,2.8,2.4,3.2,2.85
-Spain,2015-12-30,Levante UD,Málaga CF,0,1,2.75,3.0,2.75,2.75,3.1,2.75,2.6,3.2,2.6
-Spain,2015-12-30,Rayo Vallecano,Atlético Madrid,0,2,6.5,3.8,1.53,6.5,4.0,1.55,5.6,3.8,1.57
+Spain,2015-12-30,Levante UD,Malaga CF,0,1,2.75,3.0,2.75,2.75,3.1,2.75,2.6,3.2,2.6
+Spain,2015-12-30,Rayo Vallecano,Atlatico Madrid,0,2,6.5,3.8,1.53,6.5,4.0,1.55,5.6,3.8,1.57
 Spain,2016-01-03,Rayo Vallecano,Real Sociedad,2,2,2.63,3.3,2.75,2.6,3.25,2.65,2.6,3.2,2.6
 Spain,2016-01-03,Valencia CF,Real Madrid CF,2,2,6.0,4.33,1.53,6.0,4.2,1.55,5.5,4.0,1.55
 Spain,2016-01-03,RC Deportivo de La Coruna,Villarreal CF,1,2,2.7,3.2,2.7,2.85,3.0,2.75,2.6,3.2,2.6
-Spain,2016-01-04,Real Sporting de Gijón,Getafe CF,1,2,2.25,3.3,3.3,2.25,3.25,3.1,2.3,3.1,3.1
-Spain,2016-01-03,Real Betis Balompié,SD Eibar,0,4,2.4,3.25,3.1,2.45,3.25,2.95,2.4,3.1,2.95
+Spain,2016-01-04,Real Sporting de Gijan,Getafe CF,1,2,2.25,3.3,3.3,2.25,3.25,3.1,2.3,3.1,3.1
+Spain,2016-01-03,Real Betis Balompia,SD Eibar,0,4,2.4,3.25,3.1,2.45,3.25,2.95,2.4,3.1,2.95
 Spain,2016-01-02,RCD Espanyol,FC Barcelona,0,0,14.0,7.0,1.2,12.5,6.5,1.2,12.0,5.5,1.22
 Spain,2016-01-03,Granada CF,Sevilla FC,2,1,4.33,3.6,1.85,4.33,3.4,1.85,3.9,3.4,1.9
 Spain,2016-01-03,Athletic Club de Bilbao,UD Las Palmas,2,2,1.36,5.0,8.5,1.4,4.33,8.25,1.4,4.4,7.3
-Spain,2016-01-02,Málaga CF,RC Celta de Vigo,2,0,2.4,3.3,3.0,2.4,3.2,2.9,2.6,3.2,2.6
-Spain,2016-01-02,Atlético Madrid,Levante UD,1,0,1.2,6.5,17.0,1.2,6.25,13.0,1.2,5.8,13.0
+Spain,2016-01-02,Malaga CF,RC Celta de Vigo,2,0,2.4,3.3,3.0,2.4,3.2,2.9,2.6,3.2,2.6
+Spain,2016-01-02,Atlatico Madrid,Levante UD,1,0,1.2,6.5,17.0,1.2,6.25,13.0,1.2,5.8,13.0
 Spain,2016-01-10,Real Sociedad,Valencia CF,2,0,2.25,3.3,3.3,2.25,3.3,3.4,2.2,3.3,3.1
 Spain,2016-01-09,Real Madrid CF,RC Deportivo de La Coruna,5,0,1.11,9.0,21.0,1.15,8.75,18.0,1.15,7.0,15.0
-Spain,2016-01-10,Villarreal CF,Real Sporting de Gijón,2,0,1.5,4.33,6.5,1.45,4.25,7.0,1.4,4.4,7.3
-Spain,2016-01-09,Getafe CF,Real Betis Balompié,1,0,1.95,3.5,4.0,1.95,3.25,4.0,2.0,3.3,3.6
+Spain,2016-01-10,Villarreal CF,Real Sporting de Gijan,2,0,1.5,4.33,6.5,1.45,4.25,7.0,1.4,4.4,7.3
+Spain,2016-01-09,Getafe CF,Real Betis Balompia,1,0,1.95,3.5,4.0,1.95,3.25,4.0,2.0,3.3,3.6
 Spain,2016-01-10,SD Eibar,RCD Espanyol,2,1,2.0,3.3,4.0,2.0,3.25,3.8,2.0,3.3,3.6
 Spain,2016-01-09,FC Barcelona,Granada CF,4,0,1.05,15.0,34.0,1.05,16.0,41.0,1.07,9.5,22.0
 Spain,2016-01-09,Sevilla FC,Athletic Club de Bilbao,2,0,2.1,3.5,3.5,2.1,3.6,3.5,2.0,3.3,3.6
-Spain,2016-01-10,UD Las Palmas,Málaga CF,1,1,2.7,3.1,2.8,2.7,3.0,2.75,2.5,3.2,2.75
-Spain,2016-01-10,RC Celta de Vigo,Atlético Madrid,0,2,4.5,3.5,1.8,4.4,3.4,1.91,3.8,3.45,1.9
+Spain,2016-01-10,UD Las Palmas,Malaga CF,1,1,2.7,3.1,2.8,2.7,3.0,2.75,2.5,3.2,2.75
+Spain,2016-01-10,RC Celta de Vigo,Atlatico Madrid,0,2,4.5,3.5,1.8,4.4,3.4,1.91,3.8,3.45,1.9
 Spain,2016-01-09,Levante UD,Rayo Vallecano,2,1,2.15,3.4,3.4,2.2,3.2,3.3,2.2,3.2,3.2
 Spain,2015-08-29,RC Celta de Vigo,Rayo Vallecano,3,0,1.53,4.33,6.0,1.55,3.75,6.25,1.65,3.7,4.9
 Spain,2015-08-30,UD Las Palmas,Levante UD,0,0,1.91,3.3,4.5,1.91,3.25,4.2,2.0,3.3,3.6
-Spain,2015-08-30,Sevilla FC,Atlético Madrid,0,3,2.8,3.2,2.63,2.75,3.3,2.7,2.6,3.2,2.6
-Spain,2015-08-29,FC Barcelona,Málaga CF,1,0,1.1,10.0,26.0,1.13,7.75,16.5,1.15,7.0,15.0
+Spain,2015-08-30,Sevilla FC,Atlatico Madrid,0,3,2.8,3.2,2.63,2.75,3.3,2.7,2.6,3.2,2.6
+Spain,2015-08-29,FC Barcelona,Malaga CF,1,0,1.1,10.0,26.0,1.13,7.75,16.5,1.15,7.0,15.0
 Spain,2015-08-30,SD Eibar,Athletic Club de Bilbao,2,0,4.0,3.1,2.1,4.0,3.25,2.15,3.3,3.3,2.1
 Spain,2015-08-30,Getafe CF,Granada CF,1,2,2.05,3.2,4.0,2.05,3.25,3.6,2.1,3.3,3.3
 Spain,2015-08-28,Villarreal CF,RCD Espanyol,3,1,1.57,3.8,6.5,1.62,3.75,6.0,1.6,3.7,5.4
-Spain,2015-08-29,Real Madrid CF,Real Betis Balompié,5,0,1.1,10.0,26.0,1.11,8.5,19.5,1.12,8.0,16.0
-Spain,2015-08-29,Real Sociedad,Real Sporting de Gijón,0,0,1.85,3.5,4.5,1.9,3.5,4.75,1.85,3.45,4.0
+Spain,2015-08-29,Real Madrid CF,Real Betis Balompia,5,0,1.1,10.0,26.0,1.11,8.5,19.5,1.12,8.0,16.0
+Spain,2015-08-29,Real Sociedad,Real Sporting de Gijan,0,0,1.85,3.5,4.5,1.9,3.5,4.75,1.85,3.45,4.0
 Spain,2015-08-30,Valencia CF,RC Deportivo de La Coruna,1,1,1.44,4.33,8.0,1.44,4.0,7.75,1.45,4.0,7.0
 Spain,2016-01-16,RC Celta de Vigo,Levante UD,4,3,1.62,3.8,6.0,1.62,3.75,5.25,1.6,3.9,5.0
-Spain,2016-01-17,UD Las Palmas,Atlético Madrid,0,3,6.5,3.6,1.62,6.0,3.8,1.62,5.6,3.9,1.55
-Spain,2016-01-16,Sevilla FC,Málaga CF,2,1,1.67,3.8,5.25,1.67,4.0,5.0,1.7,3.6,4.7
+Spain,2016-01-17,UD Las Palmas,Atlatico Madrid,0,3,6.5,3.6,1.62,6.0,3.8,1.62,5.6,3.9,1.55
+Spain,2016-01-16,Sevilla FC,Malaga CF,2,1,1.67,3.8,5.25,1.67,4.0,5.0,1.7,3.6,4.7
 Spain,2016-01-17,FC Barcelona,Athletic Club de Bilbao,6,0,1.14,8.0,19.0,1.14,8.75,18.5,1.12,8.0,16.0
 Spain,2016-01-18,SD Eibar,Granada CF,5,1,1.83,3.5,4.5,1.8,3.25,4.75,1.7,3.6,4.7
 Spain,2016-01-17,Getafe CF,RCD Espanyol,3,1,2.2,3.2,3.5,2.15,3.2,3.4,2.1,3.3,3.3
-Spain,2016-01-16,Villarreal CF,Real Betis Balompié,0,0,1.45,4.33,8.0,1.48,4.0,6.75,1.4,4.4,7.3
-Spain,2016-01-17,Real Madrid CF,Real Sporting de Gijón,5,1,1.05,17.0,26.0,1.06,13.5,29.0,1.07,9.5,22.0
+Spain,2016-01-16,Villarreal CF,Real Betis Balompia,0,0,1.45,4.33,8.0,1.48,4.0,6.75,1.4,4.4,7.3
+Spain,2016-01-17,Real Madrid CF,Real Sporting de Gijan,5,1,1.05,17.0,26.0,1.06,13.5,29.0,1.07,9.5,22.0
 Spain,2016-01-16,Real Sociedad,RC Deportivo de La Coruna,1,1,1.95,3.3,4.2,1.95,3.3,3.9,2.0,3.3,3.6
 Spain,2016-01-17,Valencia CF,Rayo Vallecano,2,2,1.62,4.0,5.5,1.62,4.1,5.25,1.6,3.9,5.0
 Spain,2016-01-23,Rayo Vallecano,RC Celta de Vigo,3,0,2.7,3.4,2.63,2.55,3.4,2.6,2.65,3.3,2.5
 Spain,2016-01-25,Levante UD,UD Las Palmas,3,2,2.38,3.1,3.25,2.35,3.0,3.2,2.4,3.3,2.75
-Spain,2016-01-24,Atlético Madrid,Sevilla FC,0,0,1.67,3.5,6.0,1.67,3.5,6.0,1.6,3.7,5.4
-Spain,2016-01-23,Málaga CF,FC Barcelona,1,2,8.5,5.5,1.33,8.0,5.5,1.35,7.6,4.8,1.35
+Spain,2016-01-24,Atlatico Madrid,Sevilla FC,0,0,1.67,3.5,6.0,1.67,3.5,6.0,1.6,3.7,5.4
+Spain,2016-01-23,Malaga CF,FC Barcelona,1,2,8.5,5.5,1.33,8.0,5.5,1.35,7.6,4.8,1.35
 Spain,2016-01-24,Athletic Club de Bilbao,SD Eibar,5,2,1.67,3.75,5.5,1.7,3.5,5.0,1.65,3.6,5.1
 Spain,2016-01-23,Granada CF,Getafe CF,3,2,2.63,3.1,2.88,2.65,3.1,2.85,2.5,3.3,2.65
 Spain,2016-01-23,RCD Espanyol,Villarreal CF,2,2,2.9,3.2,2.55,2.85,3.0,2.6,2.75,3.3,2.4
-Spain,2016-01-24,Real Betis Balompié,Real Madrid CF,1,1,9.5,5.75,1.3,9.75,5.5,1.3,10.0,5.2,1.27
-Spain,2016-01-22,Real Sporting de Gijón,Real Sociedad,5,1,3.1,3.2,2.45,3.0,3.25,2.5,2.75,3.3,2.4
+Spain,2016-01-24,Real Betis Balompia,Real Madrid CF,1,1,9.5,5.75,1.3,9.75,5.5,1.3,10.0,5.2,1.27
+Spain,2016-01-22,Real Sporting de Gijan,Real Sociedad,5,1,3.1,3.2,2.45,3.0,3.25,2.5,2.75,3.3,2.4
 Spain,2016-01-24,RC Deportivo de La Coruna,Valencia CF,1,1,2.25,3.3,3.3,2.25,3.3,3.3,2.4,3.3,2.75
 Spain,2016-01-31,UD Las Palmas,RC Celta de Vigo,2,1,2.38,3.3,3.1,2.45,3.2,2.85,2.5,3.3,2.65
 Spain,2016-01-31,Sevilla FC,Levante UD,3,1,1.33,5.0,10.0,1.36,4.75,9.25,1.33,5.0,8.0
-Spain,2016-01-30,FC Barcelona,Atlético Madrid,2,1,1.5,4.2,7.0,1.53,4.0,7.0,1.6,3.9,5.0
-Spain,2016-01-30,SD Eibar,Málaga CF,1,2,2.38,3.25,3.0,2.4,3.2,2.95,2.6,3.2,2.6
+Spain,2016-01-30,FC Barcelona,Atlatico Madrid,2,1,1.5,4.2,7.0,1.53,4.0,7.0,1.6,3.9,5.0
+Spain,2016-01-30,SD Eibar,Malaga CF,1,2,2.38,3.25,3.0,2.4,3.2,2.95,2.6,3.2,2.6
 Spain,2016-01-30,Getafe CF,Athletic Club de Bilbao,0,1,3.4,3.3,2.2,3.4,3.3,2.25,2.9,3.3,2.3
 Spain,2016-01-30,Villarreal CF,Granada CF,1,0,1.44,4.5,7.5,1.45,4.2,7.0,1.4,4.5,7.2
 Spain,2016-01-31,Real Madrid CF,RCD Espanyol,6,0,1.1,11.0,21.0,1.11,10.0,21.0,1.1,8.0,20.0
-Spain,2016-01-30,Real Sociedad,Real Betis Balompié,2,1,1.67,3.75,5.5,1.7,3.5,5.0,1.8,3.5,4.2
-Spain,2016-01-31,Valencia CF,Real Sporting de Gijón,0,1,1.75,3.75,4.75,1.75,3.6,5.0,1.7,3.7,4.5
+Spain,2016-01-30,Real Sociedad,Real Betis Balompia,2,1,1.67,3.75,5.5,1.7,3.5,5.0,1.8,3.5,4.2
+Spain,2016-01-31,Valencia CF,Real Sporting de Gijan,0,1,1.75,3.75,4.75,1.75,3.6,5.0,1.7,3.7,4.5
 Spain,2016-02-01,RC Deportivo de La Coruna,Rayo Vallecano,2,2,1.91,3.6,4.0,1.85,3.5,4.1,1.9,3.45,3.8
 Spain,2016-02-06,Rayo Vallecano,UD Las Palmas,2,0,1.91,3.6,4.0,1.91,3.4,4.0,1.9,3.45,3.8
 Spain,2016-02-07,RC Celta de Vigo,Sevilla FC,1,1,3.2,3.3,2.3,3.0,3.4,2.35,2.75,3.2,2.5
 Spain,2016-02-07,Levante UD,FC Barcelona,0,2,15.0,7.5,1.18,13.0,7.0,1.2,13.0,5.8,1.2
-Spain,2016-02-06,Atlético Madrid,SD Eibar,3,1,1.36,4.5,9.5,1.4,4.33,9.5,1.4,4.4,7.3
-Spain,2016-02-05,Málaga CF,Getafe CF,3,0,1.57,3.75,6.5,1.65,3.6,5.25,1.7,3.6,4.7
+Spain,2016-02-06,Atlatico Madrid,SD Eibar,3,1,1.36,4.5,9.5,1.4,4.33,9.5,1.4,4.4,7.3
+Spain,2016-02-05,Malaga CF,Getafe CF,3,0,1.57,3.75,6.5,1.65,3.6,5.25,1.7,3.6,4.7
 Spain,2016-02-06,Athletic Club de Bilbao,Villarreal CF,0,0,1.83,3.6,4.5,1.8,3.5,4.33,1.9,3.45,3.8
 Spain,2016-02-07,Granada CF,Real Madrid CF,1,2,12.0,6.0,1.25,11.0,6.0,1.26,10.0,5.2,1.27
 Spain,2016-02-08,RCD Espanyol,Real Sociedad,0,5,2.7,3.1,2.8,2.7,3.1,2.8,2.6,3.2,2.6
-Spain,2016-02-07,Real Betis Balompié,Valencia CF,1,0,2.63,3.1,2.88,2.6,3.2,2.9,2.4,3.2,2.85
-Spain,2016-02-06,Real Sporting de Gijón,RC Deportivo de La Coruna,1,1,2.5,3.25,2.9,2.5,3.1,2.9,2.55,3.2,2.7
+Spain,2016-02-07,Real Betis Balompia,Valencia CF,1,0,2.63,3.1,2.88,2.6,3.2,2.9,2.4,3.2,2.85
+Spain,2016-02-06,Real Sporting de Gijan,RC Deportivo de La Coruna,1,1,2.5,3.25,2.9,2.5,3.1,2.9,2.55,3.2,2.7
 Spain,2016-02-14,Sevilla FC,UD Las Palmas,2,0,1.33,5.0,10.0,1.33,5.5,8.75,1.3,5.0,9.0
 Spain,2016-02-14,FC Barcelona,RC Celta de Vigo,6,1,1.08,11.0,26.0,1.08,11.0,29.0,1.1,8.0,20.0
 Spain,2016-02-14,SD Eibar,Levante UD,2,0,1.8,3.5,4.75,1.8,3.4,4.6,1.8,3.5,4.2
-Spain,2016-02-14,Getafe CF,Atlético Madrid,0,1,6.5,3.8,1.57,7.0,3.7,1.57,5.6,3.8,1.57
-Spain,2016-02-13,Villarreal CF,Málaga CF,1,0,2.05,3.3,3.8,2.1,3.3,3.7,1.9,3.45,3.8
+Spain,2016-02-14,Getafe CF,Atlatico Madrid,0,1,6.5,3.8,1.57,7.0,3.7,1.57,5.6,3.8,1.57
+Spain,2016-02-13,Villarreal CF,Malaga CF,1,0,2.05,3.3,3.8,2.1,3.3,3.7,1.9,3.45,3.8
 Spain,2016-02-13,Real Madrid CF,Athletic Club de Bilbao,4,2,1.29,6.0,9.5,1.28,6.0,9.5,1.25,5.5,10.3
 Spain,2016-02-14,Real Sociedad,Granada CF,3,0,1.53,4.0,6.5,1.62,3.6,5.75,1.6,3.7,5.4
 Spain,2016-02-13,Valencia CF,RCD Espanyol,2,1,1.75,3.6,5.0,1.78,3.6,4.75,1.85,3.45,4.0
-Spain,2016-02-13,RC Deportivo de La Coruna,Real Betis Balompié,2,2,1.8,3.5,4.75,1.8,3.4,4.5,1.9,3.45,3.8
-Spain,2016-02-12,Real Sporting de Gijón,Rayo Vallecano,2,2,2.38,3.4,3.0,2.45,3.2,3.0,2.3,3.2,3.0
+Spain,2016-02-13,RC Deportivo de La Coruna,Real Betis Balompia,2,2,1.8,3.5,4.75,1.8,3.4,4.5,1.9,3.45,3.8
+Spain,2016-02-12,Real Sporting de Gijan,Rayo Vallecano,2,2,2.38,3.4,3.0,2.45,3.2,3.0,2.3,3.2,3.0
 Spain,2016-02-21,Rayo Vallecano,Sevilla FC,2,2,3.1,3.6,2.2,3.2,3.5,2.2,3.3,3.3,2.1
 Spain,2016-02-20,UD Las Palmas,FC Barcelona,1,2,15.0,7.5,1.18,14.0,7.0,1.2,14.0,6.5,1.17
 Spain,2016-02-20,RC Celta de Vigo,SD Eibar,3,2,2.0,3.5,3.8,2.0,3.4,3.9,2.0,3.3,3.6
 Spain,2016-02-19,Levante UD,Getafe CF,3,0,2.2,3.3,3.4,2.2,3.2,3.6,2.3,3.2,3.0
-Spain,2016-02-21,Atlético Madrid,Villarreal CF,0,0,1.53,3.8,7.5,1.55,3.7,7.5,1.52,3.9,6.1
-Spain,2016-02-21,Málaga CF,Real Madrid CF,1,1,4.75,3.8,1.73,4.75,3.9,1.72,5.0,4.0,1.6
+Spain,2016-02-21,Atlatico Madrid,Villarreal CF,0,0,1.53,3.8,7.5,1.55,3.7,7.5,1.52,3.9,6.1
+Spain,2016-02-21,Malaga CF,Real Madrid CF,1,1,4.75,3.8,1.73,4.75,3.9,1.72,5.0,4.0,1.6
 Spain,2016-02-21,Athletic Club de Bilbao,Real Sociedad,0,1,1.8,3.5,4.75,1.8,3.6,4.6,1.8,3.5,4.2
 Spain,2016-02-21,Granada CF,Valencia CF,1,2,2.88,3.2,2.55,2.85,3.2,2.6,2.65,3.3,2.5
 Spain,2016-02-20,RCD Espanyol,RC Deportivo de La Coruna,1,0,2.38,3.3,3.0,2.5,3.2,2.95,2.5,3.2,2.75
-Spain,2016-02-20,Real Betis Balompié,Real Sporting de Gijón,1,1,2.05,3.3,3.8,2.05,3.3,3.8,1.9,3.45,3.8
+Spain,2016-02-20,Real Betis Balompia,Real Sporting de Gijan,1,1,2.05,3.3,3.8,2.05,3.3,3.8,1.9,3.45,3.8
 Spain,2016-02-28,FC Barcelona,Sevilla FC,2,1,1.14,8.0,15.0,1.18,7.5,14.0,1.2,5.8,13.0
 Spain,2016-02-26,SD Eibar,UD Las Palmas,0,1,1.75,3.6,5.0,1.75,3.5,4.6,1.75,3.5,4.5
 Spain,2016-02-27,Getafe CF,RC Celta de Vigo,0,1,3.2,3.3,2.3,3.1,3.1,2.35,2.75,3.3,2.4
 Spain,2016-02-28,Villarreal CF,Levante UD,3,0,1.67,3.6,5.75,1.57,3.75,6.0,1.6,3.9,5.0
-Spain,2016-02-27,Real Madrid CF,Atlético Madrid,0,1,1.73,3.6,5.25,1.8,3.5,4.75,1.8,3.5,4.2
-Spain,2016-02-27,Real Sociedad,Málaga CF,1,1,2.2,3.25,3.5,2.25,3.1,3.3,2.2,3.2,3.2
+Spain,2016-02-27,Real Madrid CF,Atlatico Madrid,0,1,1.73,3.6,5.25,1.8,3.5,4.75,1.8,3.5,4.2
+Spain,2016-02-27,Real Sociedad,Malaga CF,1,1,2.2,3.25,3.5,2.25,3.1,3.3,2.2,3.2,3.2
 Spain,2016-02-28,Valencia CF,Athletic Club de Bilbao,0,3,2.3,3.2,3.3,2.25,3.3,3.3,2.2,3.2,3.2
 Spain,2016-02-28,RC Deportivo de La Coruna,Granada CF,0,1,1.8,3.5,4.75,1.8,3.4,4.5,1.8,3.5,4.2
-Spain,2016-02-27,Real Sporting de Gijón,RCD Espanyol,2,4,2.3,3.2,3.3,2.3,3.2,3.1,2.2,3.1,3.3
-Spain,2016-02-27,Real Betis Balompié,Rayo Vallecano,2,2,2.2,3.3,3.4,2.2,3.2,3.3,2.1,3.3,3.3
+Spain,2016-02-27,Real Sporting de Gijan,RCD Espanyol,2,4,2.3,3.2,3.3,2.3,3.2,3.1,2.2,3.1,3.3
+Spain,2016-02-27,Real Betis Balompia,Rayo Vallecano,2,2,2.2,3.3,3.4,2.2,3.2,3.3,2.1,3.3,3.3
 Spain,2016-03-03,Rayo Vallecano,FC Barcelona,1,5,13.0,7.0,1.2,13.0,6.5,1.19,13.0,5.8,1.2
 Spain,2016-03-02,Sevilla FC,SD Eibar,1,0,1.4,4.75,8.0,1.44,4.33,7.0,1.45,4.0,7.0
 Spain,2016-03-01,UD Las Palmas,Getafe CF,4,0,2.05,3.4,3.75,2.0,3.4,3.9,2.0,3.3,3.6
 Spain,2016-03-02,RC Celta de Vigo,Villarreal CF,0,0,2.2,3.3,3.4,2.15,3.25,3.4,2.3,3.3,2.9
 Spain,2016-03-02,Levante UD,Real Madrid CF,1,3,7.0,4.75,1.44,6.75,4.6,1.42,7.0,4.0,1.45
-Spain,2016-03-01,Atlético Madrid,Real Sociedad,3,0,1.4,4.33,9.0,1.45,4.2,8.0,1.45,4.0,7.0
-Spain,2016-03-02,Málaga CF,Valencia CF,1,2,2.05,3.3,3.8,2.05,3.1,3.8,2.2,3.3,3.1
+Spain,2016-03-01,Atlatico Madrid,Real Sociedad,3,0,1.4,4.33,9.0,1.45,4.2,8.0,1.45,4.0,7.0
+Spain,2016-03-02,Malaga CF,Valencia CF,1,2,2.05,3.3,3.8,2.05,3.1,3.8,2.2,3.3,3.1
 Spain,2016-03-02,Athletic Club de Bilbao,RC Deportivo de La Coruna,4,1,1.53,4.0,7.0,1.5,3.9,6.75,1.55,3.9,5.6
-Spain,2016-03-03,Granada CF,Real Sporting de Gijón,2,0,2.1,3.3,3.75,2.1,3.2,3.5,2.2,3.3,3.1
-Spain,2016-03-03,RCD Espanyol,Real Betis Balompié,0,3,1.95,3.5,4.0,1.9,3.4,4.0,2.0,3.3,3.6
+Spain,2016-03-03,Granada CF,Real Sporting de Gijan,2,0,2.1,3.3,3.75,2.1,3.2,3.5,2.2,3.3,3.1
+Spain,2016-03-03,RCD Espanyol,Real Betis Balompia,0,3,1.95,3.5,4.0,1.9,3.4,4.0,2.0,3.3,3.6
 Spain,2016-03-06,SD Eibar,FC Barcelona,0,4,10.0,6.5,1.25,10.0,6.5,1.22,12.0,5.5,1.22
 Spain,2016-03-05,Getafe CF,Sevilla FC,1,1,3.8,3.5,2.0,3.8,3.4,1.95,3.8,3.45,1.9
 Spain,2016-03-05,Villarreal CF,UD Las Palmas,0,1,1.62,3.75,6.0,1.57,3.7,6.25,1.55,3.9,5.6
 Spain,2016-03-05,Real Madrid CF,RC Celta de Vigo,7,1,1.3,6.0,8.0,1.3,5.75,8.0,1.3,5.0,9.0
 Spain,2016-03-06,Real Sociedad,Levante UD,1,1,1.57,3.75,7.0,1.55,3.9,6.0,1.55,3.9,5.6
-Spain,2016-03-06,Valencia CF,Atlético Madrid,1,3,4.0,3.3,2.0,3.9,3.3,1.95,3.3,3.3,2.1
-Spain,2016-03-05,RC Deportivo de La Coruna,Málaga CF,3,3,2.5,3.1,3.0,2.6,3.1,2.75,2.5,3.3,2.65
-Spain,2016-03-06,Real Sporting de Gijón,Athletic Club de Bilbao,0,2,4.0,3.3,2.0,3.9,3.3,1.95,3.6,3.3,2.0
-Spain,2016-03-06,Real Betis Balompié,Granada CF,2,0,2.1,3.4,3.6,2.0,3.3,3.7,2.0,3.3,3.6
+Spain,2016-03-06,Valencia CF,Atlatico Madrid,1,3,4.0,3.3,2.0,3.9,3.3,1.95,3.3,3.3,2.1
+Spain,2016-03-05,RC Deportivo de La Coruna,Malaga CF,3,3,2.5,3.1,3.0,2.6,3.1,2.75,2.5,3.3,2.65
+Spain,2016-03-06,Real Sporting de Gijan,Athletic Club de Bilbao,0,2,4.0,3.3,2.0,3.9,3.3,1.95,3.6,3.3,2.0
+Spain,2016-03-06,Real Betis Balompia,Granada CF,2,0,2.1,3.4,3.6,2.0,3.3,3.7,2.0,3.3,3.6
 Spain,2016-03-07,RCD Espanyol,Rayo Vallecano,2,1,1.95,3.5,4.0,1.95,3.5,3.75,2.2,3.2,3.2
 Spain,2016-03-12,Rayo Vallecano,SD Eibar,1,1,2.2,3.6,3.1,2.15,3.4,3.2,2.2,3.3,3.1
 Spain,2016-03-12,FC Barcelona,Getafe CF,6,0,1.06,15.0,26.0,1.06,12.5,23.0,1.07,9.5,22.0
@@ -2742,19 +2742,19 @@ Spain,2016-03-13,Sevilla FC,Villarreal CF,4,2,1.73,3.75,5.0,1.67,3.6,5.25,1.75,3
 Spain,2016-03-13,UD Las Palmas,Real Madrid CF,1,2,9.5,5.25,1.33,8.75,5.5,1.3,7.6,4.8,1.35
 Spain,2016-03-12,RC Celta de Vigo,Real Sociedad,1,0,2.1,3.4,3.5,2.1,3.4,3.3,2.1,3.3,3.3
 Spain,2016-03-13,Levante UD,Valencia CF,1,0,2.63,3.25,2.8,2.55,3.25,2.7,2.6,3.2,2.6
-Spain,2016-03-12,Atlético Madrid,RC Deportivo de La Coruna,3,0,1.25,5.5,15.0,1.26,5.25,12.0,1.33,4.8,8.3
-Spain,2016-03-11,Málaga CF,Real Sporting de Gijón,1,0,1.62,3.8,6.0,1.6,3.75,6.25,1.6,3.7,5.4
-Spain,2016-03-13,Athletic Club de Bilbao,Real Betis Balompié,3,1,1.44,4.33,8.0,1.42,4.4,7.25,1.5,4.0,6.1
+Spain,2016-03-12,Atlatico Madrid,RC Deportivo de La Coruna,3,0,1.25,5.5,15.0,1.26,5.25,12.0,1.33,4.8,8.3
+Spain,2016-03-11,Malaga CF,Real Sporting de Gijan,1,0,1.62,3.8,6.0,1.6,3.75,6.25,1.6,3.7,5.4
+Spain,2016-03-13,Athletic Club de Bilbao,Real Betis Balompia,3,1,1.44,4.33,8.0,1.42,4.4,7.25,1.5,4.0,6.1
 Spain,2016-03-14,Granada CF,RCD Espanyol,1,1,2.15,3.3,3.5,2.3,3.3,3.0,2.2,3.3,3.1
 Spain,2015-09-13,RC Celta de Vigo,UD Las Palmas,3,3,1.5,4.2,7.0,1.53,4.0,6.0,1.55,3.9,5.6
 Spain,2015-09-11,Levante UD,Sevilla FC,1,1,4.75,3.75,1.75,4.5,3.8,1.8,4.0,3.45,1.85
-Spain,2015-09-12,Atlético Madrid,FC Barcelona,1,2,3.3,3.2,2.3,3.3,3.3,2.3,3.0,3.2,2.3
-Spain,2015-09-13,Málaga CF,SD Eibar,0,0,1.75,3.5,5.25,1.8,3.4,4.5,1.8,3.5,4.2
+Spain,2015-09-12,Atlatico Madrid,FC Barcelona,1,2,3.3,3.2,2.3,3.3,3.3,2.3,3.0,3.2,2.3
+Spain,2015-09-13,Malaga CF,SD Eibar,0,0,1.75,3.5,5.25,1.8,3.4,4.5,1.8,3.5,4.2
 Spain,2015-09-13,Athletic Club de Bilbao,Getafe CF,3,1,1.57,3.75,7.0,1.57,3.7,6.25,1.65,3.6,5.1
 Spain,2015-09-13,Granada CF,Villarreal CF,1,3,3.5,3.1,2.25,3.4,3.2,2.3,3.2,3.2,2.2
 Spain,2015-09-12,RCD Espanyol,Real Madrid CF,0,6,10.0,5.0,1.33,8.75,5.25,1.34,8.0,5.0,1.33
-Spain,2015-09-12,Real Betis Balompié,Real Sociedad,1,0,2.3,3.3,3.2,2.35,3.2,3.0,2.4,3.3,2.75
-Spain,2015-09-12,Real Sporting de Gijón,Valencia CF,0,1,3.4,3.2,2.25,3.3,3.2,2.3,2.75,3.3,2.4
+Spain,2015-09-12,Real Betis Balompia,Real Sociedad,1,0,2.3,3.3,3.2,2.35,3.2,3.0,2.4,3.3,2.75
+Spain,2015-09-12,Real Sporting de Gijan,Valencia CF,0,1,3.4,3.2,2.25,3.3,3.2,2.3,2.75,3.3,2.4
 Spain,2015-09-14,Rayo Vallecano,RC Deportivo de La Coruna,1,3,2.1,3.5,3.5,2.1,3.4,3.3,2.15,3.3,3.2
 Spain,2016-03-18,Getafe CF,SD Eibar,1,1,2.1,3.25,3.75,2.15,3.3,3.5,2.2,3.2,3.2
 Spain,2016-03-20,Villarreal CF,FC Barcelona,2,2,8.5,5.25,1.33,8.75,4.75,1.34,10.0,5.2,1.27
@@ -2762,8 +2762,8 @@ Spain,2016-03-20,Real Madrid CF,Sevilla FC,4,0,1.33,5.5,8.5,1.36,4.75,7.75,1.3,5
 Spain,2016-03-19,Real Sociedad,UD Las Palmas,0,1,1.67,3.5,6.0,1.57,3.8,5.75,1.6,3.7,5.4
 Spain,2016-03-20,Valencia CF,RC Celta de Vigo,0,2,2.3,3.5,3.0,2.35,3.4,2.85,2.2,3.3,3.1
 Spain,2016-03-19,RC Deportivo de La Coruna,Levante UD,2,1,1.91,3.4,4.33,1.83,3.4,4.4,1.85,3.45,4.0
-Spain,2016-03-19,Real Sporting de Gijón,Atlético Madrid,2,1,8.5,3.6,1.53,7.25,3.75,1.5,7.0,4.0,1.45
-Spain,2016-03-19,Real Betis Balompié,Málaga CF,0,1,2.6,3.1,2.9,2.65,3.0,2.75,2.5,3.2,2.75
+Spain,2016-03-19,Real Sporting de Gijan,Atlatico Madrid,2,1,8.5,3.6,1.53,7.25,3.75,1.5,7.0,4.0,1.45
+Spain,2016-03-19,Real Betis Balompia,Malaga CF,0,1,2.6,3.1,2.9,2.65,3.0,2.75,2.5,3.2,2.75
 Spain,2016-03-20,RCD Espanyol,Athletic Club de Bilbao,2,1,3.1,3.4,2.3,3.3,3.3,2.15,2.9,3.3,2.3
 Spain,2016-03-19,Granada CF,Rayo Vallecano,2,2,2.15,3.4,3.4,2.05,3.5,3.4,2.1,3.3,3.3
 Spain,2016-04-01,Rayo Vallecano,Getafe CF,2,0,1.91,3.6,4.0,1.91,3.6,4.0,1.9,3.45,3.8
@@ -2772,137 +2772,137 @@ Spain,2016-04-02,FC Barcelona,Real Madrid CF,1,2,1.57,4.5,5.5,1.57,4.33,5.0,1.6,
 Spain,2016-04-03,Sevilla FC,Real Sociedad,1,2,1.62,4.0,5.5,1.6,3.9,5.25,1.55,4.0,5.5
 Spain,2016-04-02,UD Las Palmas,Valencia CF,2,1,2.38,3.25,3.1,2.35,3.2,3.0,2.4,3.3,2.75
 Spain,2016-04-02,RC Celta de Vigo,RC Deportivo de La Coruna,1,1,1.75,3.8,4.75,1.7,3.7,4.75,1.7,3.6,4.7
-Spain,2016-04-04,Levante UD,Real Sporting de Gijón,0,0,2.1,3.25,3.75,2.1,3.2,3.6,2.1,3.3,3.3
-Spain,2016-04-02,Atlético Madrid,Real Betis Balompié,5,1,1.4,4.33,10.0,1.36,4.33,9.25,1.4,4.4,7.3
-Spain,2016-04-03,Málaga CF,RCD Espanyol,1,1,1.85,3.4,4.75,1.8,3.4,4.6,1.85,3.45,4.0
+Spain,2016-04-04,Levante UD,Real Sporting de Gijan,0,0,2.1,3.25,3.75,2.1,3.2,3.6,2.1,3.3,3.3
+Spain,2016-04-02,Atlatico Madrid,Real Betis Balompia,5,1,1.4,4.33,10.0,1.36,4.33,9.25,1.4,4.4,7.3
+Spain,2016-04-03,Malaga CF,RCD Espanyol,1,1,1.85,3.4,4.75,1.8,3.4,4.6,1.85,3.45,4.0
 Spain,2016-04-03,Athletic Club de Bilbao,Granada CF,1,1,1.44,4.33,8.0,1.48,4.0,6.75,1.55,3.9,5.6
 Spain,2016-04-10,Villarreal CF,Getafe CF,2,0,1.5,3.8,7.5,1.5,3.8,7.0,1.5,4.0,6.1
 Spain,2016-04-09,Real Madrid CF,SD Eibar,4,0,1.17,7.5,13.0,1.17,7.25,12.5,1.2,7.0,10.0
 Spain,2016-04-09,Real Sociedad,FC Barcelona,1,0,6.0,4.33,1.5,5.75,4.33,1.5,5.5,4.0,1.55
 Spain,2016-04-10,Valencia CF,Sevilla FC,2,1,2.2,3.4,3.2,2.25,3.4,3.0,2.4,3.3,2.75
 Spain,2016-04-11,RC Deportivo de La Coruna,UD Las Palmas,1,3,2.05,3.3,3.6,2.1,3.3,3.4,2.1,3.1,3.5
-Spain,2016-04-10,Real Sporting de Gijón,RC Celta de Vigo,0,1,3.1,3.25,2.3,2.95,3.25,2.35,2.75,3.3,2.4
-Spain,2016-04-09,Real Betis Balompié,Levante UD,1,0,2.05,3.25,3.75,1.95,3.4,3.75,1.9,3.45,3.8
-Spain,2016-04-09,RCD Espanyol,Atlético Madrid,1,3,4.0,3.1,2.05,4.33,3.3,1.85,3.6,3.3,2.0
-Spain,2016-04-08,Granada CF,Málaga CF,0,0,2.3,3.2,3.3,2.3,3.1,3.2,2.4,3.1,2.95
+Spain,2016-04-10,Real Sporting de Gijan,RC Celta de Vigo,0,1,3.1,3.25,2.3,2.95,3.25,2.35,2.75,3.3,2.4
+Spain,2016-04-09,Real Betis Balompia,Levante UD,1,0,2.05,3.25,3.75,1.95,3.4,3.75,1.9,3.45,3.8
+Spain,2016-04-09,RCD Espanyol,Atlatico Madrid,1,3,4.0,3.1,2.05,4.33,3.3,1.85,3.6,3.3,2.0
+Spain,2016-04-08,Granada CF,Malaga CF,0,0,2.3,3.2,3.3,2.3,3.1,3.2,2.4,3.1,2.95
 Spain,2016-04-10,Athletic Club de Bilbao,Rayo Vallecano,1,0,1.53,4.0,6.0,1.57,4.0,5.5,1.55,3.9,5.6
 Spain,2016-04-17,Rayo Vallecano,Villarreal CF,2,1,2.6,3.3,2.75,2.6,3.25,2.65,2.65,3.3,2.5
 Spain,2016-04-16,Getafe CF,Real Madrid CF,1,5,9.5,6.0,1.29,9.0,5.5,1.28,9.0,5.0,1.3
 Spain,2016-04-16,SD Eibar,Real Sociedad,2,1,2.7,3.25,2.7,2.55,3.2,2.75,2.6,3.2,2.6
 Spain,2016-04-17,FC Barcelona,Valencia CF,1,2,1.14,9.0,17.0,1.14,8.0,15.0,1.15,7.0,15.0
 Spain,2016-04-17,Sevilla FC,RC Deportivo de La Coruna,1,1,1.53,4.2,6.0,1.5,4.2,6.0,1.4,4.4,7.3
-Spain,2016-04-16,UD Las Palmas,Real Sporting de Gijón,1,1,1.95,3.5,4.0,1.9,3.4,4.0,1.9,3.45,3.8
-Spain,2016-04-16,RC Celta de Vigo,Real Betis Balompié,1,1,1.6,4.2,5.5,1.57,4.0,5.5,1.55,3.9,5.6
+Spain,2016-04-16,UD Las Palmas,Real Sporting de Gijan,1,1,1.95,3.5,4.0,1.9,3.4,4.0,1.9,3.45,3.8
+Spain,2016-04-16,RC Celta de Vigo,Real Betis Balompia,1,1,1.6,4.2,5.5,1.57,4.0,5.5,1.55,3.9,5.6
 Spain,2016-04-15,Levante UD,RCD Espanyol,2,1,2.45,3.3,3.0,2.4,3.3,3.0,2.3,3.2,3.0
-Spain,2016-04-17,Atlético Madrid,Granada CF,3,0,1.22,6.0,15.0,1.25,5.25,12.0,1.22,5.5,12.0
-Spain,2016-04-17,Málaga CF,Athletic Club de Bilbao,0,1,2.3,3.25,3.25,2.4,3.2,2.95,2.4,3.3,2.75
+Spain,2016-04-17,Atlatico Madrid,Granada CF,3,0,1.22,6.0,15.0,1.25,5.25,12.0,1.22,5.5,12.0
+Spain,2016-04-17,Malaga CF,Athletic Club de Bilbao,0,1,2.3,3.25,3.25,2.4,3.2,2.95,2.4,3.3,2.75
 Spain,2016-04-20,Real Madrid CF,Villarreal CF,3,0,1.22,7.0,11.0,1.2,6.75,11.5,1.25,5.5,10.3
 Spain,2016-04-21,Real Sociedad,Getafe CF,1,2,1.53,4.2,6.0,1.53,4.0,6.0,1.55,3.9,5.6
 Spain,2016-04-20,Valencia CF,SD Eibar,4,0,1.62,4.2,5.25,1.6,3.9,5.25,1.65,3.6,5.1
 Spain,2016-04-20,RC Deportivo de La Coruna,FC Barcelona,0,8,13.0,7.0,1.2,10.5,6.5,1.22,9.0,5.0,1.3
-Spain,2016-04-20,Real Sporting de Gijón,Sevilla FC,2,1,3.1,3.4,2.3,3.2,3.4,2.15,2.9,3.3,2.3
-Spain,2016-04-19,Real Betis Balompié,UD Las Palmas,1,0,2.1,3.5,3.5,2.15,3.3,3.5,2.2,3.3,3.1
+Spain,2016-04-20,Real Sporting de Gijan,Sevilla FC,2,1,3.1,3.4,2.3,3.2,3.4,2.15,2.9,3.3,2.3
+Spain,2016-04-19,Real Betis Balompia,UD Las Palmas,1,0,2.1,3.5,3.5,2.15,3.3,3.5,2.2,3.3,3.1
 Spain,2016-04-19,RCD Espanyol,RC Celta de Vigo,1,1,2.38,3.3,3.0,2.45,3.3,2.95,2.5,3.3,2.65
 Spain,2016-04-21,Granada CF,Levante UD,5,1,1.95,3.5,3.8,1.87,3.4,4.1,1.95,3.35,3.7
-Spain,2016-04-20,Athletic Club de Bilbao,Atlético Madrid,0,1,4.0,3.3,2.0,3.75,3.25,2.0,3.6,3.3,2.0
-Spain,2016-04-20,Málaga CF,Rayo Vallecano,1,1,1.85,3.75,4.2,1.83,3.75,3.9,1.85,3.45,4.0
+Spain,2016-04-20,Athletic Club de Bilbao,Atlatico Madrid,0,1,4.0,3.3,2.0,3.75,3.25,2.0,3.6,3.3,2.0
+Spain,2016-04-20,Malaga CF,Rayo Vallecano,1,1,1.85,3.75,4.2,1.83,3.75,3.9,1.85,3.45,4.0
 Spain,2016-04-23,Rayo Vallecano,Real Madrid CF,2,3,8.5,5.5,1.33,7.75,5.0,1.35,9.0,5.0,1.3
 Spain,2016-04-24,Villarreal CF,Real Sociedad,0,0,1.73,3.75,5.0,1.8,3.6,4.25,1.8,3.5,4.2
 Spain,2016-04-24,Getafe CF,Valencia CF,2,2,3.2,3.3,2.3,3.1,3.3,2.25,2.9,3.3,2.3
 Spain,2016-04-23,SD Eibar,RC Deportivo de La Coruna,1,1,2.25,3.2,3.4,2.2,3.3,3.2,2.3,3.3,2.9
-Spain,2016-04-23,FC Barcelona,Real Sporting de Gijón,6,0,1.04,17.0,34.0,1.04,13.5,29.0,1.05,11.0,25.0
-Spain,2016-04-24,Sevilla FC,Real Betis Balompié,2,0,1.5,4.33,6.5,1.45,4.33,6.5,1.5,4.0,6.1
+Spain,2016-04-23,FC Barcelona,Real Sporting de Gijan,6,0,1.04,17.0,34.0,1.04,13.5,29.0,1.05,11.0,25.0
+Spain,2016-04-24,Sevilla FC,Real Betis Balompia,2,0,1.5,4.33,6.5,1.45,4.33,6.5,1.5,4.0,6.1
 Spain,2016-04-22,UD Las Palmas,RCD Espanyol,4,0,2.25,3.3,3.3,2.25,3.25,3.4,2.2,3.1,3.3
 Spain,2016-04-25,RC Celta de Vigo,Granada CF,2,1,1.53,4.33,6.0,1.53,4.0,6.0,1.5,4.0,6.1
 Spain,2016-04-24,Levante UD,Athletic Club de Bilbao,2,2,3.4,3.2,2.25,3.25,3.25,2.2,2.9,3.3,2.3
-Spain,2016-04-23,Atlético Madrid,Málaga CF,1,0,1.33,5.0,11.0,1.3,4.75,10.5,1.3,5.0,9.0
+Spain,2016-04-23,Atlatico Madrid,Malaga CF,1,0,1.33,5.0,11.0,1.3,4.75,10.5,1.3,5.0,9.0
 Spain,2016-04-30,Real Sociedad,Real Madrid CF,0,1,5.0,4.0,1.67,5.0,4.0,1.67,4.5,4.0,1.65
 Spain,2016-05-01,Valencia CF,Villarreal CF,0,2,2.2,3.3,3.4,2.15,3.4,3.4,2.0,3.3,3.6
 Spain,2016-05-01,RC Deportivo de La Coruna,Getafe CF,0,2,2.3,3.3,3.2,2.25,3.4,3.25,2.1,3.3,3.3
-Spain,2016-04-29,Real Sporting de Gijón,SD Eibar,2,0,1.6,3.8,5.75,1.62,3.8,5.75,1.5,4.3,5.5
-Spain,2016-04-30,Real Betis Balompié,FC Barcelona,0,2,21.0,9.0,1.13,19.0,9.5,1.12,15.0,7.0,1.15
+Spain,2016-04-29,Real Sporting de Gijan,SD Eibar,2,0,1.6,3.8,5.75,1.62,3.8,5.75,1.5,4.3,5.5
+Spain,2016-04-30,Real Betis Balompia,FC Barcelona,0,2,21.0,9.0,1.13,19.0,9.5,1.12,15.0,7.0,1.15
 Spain,2016-05-01,RCD Espanyol,Sevilla FC,1,0,2.3,3.3,3.1,2.35,3.4,3.0,2.2,3.3,3.1
 Spain,2016-04-30,Granada CF,UD Las Palmas,3,2,1.6,3.8,6.0,1.62,4.0,5.5,1.55,4.3,5.0
 Spain,2016-05-01,Athletic Club de Bilbao,RC Celta de Vigo,2,1,1.85,3.6,4.33,1.85,3.6,4.25,1.9,3.45,3.8
-Spain,2016-05-02,Málaga CF,Levante UD,3,1,2.2,3.2,3.5,2.15,3.4,3.4,2.1,3.3,3.3
-Spain,2016-04-30,Atlético Madrid,Rayo Vallecano,1,0,1.33,5.0,10.0,1.28,5.75,11.0,1.3,5.0,9.0
+Spain,2016-05-02,Malaga CF,Levante UD,3,1,2.2,3.2,3.5,2.15,3.4,3.4,2.1,3.3,3.3
+Spain,2016-04-30,Atlatico Madrid,Rayo Vallecano,1,0,1.33,5.0,10.0,1.28,5.75,11.0,1.3,5.0,9.0
 Spain,2016-05-08,Real Sociedad,Rayo Vallecano,2,1,3.5,3.6,2.05,3.25,3.5,2.1,3.15,3.5,2.1
 Spain,2016-05-08,Real Madrid CF,Valencia CF,3,2,1.2,7.5,11.0,1.2,7.0,10.5,1.22,6.0,10.5
 Spain,2016-05-08,Villarreal CF,RC Deportivo de La Coruna,0,2,2.45,3.1,3.1,2.4,3.1,3.0,2.3,3.3,2.9
-Spain,2016-05-08,Getafe CF,Real Sporting de Gijón,1,1,2.1,3.6,3.4,2.15,3.4,3.2,2.1,3.3,3.3
-Spain,2016-05-08,SD Eibar,Real Betis Balompié,1,1,2.1,3.6,3.4,2.15,3.4,3.2,2.3,3.1,3.1
+Spain,2016-05-08,Getafe CF,Real Sporting de Gijan,1,1,2.1,3.6,3.4,2.15,3.4,3.2,2.1,3.3,3.3
+Spain,2016-05-08,SD Eibar,Real Betis Balompia,1,1,2.1,3.6,3.4,2.15,3.4,3.2,2.3,3.1,3.1
 Spain,2016-05-08,FC Barcelona,RCD Espanyol,5,0,1.04,17.0,41.0,1.03,19.5,31.0,1.05,11.0,25.0
 Spain,2016-05-08,Sevilla FC,Granada CF,1,4,2.88,3.75,2.3,2.7,3.4,2.45,2.55,3.5,2.5
 Spain,2016-05-08,UD Las Palmas,Athletic Club de Bilbao,0,0,4.0,3.6,1.91,4.0,3.5,1.87,3.6,3.3,2.0
-Spain,2016-05-08,RC Celta de Vigo,Málaga CF,1,0,1.5,4.2,7.0,1.5,4.1,6.25,1.5,4.0,6.1
-Spain,2016-05-08,Levante UD,Atlético Madrid,2,1,17.0,6.5,1.2,14.5,5.5,1.22,12.5,6.0,1.2
+Spain,2016-05-08,RC Celta de Vigo,Malaga CF,1,0,1.5,4.2,7.0,1.5,4.1,6.25,1.5,4.0,6.1
+Spain,2016-05-08,Levante UD,Atlatico Madrid,2,1,17.0,6.5,1.2,14.5,5.5,1.22,12.5,6.0,1.2
 Spain,2016-05-13,Valencia CF,Real Sociedad,0,1,1.95,3.75,3.75,1.95,3.7,3.75,1.8,3.7,3.9
 Spain,2016-05-14,RC Deportivo de La Coruna,Real Madrid CF,0,2,13.0,8.0,1.18,11.5,6.5,1.2,10.0,7.0,1.2
-Spain,2016-05-15,Real Sporting de Gijón,Villarreal CF,2,0,1.44,4.5,7.5,1.44,4.33,7.0,1.45,4.5,5.5
-Spain,2016-05-15,Real Betis Balompié,Getafe CF,2,1,5.0,3.8,1.7,4.6,3.8,1.7,4.8,4.0,1.6
+Spain,2016-05-15,Real Sporting de Gijan,Villarreal CF,2,0,1.44,4.5,7.5,1.44,4.33,7.0,1.45,4.5,5.5
+Spain,2016-05-15,Real Betis Balompia,Getafe CF,2,1,5.0,3.8,1.7,4.6,3.8,1.7,4.8,4.0,1.6
 Spain,2016-05-15,RCD Espanyol,SD Eibar,4,2,2.0,3.6,3.7,2.0,3.6,3.4,1.85,3.45,4.0
 Spain,2016-05-14,Granada CF,FC Barcelona,0,3,26.0,11.0,1.08,21.0,9.0,1.1,20.0,8.0,1.1
 Spain,2016-05-14,Athletic Club de Bilbao,Sevilla FC,3,1,1.33,5.75,8.0,1.34,5.5,7.0,1.4,5.0,6.0
-Spain,2016-05-15,Málaga CF,UD Las Palmas,4,1,1.8,3.75,4.5,1.83,3.7,4.0,1.85,3.45,4.0
-Spain,2016-05-14,Atlético Madrid,RC Celta de Vigo,2,0,1.75,3.75,4.5,1.83,3.6,4.1,1.85,3.7,3.7
+Spain,2016-05-15,Malaga CF,UD Las Palmas,4,1,1.8,3.75,4.5,1.83,3.7,4.0,1.85,3.45,4.0
+Spain,2016-05-14,Atlatico Madrid,RC Celta de Vigo,2,0,1.75,3.75,4.5,1.83,3.6,4.1,1.85,3.7,3.7
 Spain,2016-05-15,Rayo Vallecano,Levante UD,3,1,1.33,5.25,9.0,1.33,4.75,9.25,1.4,5.0,6.0
 Spain,2015-09-20,UD Las Palmas,Rayo Vallecano,0,1,1.91,3.5,4.0,1.9,3.5,3.9,2.0,3.3,3.6
 Spain,2015-09-20,Sevilla FC,RC Celta de Vigo,1,2,1.8,3.75,4.33,1.83,3.7,4.5,1.85,3.45,4.0
 Spain,2015-09-20,FC Barcelona,Levante UD,4,1,1.06,12.0,29.0,1.07,10.5,26.0,1.07,9.5,22.0
-Spain,2015-09-19,SD Eibar,Atlético Madrid,0,2,7.0,3.75,1.57,6.75,3.7,1.6,5.1,3.6,1.65
-Spain,2015-09-18,Getafe CF,Málaga CF,1,0,2.6,3.1,2.9,2.6,3.1,2.75,2.6,3.2,2.6
+Spain,2015-09-19,SD Eibar,Atlatico Madrid,0,2,7.0,3.75,1.57,6.75,3.7,1.6,5.1,3.6,1.65
+Spain,2015-09-18,Getafe CF,Malaga CF,1,0,2.6,3.1,2.9,2.6,3.1,2.75,2.6,3.2,2.6
 Spain,2015-09-20,Villarreal CF,Athletic Club de Bilbao,3,1,2.0,3.5,3.75,2.0,3.3,3.7,1.9,3.45,3.8
 Spain,2015-09-19,Real Madrid CF,Granada CF,1,0,1.06,15.0,26.0,1.07,13.0,34.0,1.05,11.0,25.0
 Spain,2015-09-19,Real Sociedad,RCD Espanyol,2,3,2.0,3.4,4.0,2.0,3.1,4.1,2.0,3.3,3.6
-Spain,2015-09-19,Valencia CF,Real Betis Balompié,0,0,1.5,4.33,6.5,1.5,4.4,6.75,1.5,4.0,6.1
-Spain,2015-09-20,RC Deportivo de La Coruna,Real Sporting de Gijón,2,3,2.05,3.1,4.2,2.05,3.3,3.6,2.0,3.3,3.6
+Spain,2015-09-19,Valencia CF,Real Betis Balompia,0,0,1.5,4.33,6.5,1.5,4.4,6.75,1.5,4.0,6.1
+Spain,2015-09-20,RC Deportivo de La Coruna,Real Sporting de Gijan,2,3,2.05,3.1,4.2,2.05,3.3,3.6,2.0,3.3,3.6
 Spain,2015-09-23,UD Las Palmas,Sevilla FC,2,0,3.3,3.4,2.2,3.4,3.3,2.2,2.9,3.3,2.3
 Spain,2015-09-23,RC Celta de Vigo,FC Barcelona,4,1,6.5,4.5,1.5,6.0,4.2,1.55,5.2,4.2,1.55
 Spain,2015-09-23,Levante UD,SD Eibar,2,2,2.38,3.1,3.25,2.5,3.0,2.95,2.4,3.2,2.85
-Spain,2015-09-22,Atlético Madrid,Getafe CF,2,0,1.25,5.5,15.0,1.25,5.5,14.5,1.25,5.5,10.3
-Spain,2015-09-23,Málaga CF,Villarreal CF,0,1,2.63,3.3,2.75,2.65,3.2,2.65,2.6,3.2,2.6
+Spain,2015-09-22,Atlatico Madrid,Getafe CF,2,0,1.25,5.5,15.0,1.25,5.5,14.5,1.25,5.5,10.3
+Spain,2015-09-23,Malaga CF,Villarreal CF,0,1,2.63,3.3,2.75,2.65,3.2,2.65,2.6,3.2,2.6
 Spain,2015-09-23,Athletic Club de Bilbao,Real Madrid CF,1,2,5.25,4.2,1.62,5.5,4.1,1.6,4.8,4.1,1.6
 Spain,2015-09-22,Granada CF,Real Sociedad,0,3,2.4,3.1,3.2,2.45,3.1,2.95,2.4,3.2,2.85
 Spain,2015-09-22,RCD Espanyol,Valencia CF,1,0,3.25,3.25,2.3,3.1,3.3,2.35,2.9,3.3,2.3
-Spain,2015-09-24,Real Betis Balompié,RC Deportivo de La Coruna,1,2,2.25,3.3,3.3,2.25,3.1,3.25,2.0,3.3,3.6
-Spain,2015-09-23,Rayo Vallecano,Real Sporting de Gijón,2,1,2.25,3.4,3.2,2.25,3.4,3.0,2.2,3.3,3.1
+Spain,2015-09-24,Real Betis Balompia,RC Deportivo de La Coruna,1,2,2.25,3.3,3.3,2.25,3.1,3.25,2.0,3.3,3.6
+Spain,2015-09-23,Rayo Vallecano,Real Sporting de Gijan,2,1,2.25,3.4,3.2,2.25,3.4,3.0,2.2,3.3,3.1
 Spain,2015-09-26,Sevilla FC,Rayo Vallecano,3,2,1.44,4.75,7.0,1.5,4.33,6.5,1.5,4.0,6.1
 Spain,2015-09-26,FC Barcelona,UD Las Palmas,2,1,1.08,11.0,26.0,1.09,11.5,21.0,1.1,8.0,20.0
 Spain,2015-09-26,SD Eibar,RC Celta de Vigo,1,1,3.75,3.4,2.05,3.5,3.25,2.1,3.6,3.3,2.0
 Spain,2015-09-27,Getafe CF,Levante UD,3,0,1.95,3.3,4.2,1.95,3.25,4.0,2.0,3.3,3.6
-Spain,2015-09-26,Villarreal CF,Atlético Madrid,1,0,2.9,3.1,2.6,2.9,3.1,2.6,2.7,3.1,2.6
-Spain,2015-09-26,Real Madrid CF,Málaga CF,0,0,1.11,10.0,21.0,1.13,8.75,20.0,1.12,8.0,16.0
+Spain,2015-09-26,Villarreal CF,Atlatico Madrid,1,0,2.9,3.1,2.6,2.9,3.1,2.6,2.7,3.1,2.6
+Spain,2015-09-26,Real Madrid CF,Malaga CF,0,0,1.11,10.0,21.0,1.13,8.75,20.0,1.12,8.0,16.0
 Spain,2015-09-27,Real Sociedad,Athletic Club de Bilbao,0,0,2.4,3.2,3.0,2.5,3.2,2.8,2.5,3.2,2.75
 Spain,2015-09-25,Valencia CF,Granada CF,1,0,1.45,4.5,7.5,1.48,4.33,7.0,1.5,4.0,6.1
 Spain,2015-09-27,RC Deportivo de La Coruna,RCD Espanyol,3,0,2.1,3.3,3.75,2.1,3.25,3.5,2.1,3.3,3.3
-Spain,2015-09-27,Real Sporting de Gijón,Real Betis Balompié,1,2,2.3,3.2,3.3,2.3,3.1,3.2,2.3,3.2,3.0
+Spain,2015-09-27,Real Sporting de Gijan,Real Betis Balompia,1,2,2.3,3.2,3.3,2.3,3.1,3.2,2.3,3.2,3.0
 Spain,2015-10-03,Sevilla FC,FC Barcelona,2,1,4.0,3.6,1.91,4.2,3.5,1.9,3.5,3.4,2.0
 Spain,2015-10-03,UD Las Palmas,SD Eibar,0,2,2.1,3.3,3.75,2.1,3.0,3.8,2.1,3.3,3.3
 Spain,2015-10-02,RC Celta de Vigo,Getafe CF,0,0,1.44,4.5,7.5,1.5,4.1,6.25,1.55,4.0,5.5
 Spain,2015-10-04,Levante UD,Villarreal CF,1,0,4.33,3.4,1.91,4.4,3.5,1.85,4.2,3.5,1.8
-Spain,2015-10-04,Atlético Madrid,Real Madrid CF,1,1,3.2,3.3,2.3,3.1,3.1,2.45,2.75,3.2,2.5
-Spain,2015-10-03,Málaga CF,Real Sociedad,3,1,2.38,3.1,3.3,2.4,3.1,3.0,2.4,3.3,2.75
+Spain,2015-10-04,Atlatico Madrid,Real Madrid CF,1,1,3.2,3.3,2.3,3.1,3.1,2.45,2.75,3.2,2.5
+Spain,2015-10-03,Malaga CF,Real Sociedad,3,1,2.38,3.1,3.3,2.4,3.1,3.0,2.4,3.3,2.75
 Spain,2015-10-04,Athletic Club de Bilbao,Valencia CF,3,1,2.3,3.3,3.2,2.3,3.4,3.2,2.3,3.3,2.9
 Spain,2015-10-03,Granada CF,RC Deportivo de La Coruna,1,1,2.6,3.2,2.8,2.6,3.0,2.85,2.6,3.2,2.6
-Spain,2015-10-03,RCD Espanyol,Real Sporting de Gijón,1,2,2.0,3.3,4.0,2.0,3.2,3.9,1.9,3.45,3.8
-Spain,2015-10-04,Rayo Vallecano,Real Betis Balompié,0,2,2.2,3.5,3.2,2.1,3.4,3.3,2.2,3.2,3.2
+Spain,2015-10-03,RCD Espanyol,Real Sporting de Gijan,1,2,2.0,3.3,4.0,2.0,3.2,3.9,1.9,3.45,3.8
+Spain,2015-10-04,Rayo Vallecano,Real Betis Balompia,0,2,2.2,3.5,3.2,2.1,3.4,3.3,2.2,3.2,3.2
 Spain,2015-10-17,FC Barcelona,Rayo Vallecano,5,2,1.14,9.0,15.0,1.17,8.25,13.5,1.17,6.5,14.0
 Spain,2015-10-17,SD Eibar,Sevilla FC,1,1,3.6,3.4,2.1,3.4,3.3,2.2,3.2,3.2,2.2
 Spain,2015-10-18,Getafe CF,UD Las Palmas,4,0,2.15,3.2,3.6,2.15,3.1,3.6,2.1,3.3,3.3
 Spain,2015-10-18,Villarreal CF,RC Celta de Vigo,1,2,2.0,3.5,3.75,2.05,3.4,3.5,2.0,3.3,3.6
 Spain,2015-10-17,Real Madrid CF,Levante UD,3,0,1.08,12.0,23.0,1.1,10.5,23.0,1.07,9.5,22.0
-Spain,2015-10-18,Real Sociedad,Atlético Madrid,0,2,4.0,3.2,2.05,3.7,3.25,2.1,3.3,3.3,2.1
-Spain,2015-10-17,Valencia CF,Málaga CF,3,0,1.62,3.75,6.0,1.65,3.8,5.5,1.6,3.7,5.4
+Spain,2015-10-18,Real Sociedad,Atlatico Madrid,0,2,4.0,3.2,2.05,3.7,3.25,2.1,3.3,3.3,2.1
+Spain,2015-10-17,Valencia CF,Malaga CF,3,0,1.62,3.75,6.0,1.65,3.8,5.5,1.6,3.7,5.4
 Spain,2015-10-18,RC Deportivo de La Coruna,Athletic Club de Bilbao,2,2,2.7,3.1,2.8,2.75,2.95,2.9,2.6,3.2,2.6
-Spain,2015-10-19,Real Sporting de Gijón,Granada CF,3,3,2.0,3.2,4.2,2.05,3.2,3.7,2.1,3.1,3.5
-Spain,2015-10-17,Real Betis Balompié,RCD Espanyol,1,3,2.0,3.3,4.0,2.1,3.2,3.6,2.0,3.3,3.6
+Spain,2015-10-19,Real Sporting de Gijan,Granada CF,3,3,2.0,3.2,4.2,2.05,3.2,3.7,2.1,3.1,3.5
+Spain,2015-10-17,Real Betis Balompia,RCD Espanyol,1,3,2.0,3.3,4.0,2.1,3.2,3.6,2.0,3.3,3.6
 Spain,2015-10-25,FC Barcelona,SD Eibar,3,1,1.11,10.0,19.0,1.11,9.5,21.0,1.1,8.0,20.0
 Spain,2015-10-24,Sevilla FC,Getafe CF,5,0,1.44,4.33,8.0,1.48,4.33,7.0,1.5,4.0,6.1
 Spain,2015-10-25,UD Las Palmas,Villarreal CF,0,0,3.5,3.25,2.2,3.25,3.25,2.2,3.3,3.3,2.1
 Spain,2015-10-24,RC Celta de Vigo,Real Madrid CF,1,3,3.8,3.8,1.91,3.9,3.9,1.95,3.8,3.6,1.85
 Spain,2015-10-25,Levante UD,Real Sociedad,0,4,2.63,3.2,2.8,2.7,3.0,2.75,2.6,3.2,2.6
-Spain,2015-10-25,Atlético Madrid,Valencia CF,2,1,1.57,3.8,6.5,1.57,4.0,6.5,1.65,3.7,4.9
-Spain,2015-10-24,Málaga CF,RC Deportivo de La Coruna,2,0,2.25,3.25,3.4,2.35,3.1,3.1,2.2,3.2,3.2
-Spain,2015-10-26,Athletic Club de Bilbao,Real Sporting de Gijón,3,0,1.53,4.0,7.0,1.55,4.0,6.5,1.6,3.7,5.4
-Spain,2015-10-24,Granada CF,Real Betis Balompié,1,1,2.3,3.25,3.25,2.35,3.25,3.0,2.4,3.3,2.75
+Spain,2015-10-25,Atlatico Madrid,Valencia CF,2,1,1.57,3.8,6.5,1.57,4.0,6.5,1.65,3.7,4.9
+Spain,2015-10-24,Malaga CF,RC Deportivo de La Coruna,2,0,2.25,3.25,3.4,2.35,3.1,3.1,2.2,3.2,3.2
+Spain,2015-10-26,Athletic Club de Bilbao,Real Sporting de Gijan,3,0,1.53,4.0,7.0,1.55,4.0,6.5,1.6,3.7,5.4
+Spain,2015-10-24,Granada CF,Real Betis Balompia,1,1,2.3,3.25,3.25,2.35,3.25,3.0,2.4,3.3,2.75
 Spain,2015-10-23,Rayo Vallecano,RCD Espanyol,3,0,2.2,3.4,3.2,2.25,3.5,3.2,2.3,3.3,2.9
