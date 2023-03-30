@@ -1,5 +1,5 @@
-# Forrás: https://data.world/agriculture/china-agro-econ-data
-Év	Kategória	Áru	Mennyiség	Egység
+# Forras: https://data.world/agriculture/china-agro-econ-data
+Ev	Kategoria	Aru	Mennyiseg	Egyseg
 2008	Agricultural inputs	Ag employment (primary industry)	306,54	million
 2008	Agricultural inputs	Total fertilizer consumption	52390	1000 tons
 2008	Animals slaughtered	Cattle	44461	1000
