@@ -1,0 +1,185 @@
+Breed |Height_low_inches|Height_high_inches|Weight_low_lbs|Weight_high_lbs|Life_expectancy_years
+Afghan Hound |25 |29 |50 |60 |12
+Airedale Terrier |22 |24 |50 |70 |11
+Akita |26 |28 |75 |120 |10
+Alaskan Malamute |23 |25 |75 |100 |12
+American Bulldog |20 |28 |60 |120 |10
+American Eskimo Dog |9 |19 |6 |35 |13
+American Foxhound |21 |25 |45 |65 |11
+American Pit Bull Terrier |18 |21 |30 |65 |12
+American Staffordshire Terrier |17 |19 |40 |70 |12
+Anatolian Shepherd Dog |27 |29 |80 |150 |11
+Australian Cattle Dog |17 |20 |30 |62 |12
+Australian Kelpie |17 |20 |30 |50 |14
+Australian Terrier |9 |11 |9 |14 |15
+Basenji |16 |17 |22 |24 |12
+Basset Bleu de Gascogne |22 |27 |35 |55 |12
+Basset Fauve de Bretagne |11 |15 |36 |44 |12
+Bavarian Mountain Hound |17 |21 |44 |77 |12
+Bearded Collie |20 |22 |45 |55 |14
+Bedlington Terrier |15 |17 |17 |23 |14
+Belgian Malinois |22 |26 |40 |80 |12
+Belgian Sheepdog |22 |26 |40 |75 |10
+Bernese Mountain Dog |23 |28 |70 |115 |8
+Bichon Frise |9 |11 |10 |18 |15
+Black and Tan Coonhound |23 |27 |55 |75 |12
+Bloodhound |24 |26 |80 |110 |10
+Bluetick Coonhound |21 |27 |45 |80 |12
+Border Collie |18 |22 |30 |55 |12
+Border Terrier |11 |14 |11 |16 |15
+Borzoi |26 |28 |60 |105 |10
+Boston Terrier |15 |17 |12 |25 |15
+Bouvier des Flandres |23 |27 |70 |110 |12
+Boxer |21 |25 |50 |80 |10
+Boykin Spaniel |14 |18 |25 |40 |14
+Shetland Sheepdog |13 |16 |15 |25 |12
+Cocker Spaniel |14 |15 |20 |30 |12
+Dachshund (Miniature) |5 |6 |8 |11 |14
+Dalmatian |19 |24 |45 |70 |12
+Border Collie |18 |22 |30 |50 |12
+Chow Chow |17 |20 |45 |70 |12
+American Pit Bull Terrier |17 |21 |30 |60 |12
+Bernese Mountain Dog |23 |28 |70 |115 |8
+Bichon Frise |9 |11 |12 |18 |14
+Boston Terrier |15 |17 |12 |25 |13
+Boxer |21 |25 |50 |80 |12
+Brittany Spaniel |17 |20 |30 |40 |14
+Bullmastiff |24 |27 |100 |130 |9
+Cane Corso |23 |28 |88 |120 |12
+Cavalier King Charles Spaniel |12 |13 |13 |18 |10
+Cesky Terrier |10 |13 |16 |22 |12
+Chesapeake Bay Retriever |21 |26 |55 |80 |10
+Chinese Crested |11 |13 |8 |12 |13
+Chinese Shar-Pei |18 |20 |45 |60 |9
+Chinook |22 |26 |50 |90 |12
+Chow Chow |17 |20 |45 |70 |12
+Clumber Spaniel |16 |20 |55 |85 |10
+Cockapoo |10 |15 |12 |24 |14
+Cocker Spaniel |14 |15 |20 |30 |12
+Collie (Rough) |22 |26 |50 |75 |12
+Collie (Smooth) |22 |26 |50 |75 |12
+Coton de Tulear |8 |12 |8 |13 |14
+Curly-Coated Retriever |23 |27 |60 |95 |9
+Dalmatian |19 |24 |45 |70 |12
+Dandie Dinmont Terrier |8 |11 |18 |24 |12
+Doberman Pinscher |24 |28 |65 |90 |11
+Dogo Argentino |23 |27 |80 |100 |10
+Dogue de Bordeaux |23 |30 |110 |145 |5
+Dutch Shepherd |21 |25 |50 |75 |11
+English Cocker Spaniel |15 |17 |26 |34 |12
+English Foxhound |21 |25 |60 |75 |10
+English Setter |23 |27 |45 |80 |10
+English Springer Spaniel |19 |21 |40 |50 |12
+English Toy Spaniel |9 |11 |8 |14 |10
+Entlebucher Mountain Dog |16 |21 |45 |65 |11
+Field Spaniel |17 |18 |35 |50 |10
+Finnish Lapphund |16 |21 |33 |53 |12
+Finnish Spitz |15 |20 |31 |36 |12
+Flat-Coated Retriever |22 |24 |60 |80 |8
+French Bulldog |11 |13 |16 |28 |10
+German Pinscher |17 |20 |25 |45 |12
+German Shorthaired Pointer |21 |25 |45 |70 |12
+German Wirehaired Pointer |22 |26 |50 |75 |12
+Giant Schnauzer |23 |28 |65 |95 |10
+Glen of Imaal Terrier |12 |14 |32 |40 |12
+Goldador |22 |24 |60 |80 |10
+Golden Retriever |20 |24 |55 |75 |12
+Goldendoodle |13 |24 |45 |90 |10
+Gordon Setter |23 |27 |45 |80 |10
+Grand Basset Griffon Vendeen |15 |18 |40 |44 |13
+Great Dane |30 |34 |110 |175 |8
+Great Pyrenees |25 |32 |85 |160 |10
+Greyhound | 25 | 30 | 50 | 85 | 10
+Havanese | 8 | 11 | 7 | 13 | 14
+Irish Setter | 25 | 27 | 60 | 70 | 10
+Irish Terrier | 18 | 19 | 25 | 27 | 12
+Irish Water Spaniel | 21 | 24 | 45 | 65 | 10
+Irish Wolfhound | 30 | 32 | 105 | 120 | 6
+Italian Greyhound | 13 | 15 | 7 | 14 | 12
+Jack Russell Terrier | 10 | 12 | 14 | 18 | 13
+Japanese Chin | 8 | 11 | 4 | 9 | 10
+Keeshond | 17 | 18 | 35 | 45 | 12
+Kerry Blue Terrier | 17 | 19 | 33 | 40 | 12
+Komondor | 25 | 32 | 80 | 100 | 10
+Kooikerhondje | 14 | 16 | 20 | 30 | 12
+Kuvasz | 26 | 30 | 70 | 115 | 8
+Labradoodle | 22 | 24 | 50 | 65 | 10
+Labrador Retriever | 21 | 24 | 55 | 80 | 10
+Lagotto Romagnolo | 16 | 19 | 24 | 35 | 14
+Lancashire Heeler | 10 | 12 | 6 | 13 | 12
+Leonberger | 26 | 31 | 120 | 170 | 8
+Lhasa Apso | 10 | 11 | 12 | 18 | 12
+Lowchen | 10 | 13 | 12 | 18 | 12
+Maltese | 8 | 10 | 4 | 7 | 12
+Maltese Shih Tzu | 8 | 10 | 6 | 12 | 12
+Maltipoo | 8 | 14 | 5 | 20 | 10
+Manchester Terrier | 15 | 16 | 12 | 22 | 12
+Mastiff | 27 | 30 | 120 | 230 | 6
+Miniature Bull Terrier | 10 | 14 | 18 | 33 | 11
+Miniature Pinscher | 10 | 12 | 8 | 10 | 12
+Miniature Schnauzer | 12 | 14 | 11 | 20 | 12
+Mudi | 14 | 20 | 18 | 29 | 12
+Neapolitan Mastiff | 24 | 31 | 110 | 200 | 7
+Newfoundland | 26 | 30 | 100 | 150 | 9
+Norfolk Terrier | 9 | 10 | 11 | 12 | 12
+Norwegian Buhund | 16 | 18 | 26 | 40 | 12
+Norwegian Elkhound | 18 | 21 | 44 | 48 | 12
+Németjuhász | 22 | 26 | 75 | 95 | 10
+Német Rövidszőrű Tacskó | 15 | 20 | 7 | 15 | 12
+Német Spicc | 14 | 18 | 23 | 41 | 12
+Német Vizsla | 21 | 24 | 50 | 70 | 10
+Német Wirehaired Pointer | 60 | 68 | 20 | 32 | 12
+Norwich Terrier | 10 | 12 | 5 | 5.5 | 12
+Nyugat-szigetföldi fehér terrier | 6 | 10 | 13 | 22 | 12
+Olde English Bulldogge | 25 | 27 | 65 | 85 | 8
+Papillon | 3.5 | 4.5 | 3 | 7 | 13
+Pekingese | 3.2 | 5.4 | 3.2 | 6.4 | 14
+Pembroke Welsh Corgi | 10 | 12 | 24 | 30 | 12
+Perzsa agár | 68 | 76 | 65 | 90 | 12
+Pointer | 25 | 30 | 44 | 75 | 12
+Pomerániai törpespicc | 1.9 | 3.5 | 1.8 | 3.5 | 12
+Poodle (Toy) | 2.7 | 3.6 | 2 | 4 | 12
+Poodle (Miniature) | 5 | 9 | 12 | 18 | 12
+Poodle (Standard) | 20 | 32 | 45 | 70 | 10
+Portugál Vizsla | 20 | 30 | 44 | 59 | 12
+Pug | 6 | 8 | 6 | 8 | 12
+Pyrenean Mountain Dog | 40 | 54 | 80 | 100 | 10
+Rhodesian Ridgeback | 29 | 33 | 63 | 88 | 10
+Rottweiler | 50 | 60 | 77 | 135 | 8
+Russell Terrier | 8 | 12 | 5 | 8 | 12
+Saint Bernard | 64 | 91 | 140 | 264 | 8
+Saluki | 20 | 30 | 35 | 70 | 12
+Samoyed | 20 | 30 | 50 | 60 | 10
+Schipperke | 3 | 9 | 7 | 20 | 10
+Scottish Terrier | 8.5 | 10 | 19 | 23 | 11
+Shetland Sheepdog | 6 | 10 | 11 | 24 | 12
+Shiba Inu | 8 | 11 | 17 | 23 | 13
+Shih Tzu | 4.5 | 8.1 | 4.5 | 8.1 | 10
+Shikoku | 20 | 52 | 12
+Skye Terrier | 16 | 25 | 12
+Smooth Fox Terrier | 8 | 15 | 12
+South Russian Ovcharka | 45 | 65 | 10
+Spanish Mastiff | 52 | 77 | 10
+Spanish Water Dog | 18 | 50 | 12
+Spinone Italiano | 32 | 70 | 12
+Stabyhoun | 20 | 53 | 13
+Staffordshire Bull Terrier | 12 | 36 | 12
+Sussex Spaniel | 20 | 38 | 12
+Swedish Lapphund | 16 | 42 | 12
+Swedish Vallhund | 11 | 31 | 12
+Tibetan Mastiff | 45 | 61 | 10
+Tibeti spaniel | 4 | 20 | 12
+Tibeti terrier | 8 | 33 | 12
+Toy Fox Terrier | 1.5 | 21 | 12
+Treeing Walker Coonhound | 20 | 51 | 10
+Vizsla | 18 | 56 | 10
+Weimari Vizsla | 25 | 57 | 11
+Welsh Springer Spaniel | 16 | 43 | 12
+West Highland White Terrier | 6 | 23 | 12
+Whippet | 11 | 45 | 12
+White Shepherd | 27 | 56 | 12
+Wire Fox Terrier | 7.5 | 39 | 13
+Wirehaired Pointing Griffon | 20 | 54 | 12
+Wirehaired Vizsla | 20 | 54 | 12
+Xoloitzcuintli | 4 | 25 | 12
+Yorkshire Terrier | 2 | 17 | 12
