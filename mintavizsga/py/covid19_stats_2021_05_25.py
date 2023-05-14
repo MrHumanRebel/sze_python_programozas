@@ -12,10 +12,12 @@
 # In[24]:
 
 
-friends = [ 'I-N', 'L-W', 'F-R', 'F-Z', 'B-D', 'L-Q', 'I-U', 'A-N', 'E-F', 'A-I',
- 'S-T', 'B-S', 'B-E', 'F-P', 'D-V', 'C-V', 'J-S', 'G-I', 'A-C', 'N-X',
- 'K-N', 'Q-Y', 'A-U', 'O-Z', 'S-U', 'E-L', 'B-V', 'Y-Z', 'H-O', 'D-U',
- 'A-K', 'F-W', 'N-T', 'H-T', 'R-T']
+import datetime as dt
+import pandas as pd
+friends = ['I-N', 'L-W', 'F-R', 'F-Z', 'B-D', 'L-Q', 'I-U', 'A-N', 'E-F', 'A-I',
+           'S-T', 'B-S', 'B-E', 'F-P', 'D-V', 'C-V', 'J-S', 'G-I', 'A-C', 'N-X',
+           'K-N', 'Q-Y', 'A-U', 'O-Z', 'S-U', 'E-L', 'B-V', 'Y-Z', 'H-O', 'D-U',
+           'A-K', 'F-W', 'N-T', 'H-T', 'R-T']
 
 data = []
 
@@ -26,7 +28,7 @@ data = []
 
 for i in range(len(data)):
     print(data[i]) """
-        
+
 # Beta version
 
 stats = {}
@@ -36,14 +38,14 @@ for i in range(len(friends)):
 for i in range(len(friends)):
     friends[i] = friends[i].replace('-', '')
     for j in range(len(friends[i])):
-        for k in range(i+1,len(friends)):
+        for k in range(i+1, len(friends)):
             for x in range(len(friends[k])):
                 if friends[k][x] == friends[i][j]:
                     if friends[k][j] not in stats:
                         stats[friends[k][j]] = 1
                     else:
                         stats[friends[k][j]] += 1
-stats = sorted(stats.items(), key=lambda x: x[1], reverse=True)       
+stats = sorted(stats.items(), key=lambda x: x[1], reverse=True)
 print(stats)
 
 
@@ -82,23 +84,23 @@ print(stats) """
 # In[ ]:
 
 
-import pandas as pd
+df = pd.read_csv(
+    '/home/g14/uni/sze_python_programozas/data/covid19_stats.txt', sep=',', skiprows=1)
 
-df = pd.read_csv('C:\\Users\\Dorián\\PycharmProjects\\PythonVizsgaFelkészülés1Feladatok\\tables\\covid19_stats.txt', sep=',', skiprows=1)
+# print(df.info())
 
-#print(df.info())
-
-#1. Melyek azok az országok, ahol már 2020. januárjában megjelent a vírus?
+# 1. Melyek azok az országok, ahol már 2020. januárjában megjelent a vírus?
 pd.to_datetime(df['Date'])
-print(df['Country'][(df['Date']>= '2020-01')&(df['Date']< '2020-02') & (df['Confirmed']>0)])
+print(df['Country'][(df['Date'] >= '2020-01') &
+      (df['Date'] < '2020-02') & (df['Confirmed'] > 0)])
 
-#2. Az adathalmaz utolsó napján hány fertőzött volt Németországban ( Germany )?
+# 2. Az adathalmaz utolsó napján hány fertőzött volt Németországban ( Germany )?
 datemax = df['Date'].max()
-print(df[(df['Country']=='Germany')&(df['Date']==datemax)]['Confirmed'])
+print(df[(df['Country'] == 'Germany') & (df['Date'] == datemax)]['Confirmed'])
 
-#3. Hol volt a legmagasabb az elhunytak aránya a fertőzöttek számához viszonyítva?
-print((df.groupby('Country')['Deaths'].sum() / df.groupby('Country')['Confirmed'].sum()).idxmax())
-
+# 3. Hol volt a legmagasabb az elhunytak aránya a fertőzöttek számához viszonyítva?
+print((df.groupby('Country')['Deaths'].sum() /
+      df.groupby('Country')['Confirmed'].sum()).idxmax())
 
 
 # # Manuális nem pontos megoldás
@@ -106,9 +108,8 @@ print((df.groupby('Country')['Deaths'].sum() / df.groupby('Country')['Confirmed'
 # In[16]:
 
 
-import datetime as dt
-
 filename = '/home/g14/uni/sze_python_programozas/data/covid19_stats.txt'
+
 
 def get_data(filename):
     with open(filename, 'r') as f:
@@ -117,14 +118,14 @@ def get_data(filename):
             f.readline()
         lines = f.readlines()
         # read into a list  split by tab
-        lines = [line.split(',') for line in lines]    
+        lines = [line.split(',') for line in lines]
         # remove the newline character from the last element of each line
         for line in lines:
             line[-1] = line[-1].strip()
             continue
-        data = [] 
+        data = []
         for line in lines:
-            data.append(line) 
+            data.append(line)
         return data
 
 
@@ -138,12 +139,14 @@ def virus_2020jan(data):
                 countries[item[1]] += 1
     print(countries)
 
+
 def germany_latest(data):
     stats = {}
     for item in data:
         if item[1] == 'Germany':
             stats[item[1]] = item[2]
     print(stats)
+
 
 def death_rate(data):
     stats = {}
@@ -155,9 +158,8 @@ def death_rate(data):
                 stats[item[1]] = item[2], item[4], int(item[2]) / int(item[4])
     print(stats)
 
+
 data = get_data(filename)
 virus_2020jan(data)
 germany_latest(data)
 death_rate(data)
-
-

@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # ### 1. feladat [6p]
-# 
+#
 # Készíts programot, amely bekér a felhasználótól két sztringet, majd kiírja a bennük található leghosszabb közös részsztringet! Példa futási eredmény:
 # ```
 # 1. sztring: András
@@ -11,6 +11,10 @@
 # ```
 
 # In[62]:
+
+
+import pandas as pd
+from datetime import datetime
 
 
 def longest_common_substr(s1, s2):
@@ -27,7 +31,7 @@ longest_common_substr("András", "Bandi")
 
 
 # ### 2. feladat [8p]
-# 
+#
 # A `birthdays` lista kitalált személyek nevét és születési dátumát tartalmazza. Készíts programot, amely megkeresi, hogy kik állnak életkorban egymáshoz a legközelebb, és hány nap köztük a különbség! A program ne csak a megadott `birthdays` listára működjön, hanem tetszőleges, ugyanilyen formátumú bemenetre is! Feltehetjük, hogy minden név különböző, és legalább két név van megadva.
 
 # In[64]:
@@ -47,11 +51,10 @@ birthdays = [
 # In[65]:
 
 
-from datetime import datetime
+def get_name_of_closest_days_to_each_other(birthdays):
 
-def get_name_of_closest_days_to_each_other(birthdays):   
-
-    birthdays = [(name, datetime.strptime(date, '%Y-%m-%d')) for name, date in birthdays]
+    birthdays = [(name, datetime.strptime(date, '%Y-%m-%d'))
+                 for name, date in birthdays]
     birthdays.sort(key=lambda x: x[1])
 
     for i in range(len(birthdays) - 1):
@@ -62,23 +65,24 @@ def get_name_of_closest_days_to_each_other(birthdays):
         if diff < closest:
             closest = diff
             closest_names = birthdays[i][0], birthdays[i + 1][0]
-    print(f'Életkorban legközelebb állók: {closest_names[0]}, {closest_names[1]}\n {closest} nap köztük a különbség')
-    
-get_name_of_closest_days_to_each_other(birthdays) 
-                
+    print(
+        f'Életkorban legközelebb állók: {closest_names[0]}, {closest_names[1]}\n {closest} nap köztük a különbség')
+
+
+get_name_of_closest_days_to_each_other(birthdays)
 
 
 # Elvárt futási eredmény:
 # ```
-# 
+#
 # Életkorban legközelebb állók: Kiss Martina, Tóth Tamara
 # 14 nap köztük a különbség
 # ```
 
 # ### 3. feladat [10p]
-# 
+#
 # Az [investments.txt](investments.txt) szövegfájl amerikai cégekbe történő befektetésekről tartalmaz adatokat (a TechCrunch hírportál alapján). Készíts programot, amely kiszámítja és kiírja az alábbi statisztikákat:
-# 
+#
 # - Hány befektetés történt összesen az egyes cégekbe?
 # - Melyik cégbe fektették be a legtöbb pénzt?
 # - Cégkategóriánként hány dollárt fektettek be összesen?
@@ -88,21 +92,21 @@ get_name_of_closest_days_to_each_other(birthdays)
 # In[ ]:
 
 
-import pandas as pd
+df = pd.read_csv(
+    '/home/g14/uni/sze_python_programozas/data/investments.txt', sep='|')
+# print(df.info())
 
-df = pd.read_csv('C:\\Users\\Dorián\\PycharmProjects\\PythonVizsgaFelkészülés1Feladatok\\tables\\investments.txt', sep ='|')
-#print(df.info())
-
-#1. Hány befektetés történt összesen az egyes cégekbe?
+# 1. Hány befektetés történt összesen az egyes cégekbe?
 print(df.groupby('company').size().sort_values(ascending=False))
 
-#2. Melyik cégbe fektettek be legtöbbször?
+# 2. Melyik cégbe fektettek be legtöbbször?
 print(df.groupby('company').size().sort_values(ascending=False).head(1))
 
-#3. Melyik cégbe fektették be a legtöbb pénzt?
-print(df.groupby('company')['raisedAmt'].sum().sort_values(ascending=False).head(1))
+# 3. Melyik cégbe fektették be a legtöbb pénzt?
+print(df.groupby('company')['raisedAmt'].sum(
+).sort_values(ascending=False).head(1))
 
-#4. Cégkategóriánként hány dollárt fektettek be összesen?
+# 4. Cégkategóriánként hány dollárt fektettek be összesen?
 print(df.groupby('category')['raisedAmt'].sum().sort_values())
 
 
@@ -113,22 +117,25 @@ print(df.groupby('category')['raisedAmt'].sum().sort_values())
 
 filename = '/home/g14/uni/sze_python_programozas/data/investments.txt'
 
+
 def get_investments(filename):
     with open(filename, 'r') as f:
         # skip the first line
         f.readline()
         lines = f.readlines()
-        # read into a list  split by | return the list 
-        lines = [line.split('|') for line in lines]    
+        # read into a list  split by | return the list
+        lines = [line.split('|') for line in lines]
         # remove the newline character from the last element of each line
         for line in lines:
             line[-1] = line[-1].strip()
             continue
-        investments = [] 
+        investments = []
         for line in lines:
-            investments.append((line[0], line[1], line[2], line[3], line[4], line[5], line[6], line[7], line[8]))   
+            investments.append(
+                (line[0], line[1], line[2], line[3], line[4], line[5], line[6], line[7], line[8]))
         return investments
-    
+
+
 def get_companies(investments):
     companies = {}
     for investment in investments:
@@ -141,6 +148,7 @@ def get_companies(investments):
         print(f'{company} => {companies[company]} db befektetés')
     return companies
 
+
 def get_categories(investments):
     categories = {}
     for investment in investments:
@@ -150,10 +158,11 @@ def get_categories(investments):
         else:
             categories[categorie] += 1
     return categories
-    
+
+
 def get_inv_by_company(investments):
     companies = get_companies(investments)
-    money = {}    
+    money = {}
     for i in range(len(companies)):
         current_company = list(companies.keys())[i]
         for j in range(len(investments)):
@@ -164,11 +173,13 @@ def get_inv_by_company(investments):
                     money[current_company] += int(investments[j][6])
     money = sorted(money.items(), key=lambda x: x[1], reverse=True)
     print('\n')
-    print(f'A legtöbb befektetést a {money[0][0]} cégnél tették, összesen {money[0][1]}')
-  
+    print(
+        f'A legtöbb befektetést a {money[0][0]} cégnél tették, összesen {money[0][1]}')
+
+
 def get_inv_by_categ(investments):
     categories = get_categories(investments)
-    money = {}    
+    money = {}
     for i in range(len(categories)):
         current_categ = list(categories.keys())[i]
         for j in range(len(investments)):
@@ -180,9 +191,9 @@ def get_inv_by_categ(investments):
     money = sorted(money.items(), key=lambda x: x[1], reverse=True)
     for moni in money:
         print(f'{moni[0]} => {moni[1]}')
-             
-    
-investments = get_investments(filename) 
+
+
+investments = get_investments(filename)
 
 
 # In[67]:
@@ -195,4 +206,3 @@ get_inv_by_company(investments)
 
 
 get_inv_by_categ(investments)
-
