@@ -12,26 +12,23 @@
 # In[1]:
 
 
-import pandas as pd
 data = input("Add meg az első sztringet: ")
 data_2 = input("Add meg a második sztringet: ")
-
 
 def bigram(data):
     data = data.lower()
     bigram = []
     str = ""
-    for i in range(len(data)):
+    for i  in range(len(data)):
         if len(str) == 2:
             bigram.append(str)
-            str = ""
+            str = ""   
             str += data[i]
         else:
             str += data[i]
         if i == len(data) - 1:
             bigram.append(str)
-    return bigram
-
+    return bigram     
 
 def common_bigram(data, data_2):
     common_bigrams = []
@@ -44,8 +41,39 @@ def common_bigram(data, data_2):
     print(f'Közös bigrammok száma: {counter}')
     return common_bigrams, counter
 
+bigrammm = common_bigram(bigram(data),bigram(data_2))
 
-bigrammm = common_bigram(bigram(data), bigram(data_2))
+
+# # Gyorsabb megoldás
+
+# In[5]:
+
+
+data = input("Add meg az első sztringet: ")
+data_2 = input("Add meg a második sztringet: ")
+
+def cycle(str, list, halmaz):
+    for i in range(len(str)-1):
+        bigram = str[i:i+2]
+        list.append(bigram)
+        halmaz.add(bigram)
+
+def bigram_counter(str, str_2):
+    str_1 = str.lower()
+    str_2 = str_2.lower()
+    list_1 = []
+    list_2 = []
+    halmaz_1 = set()
+    halmaz_2 = set()
+    cycle(str_1, list_1, halmaz_1)
+    cycle(str_2, list_2, halmaz_2)
+    halmaz_all = halmaz_1 & halmaz_2
+    print(list_1)
+    print(list_2)
+    print(f'Közös bigrammok száma: {len(halmaz_all)}')
+    
+
+bigram_counter(data, data_2)
 
 
 # # 2. feladat [14p]
@@ -59,33 +87,35 @@ bigrammm = common_bigram(bigram(data), bigram(data_2))
 
 # # Pandas
 
-# In[ ]:
+# In[13]:
 
 
-df = pd.read_csv(
-    '/home/g14/uni/sze_python_programozas/data/nba_games.txt', sep='|', skiprows=1)
-# 1. A mérkőzések hány százalékát nyerte meg a hazai ( home ) csapat?
-print('A mérkőzések ', (sum(df['PTS_home'] > df['PTS_away']) /
-      len(df['PTS_home'])) * 100, '%-át nyerte meg a hazai csapat.')
+import pandas as pd
+df = pd.read_csv('/home/g14/uni/sze_python_programozas/data/nba_games.txt', sep = '|', skiprows = 1)
 
-# 2. Hány mérőzésen szedtek le a csapatok 130-nál több lepattanót ( REB )?
-print(len(df[(df['REB_home']+df['REB_away']) > 130]),
-      'mérkőzésen szedtek le a csapatok 130-nál több lepattanót.')
+#df.info()
 
-# 3. Melyik mérkőzésen született a legnagyobb különbségű győzelem?
-print(df.iloc[abs(df['PTS_home']-df['PTS_away']).idxmax()])
+#1. A mérkőzések hány százalékát nyerte meg a hazai ( home ) csapat?
+home = (sum(df['PTS_home'] > df['PTS_away']) / len(df['PTS_home'])) * 100
+print(f'A mérkőzések  {home:.2f} %-át nyerte meg a hazai csapat.')
 
-# 4. Mi a csapatok erősorrendje a győzelmek száma alapján?
-hazaigyozelem = df[(df['PTS_home'] > df['PTS_away'])
-                   ].groupby('TEAM_home').size()
-hazaivereseg = df[(df['PTS_home'] < df['PTS_away'])
-                  ].groupby('TEAM_home').size()
-print((hazaigyozelem + hazaivereseg).sort_values(ascending=False))
+#2. Hány mérőzésen szedtek le a csapatok 130-nál több lepattanót ( REB )?
+reb = len(df[(df['REB_home']+df['REB_away'])>130])
+print(reb, 'mérkőzésen szedtek le a csapatok 130-nál több lepattanót.')
+
+#3. Melyik mérkőzésen született a legnagyobb különbségű győzelem?
+diff = df.iloc[abs(df['PTS_home']-df['PTS_away']).idxmax()]
+print(diff)
+
+#4. Mi a csapatok erősorrendje a győzelmek száma alapján?
+hazaigyozelem = df[(df['PTS_home'] > df['PTS_away'])].groupby('TEAM_home').size()
+hazaivereseg = df[(df['PTS_home'] < df['PTS_away'])].groupby('TEAM_home').size()
+print((hazaigyozelem + hazaivereseg).sort_values(ascending =False))
 
 
 # # Manuális nem pontos megoldás
 
-# In[1]:
+# In[ ]:
 
 
 def read_file(path):
@@ -94,23 +124,21 @@ def read_file(path):
     next(data)
     next(data)
     for line in data:
-        date = int((line[0]+line[1]+line[2]+line[3]))
+        date= int((line[0]+line[1]+line[2]+line[3]))
         if date >= 2013 and date <= 2019:
             nba.append(line.strip().split("|"))
     return nba
 
-
-def home_team_win_percentage(nba):
+def home_team_win_percentage(nba): 
     wins = 0
     loses = 0
     for i in nba:
         if (int(i[4]) > int(i[5])):
             wins += 1
-        else:
+        else: 
             loses += 1
     print(f'Az otthoni csapat győzelmének aránya: {wins/(wins+loses)*100:.2f}')
     return wins/(wins+loses)*100
-
 
 def count_reb(nba):
     rebs = 0
@@ -120,7 +148,6 @@ def count_reb(nba):
             rebs += 1
     print(f'A 130-nál több lepattanóval rendelkező meccsek száma: {rebs}')
     return rebs
-
 
 def top_diff_win(nba):
     max_diff = 0
@@ -136,10 +163,9 @@ def top_diff_win(nba):
             if (diff > max_diff):
                 max_diff = diff
                 index = i
-    for i in range(1, (len(index)-8)):
+    for i in range(1,(len(index)-8)):
         print(index[i], end=" ")
     return index
-
 
 def teams_power_order(nba):
     nba = sorted(nba, key=lambda x: x[2])
@@ -158,8 +184,7 @@ def teams_power_order(nba):
     for i in nba_teams:
         print(i[0])
     return nba_teams
-
-
+    
 nba_data = read_file("/home/g14/uni/sze_python_programozas/data/nba_games.txt")
 print('\n')
 home_wins = home_team_win_percentage(nba_data)
@@ -169,3 +194,5 @@ print('\n')
 win_max = top_diff_win(nba_data)
 print('\n')
 sort_team = teams_power_order(nba_data)
+
+

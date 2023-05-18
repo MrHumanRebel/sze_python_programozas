@@ -1,4 +1,4 @@
-Breed |Height_low_inches|Height_high_inches|Weight_low_lbs|Weight_high_lbs|Life_expectancy_years
+Breed|Height_low_inches|Height_high_inches|Weight_low_lbs|Weight_high_lbs|Life_expectancy_years
 Afghan Hound |25 |29 |50 |60 |12
 Airedale Terrier |22 |24 |50 |70 |11
 Akita |26 |28 |75 |120 |10

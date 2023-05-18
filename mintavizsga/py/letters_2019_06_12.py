@@ -4,7 +4,7 @@
 # # 1. feladat [8p] 
 # Készíts programot, amely kér a felhasználótól egy évszámot, majd megadja, hogy az adott évben hány pénteki nap esett 13-ára! 
 
-# In[5]:
+# In[1]:
 
 
 import datetime as dt
@@ -24,7 +24,7 @@ print(f"A(z) {year}. évi péntek 13-ak száma: {counter}")
 # # 2. feladat [10p] 
 # A letters objektum egy kisbetűkből álló négyzetet tartalmaz. A sorok sztringként vannak reprezentálva, és egy listába vannak egymás után fűzve. Készíts programot, amely kiírja, hogy mely oszlopban található a legtöbb magánhangzó! A program ne csak a letters objektumra, hanem tetszőleges, ugyanilyen formátumú, bemenetre is működjön! 
 
-# In[6]:
+# In[2]:
 
 
 letters = [ "tüzesensütleany", "árinapsugáraazé", "gtetejérőlajuhá", "szbojtárrafölös", "legesdologsütni", "eolynagyonajuhá", "sznakúgyisnagym", "elegevagyonszer", "elemtüzeégfiata", "lszivébenugyleg", "eltetianyájtafa", "luvégenfaluvége", "nnyájamigszerte", "legelészőaddigs", "ubájánafűbenhev" ]

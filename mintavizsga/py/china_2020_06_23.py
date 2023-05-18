@@ -5,7 +5,42 @@
 # 
 #  Alex és Bob és Charlie közös programot szerveznek. Aszabad időintervallumaik az intervals szótárban vannak megadva. Készítsünk programot, amely kiszámítja, hogy hány olyan nap van, amikor mindhárman ráérnekl Az intervallumok zártak, azaz a végpontok szabad időpontnak tekintendők. A program ne csak a megadott intervals adatszerkezetre működjön, hanem tetszőleges, ugyanilyen formátumú bemenetre is! 
 
-# In[3]:
+# In[4]:
+
+
+import datetime as dt
+
+intervals = {
+'Alex': [('2020-06-20','2020-06-23'), ('2020-06-30', '2020-07-05')],
+'Bob' : [('2020-06-18','2020-06-21'), ('2020-06-24','2020-07-01'), ('2020-07-03', '2020-07-04')],
+'Charlie': [('2020-06-21', '2020-06-28'), ('2020-07-02', '2020-07-10')],
+}
+
+common_days = set()
+for intervals_list in intervals.values():
+    for interval in intervals_list:
+        startdate = dt.datetime.strptime(interval[0], '%Y-%m-%d').date()
+        enddate = dt.datetime.strptime(interval[1], '%Y-%m-%d').date()
+        common_days |= set([startdate + dt.timedelta(days=x) for x in range((enddate-startdate).days+1)])
+        
+freedays = 0
+for day in common_days:
+    counter = 0
+    for intervals_list in intervals.values():
+        for interval in intervals_list:
+            startdate = dt.datetime.strptime(interval[0], '%Y-%m-%d').date()
+            enddate = dt.datetime.strptime(interval[1], '%Y-%m-%d').date()
+            if startdate <= day <= enddate:
+                counter += 1
+    if counter == 3:
+        freedays += 1
+  
+print(freedays)
+
+
+# # Részmegoldások
+
+# In[6]:
 
 
 import datetime as dt
@@ -37,53 +72,6 @@ for i in intervals.values():
 print(min)  
 
 
-# In[4]:
-
-
-""" for people in intervals.values():
-    print(names[people_counter])
-    people_counter += 1
-    for date in people:
-        for current in date:
-            current = dt.datetime.strptime(current, '%Y-%m-%d')
-            print(current) """
-
-
-""" max_start = dt.datetime.strptime('1850-01-01', '%Y-%m-%d')
-max_stop  = dt.datetime.strptime('1850-01-01', '%Y-%m-%d')
-for people in intervals.values():
-    for date in people:
-        start_date = dt.datetime.strptime(date[0], '%Y-%m-%d')
-        stop_date = dt.datetime.strptime(date[1], '%Y-%m-%d')
-        if start_date > max_start:
-            max_start = start_date
-        if stop_date > max_stop:
-            max_stop = stop_date
-        
-print(max_start)  
-print(max_stop)
-print('\n')
-
-people_counter = 0
-all_ok = 0
-for people in intervals.values():
-    ok = 0
-    print(names[people_counter])
-    people_counter += 1
-    for date in people:
-        start_date = dt.datetime.strptime(date[0], '%Y-%m-%d')
-        stop_date = dt.datetime.strptime(date[1], '%Y-%m-%d')
-        print(start_date)
-        print(stop_date)
-        if start_date >= max_start and stop_date <= max_stop:
-            ok += 1
-            print('ok')
-    if ok > 0:
-        all_ok += 1
-
-print(all_ok) """
-
-
 # # 2. feladat [12p] 
 # 
 # A china.txt Kína mezőgazdaságáról tartalmaz összesitő adatokat, az 1949 és 2008 közötti időszakból. Készitsünk programot, amely beolvassa a szövegfájl tartalmát, majd válaszol az alábbi kérdésekre! 
@@ -93,7 +81,7 @@ print(all_ok) """
 # - 2007-ben melyik 5 terménynek volt átlagosan a legnagyobb a hektáronkénti hozama? (A termelési mennyiségek a crop production , a vetési területek a crop sown area kategóriában van megadva.) 
 # 
 
-# In[37]:
+# In[7]:
 
 
 filename = '/home/g14/uni/sze_python_programozas/data/china.txt'
@@ -177,6 +165,4 @@ tragya_60s(data)
 ag_workers(data)
 rice_1949_base(data)
 top5_hekt_2007(data)
-
-
 

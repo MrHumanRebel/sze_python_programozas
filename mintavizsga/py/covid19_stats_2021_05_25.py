@@ -9,65 +9,38 @@
 # elég egy manó nevét kiírni. A program ne csak a megadott friends listára működjön, hanem
 # tetszőleges, ugyanilyen formátumú bemenetre is!
 
-# In[24]:
+# In[4]:
 
 
-import datetime as dt
-import pandas as pd
-friends = ['I-N', 'L-W', 'F-R', 'F-Z', 'B-D', 'L-Q', 'I-U', 'A-N', 'E-F', 'A-I',
-           'S-T', 'B-S', 'B-E', 'F-P', 'D-V', 'C-V', 'J-S', 'G-I', 'A-C', 'N-X',
-           'K-N', 'Q-Y', 'A-U', 'O-Z', 'S-U', 'E-L', 'B-V', 'Y-Z', 'H-O', 'D-U',
-           'A-K', 'F-W', 'N-T', 'H-T', 'R-T']
+from collections import defaultdict
+
+friends = [ 'I-N', 'L-W', 'F-R', 'F-Z', 'B-D', 'L-Q', 'I-U', 'A-N', 'E-F', 'A-I',
+ 'S-T', 'B-S', 'B-E', 'F-P', 'D-V', 'C-V', 'J-S', 'G-I', 'A-C', 'N-X',
+ 'K-N', 'Q-Y', 'A-U', 'O-Z', 'S-U', 'E-L', 'B-V', 'Y-Z', 'H-O', 'D-U',
+ 'A-K', 'F-W', 'N-T', 'H-T', 'R-T']
 
 data = []
+ismerosok = defaultdict(set)
+masodszintu_ismerosok = defaultdict(set)
 
-""" for i in range(len(friends)):
-    friends[i] = friends[i].replace('-', '')
-    friends[i] = friends[i].split(',')
-    data.append(friends[i])
+for f in friends:
+    x,y = f.split('-')
+    ismerosok[x].add(y)
+    ismerosok[y].add(x)
 
-for i in range(len(data)):
-    print(data[i]) """
+for x,y in ismerosok.items():
+    for z in y:
+        masodszintu_ismerosok[x] |= ismerosok[z]
+    masodszintu_ismerosok[x] -= ismerosok[x]
 
-# Beta version
+max_masod_ism = None
+max_ism = -1
+for x,y in masodszintu_ismerosok.items():
+    if len(y) > max_ism:
+        max_ism = len(y)
+        max_masod_ism = x
 
-stats = {}
-for i in range(len(friends)):
-    friends[i] = friends[i].replace('-', '')
-
-for i in range(len(friends)):
-    friends[i] = friends[i].replace('-', '')
-    for j in range(len(friends[i])):
-        for k in range(i+1, len(friends)):
-            for x in range(len(friends[k])):
-                if friends[k][x] == friends[i][j]:
-                    if friends[k][j] not in stats:
-                        stats[friends[k][j]] = 1
-                    else:
-                        stats[friends[k][j]] += 1
-stats = sorted(stats.items(), key=lambda x: x[1], reverse=True)
-print(stats)
-
-
-# In[ ]:
-
-
-""" stats = {}
-for i in range(len(friends)):
-    friends[i] = friends[i].replace('-', '')
-
-for i in range(len(friends)):
-    friends[i] = friends[i].replace('-', '')
-    for j in range(len(friends[i])):
-        for k in range(i+1,len(friends)):
-            for x in range(len(friends[k])):
-                if friends[k][x] == friends[i][j]:
-                    if friends[k][j] not in stats:
-                        stats[friends[k][j]] = 1
-                    else:
-                        stats[friends[k][j]] += 1
-stats = sorted(stats.items(), key=lambda x: x[1], reverse=True)       
-print(stats) """
+print(f'Legtöbb másodfokú ismerőse: {max_masod_ism} ({max_ism} fő)')
 
 
 # # 2. feladat [10p]
@@ -81,35 +54,36 @@ print(stats) """
 
 # # Pandas
 
-# In[ ]:
+# In[3]:
 
 
-df = pd.read_csv(
-    '/home/g14/uni/sze_python_programozas/data/covid19_stats.txt', sep=',', skiprows=1)
+import pandas as pd
 
-# print(df.info())
+df = pd.read_csv('/home/g14/uni/sze_python_programozas/data/covid19_stats.txt', sep=',', skiprows=1)
 
-# 1. Melyek azok az országok, ahol már 2020. januárjában megjelent a vírus?
+#print(df.info())
+
+#1. Melyek azok az országok, ahol már 2020. januárjában megjelent a vírus?
 pd.to_datetime(df['Date'])
-print(df['Country'][(df['Date'] >= '2020-01') &
-      (df['Date'] < '2020-02') & (df['Confirmed'] > 0)])
+print(df['Country'][(df['Date']>= '2020-01')&(df['Date']< '2020-02') & (df['Confirmed']>0)])
 
-# 2. Az adathalmaz utolsó napján hány fertőzött volt Németországban ( Germany )?
+#2. Az adathalmaz utolsó napján hány fertőzött volt Németországban ( Germany )?
 datemax = df['Date'].max()
-print(df[(df['Country'] == 'Germany') & (df['Date'] == datemax)]['Confirmed'])
+print(df[(df['Country']=='Germany')&(df['Date']==datemax)]['Confirmed'])
 
-# 3. Hol volt a legmagasabb az elhunytak aránya a fertőzöttek számához viszonyítva?
-print((df.groupby('Country')['Deaths'].sum() /
-      df.groupby('Country')['Confirmed'].sum()).idxmax())
+#3. Hol volt a legmagasabb az elhunytak aránya a fertőzöttek számához viszonyítva?
+print((df.groupby('Country')['Deaths'].sum() / df.groupby('Country')['Confirmed'].sum()).idxmax())
+
 
 
 # # Manuális nem pontos megoldás
 
-# In[16]:
+# In[4]:
 
+
+import datetime as dt
 
 filename = '/home/g14/uni/sze_python_programozas/data/covid19_stats.txt'
-
 
 def get_data(filename):
     with open(filename, 'r') as f:
@@ -118,14 +92,14 @@ def get_data(filename):
             f.readline()
         lines = f.readlines()
         # read into a list  split by tab
-        lines = [line.split(',') for line in lines]
+        lines = [line.split(',') for line in lines]    
         # remove the newline character from the last element of each line
         for line in lines:
             line[-1] = line[-1].strip()
             continue
-        data = []
+        data = [] 
         for line in lines:
-            data.append(line)
+            data.append(line) 
         return data
 
 
@@ -139,14 +113,12 @@ def virus_2020jan(data):
                 countries[item[1]] += 1
     print(countries)
 
-
 def germany_latest(data):
     stats = {}
     for item in data:
         if item[1] == 'Germany':
             stats[item[1]] = item[2]
     print(stats)
-
 
 def death_rate(data):
     stats = {}
@@ -158,8 +130,9 @@ def death_rate(data):
                 stats[item[1]] = item[2], item[4], int(item[2]) / int(item[4])
     print(stats)
 
-
 data = get_data(filename)
 virus_2020jan(data)
 germany_latest(data)
 death_rate(data)
+
+
