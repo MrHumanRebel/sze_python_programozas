@@ -10,7 +10,7 @@
 # formátumú bemenetre is!
 # 
 
-# In[1]:
+# In[2]:
 
 
 friends = ( # Úgy gépeltem be szóval lehet nem 100% pontos, ez valami óborzalom adatmegadás :)
@@ -79,6 +79,106 @@ def find_most_common_friends(friends):
 find_most_common_friends(friends)
 
 
+# In[1]:
+
+
+friends = (
+ ' ABCDEFGHIJKLMNOPQRSTUVWXYZ\n' +
+ 'A1 1111 1 \n' +
+ 'B 1 1 1 11 1 \n' +
+ 'C 11 1 \n' +
+ 'D 111 1 1\n' +
+ 'E 1 1 1 1 \n' +
+ 'F 1 1 1 1 \n' +
+ 'G1 1 1 1 \n' +
+ 'H11 11 1 1 1 \n' +
+ 'I1 111 1 1 \n' +
+ 'J1 1 1 1 \n' +
+ 'K 1 1 1 11 \n' +
+ 'L 1 1 11 1 \n' +
+ 'M 1 1 11 1 1 1\n' +
+ 'N 1111 1 \n' +
+ 'O1 11 11 1 1 1 \n' +
+ 'P 1 1 11 1 11 1 1\n' +
+ 'Q 1 1 11 11 11 \n' +
+ 'R 1 1 11 1\n' +
+ 'S 1 1 1 1 111 \n' +
+ 'T 1 11 1 1 \n' +
+ 'U 1 1 11 1 1 1 1 1 \n' +
+ 'V 1 1 1\n' +
+ 'W 1 1 1 1 1 \n' +
+ 'X 1 1 1 1 1 \n' +
+ 'Y 11 1 111 1 \n' +
+ 'Z 1 1 1 1 1 1'
+)
+
+def parse_input(input):
+    lines = input.split("\n")
+
+    smurfs = list(lines[0].strip())
+    friends_table = lines[1:]
+    
+    return smurfs, friends_table
+
+def process_table(smurfs, table):
+  smurf_pairs = {}
+
+  for row in table:
+    current_smurf = row[0]
+    relationships = row[1:]
+
+    pairs = get_pairs_for_smurf(current_smurf, relationships, smurfs)
+    smurf_pairs[current_smurf] = pairs
+
+  return smurf_pairs
+
+
+def get_pairs_for_smurf(current_smurf, relationships, smurfs):
+    current_smurf_pairs = []
+
+    for i, relationship in enumerate(relationships):
+      if relationship == "1" and smurfs[i] != current_smurf:
+        current_smurf_pairs.append(smurfs[i])
+    
+    return current_smurf_pairs
+
+def find_max_common_pair(smurf_pairs):
+    common_pairs = [find_similar_pairs(smurf, smurf_pairs) for smurf in list(smurf_pairs)]
+    
+    max_common_pair = max(common_pairs, key=lambda common_pair:common_pair["max_similarity"])
+    return max_common_pair
+    
+
+def find_similar_pairs(current_smurf, smurf_pairs):
+  current_smurf_pairs = smurf_pairs.pop(current_smurf)
+
+  max_similarity = -1
+  max_similar_pair = current_smurf
+   
+  for smurf in smurf_pairs:
+    current_similarity = 0
+
+    for pair in smurf_pairs[smurf]:
+      if pair in current_smurf_pairs:
+        current_similarity += 1
+      
+      if current_similarity > max_similarity:
+        max_similarity = current_similarity
+        max_similar_pair = smurf
+
+  return {"current": current_smurf, "pair": max_similar_pair, "max_similarity": max_similarity}
+
+def main():
+  smurfs, friends_table = parse_input(friends)
+  smurf_pairs = process_table(smurfs, friends_table)
+  
+  max_common_pair = find_max_common_pair(smurf_pairs)
+  print(f"{max_common_pair['current']} és {max_common_pair['pair']} manónak van a legtöbb közös ismerőse ({max_common_pair['max_similarity']} db)")
+
+
+main()
+
+
 # # 2. feladat [10p]
 # A dry_bean.txt (dry_bean.txt) szövegfájl 13 611 db lefényképezett babszemről tartalmaz adatokat.
 # Minden sor egy babszemnek felel meg. Az első 16 oszlop méret- és alakjellemzőket tartalmaz (pl.
@@ -93,12 +193,12 @@ find_most_common_friends(friends)
 
 # # Pandas
 
-# In[2]:
+# In[3]:
 
 
 import pandas as pd
 
-df = pd.read_csv('C:\\Users\\Dorián\\PycharmProjects\\PythonVizsgaFelkészülés1Feladatok\\tables\\dry_bean.txt', sep=',', skiprows=4)
+df = pd.read_csv('/home/g14/uni/sze_python_programozas/data/dry_bean.txt', sep=',', skiprows=4)
 #print(df.info())
 
 #1. Mi az egyes fajtákhoz tartozó babszemek százalékos aránya?
@@ -119,7 +219,7 @@ print(len(df[df['ConvexArea']==df['Area']]))
 
 # # Manuális nem pontos megoldás
 
-# In[ ]:
+# In[4]:
 
 
 filename = '/home/g14/uni/sze_python_programozas/data/dry_bean.txt'
