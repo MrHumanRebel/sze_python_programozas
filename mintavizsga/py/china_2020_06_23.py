@@ -5,7 +5,7 @@
 # 
 #  Alex és Bob és Charlie közös programot szerveznek. Aszabad időintervallumaik az intervals szótárban vannak megadva. Készítsünk programot, amely kiszámítja, hogy hány olyan nap van, amikor mindhárman ráérnekl Az intervallumok zártak, azaz a végpontok szabad időpontnak tekintendők. A program ne csak a megadott intervals adatszerkezetre működjön, hanem tetszőleges, ugyanilyen formátumú bemenetre is! 
 
-# In[4]:
+# In[ ]:
 
 
 import datetime as dt
@@ -40,7 +40,7 @@ print(freedays)
 
 # # Részmegoldások
 
-# In[6]:
+# In[ ]:
 
 
 import datetime as dt
@@ -81,7 +81,49 @@ print(min)
 # - 2007-ben melyik 5 terménynek volt átlagosan a legnagyobb a hektáronkénti hozama? (A termelési mennyiségek a crop production , a vetési területek a crop sown area kategóriában van megadva.) 
 # 
 
-# In[7]:
+# # Pandas
+
+# In[2]:
+
+
+import pandas as pd
+
+df = pd.read_csv("/home/g14/uni/sze_python_programozas/data/china.txt", delimiter="\t", decimal=",", skiprows=1)
+
+# 1. feladat
+fertilizer_usage = df.loc[(df["Ev"].between(1960, 1970, inclusive="left")) & (df["Aru"] == "Total fertilizer consumption")]
+fertilizer_tons = fertilizer_usage["Mennyiseg"].sum() * 1000
+print(f"{fertilizer_tons} t\n")
+
+# 2. feladat
+max_ag_employment = df.loc[df["Aru"] == "Ag employment (primary industry)"].max()
+print(f"{max_ag_employment['Ev']}\n")
+
+# 3. feladat
+rice_prod = df.loc[(df["Kategoria"] == "Crop production") & (df["Aru"] == "Rice")].copy()
+rice_prod_base_quantity = rice_prod.loc[df["Ev"] == 1949, "Mennyiseg"].item()
+
+rice_prod["1949-hez kepest"] = rice_prod["Mennyiseg"].divide(rice_prod_base_quantity)
+rice_prod_diff = rice_prod[['Ev', '1949-hez kepest']]
+print(f"{rice_prod_diff}\n")
+
+# 4. feladat
+crop_prod_2007 = df.loc[(df["Ev"] == 2007) & (df["Kategoria"] == "Crop production")][["Aru", "Mennyiseg"]].copy()
+crop_prod_2007 = crop_prod_2007.rename(columns={"Mennyiseg": "1000 t"})
+
+crop_sown_area_2007 = df.loc[(df["Ev"] == 2007) & (df["Kategoria"] == "Crop sown area")][["Aru", "Mennyiseg"]].copy()
+crop_sown_area_2007 = crop_sown_area_2007.rename(columns={"Mennyiseg": "1000 ha"})
+
+crop_data_2007 = pd.merge(crop_prod_2007, crop_sown_area_2007, on="Aru")
+crop_data_2007["Atlag hozam (t / ha)"] = crop_data_2007["1000 t"].divide(crop_data_2007["1000 ha"]).multiply(1000)
+
+top_5_crops = crop_data_2007.sort_values(by="Atlag hozam (t / ha)", ascending=False)[:5]
+print(f"4. feladat:\n {top_5_crops}")
+
+
+# # Manuális nem pontos megoldás
+
+# In[ ]:
 
 
 filename = '/home/g14/uni/sze_python_programozas/data/china.txt'
