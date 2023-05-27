@@ -1,0 +1,107 @@
+Hegycsúcs neve	Hegység	Magasság (m)
+Kékes	Mátra	1014
+Hidas-bérc	Mátra	971
+Galya-tető	Mátra	964
+Szilvási-kő (Kettős-bérc)	Bükk-vidék	961
+Péter hegyese	Mátra	960
+Szilvási-kő (északi csúcs)	Bükk-vidék	958
+Istállós-kő	Bükk-vidék	958
+Bálvány	Bükk-vidék	956
+Kőrös-bérc	Bükk-vidék	956
+Virágos-Sár-hegy	Bükk-vidék	955
+Büszkés-hegy	Bükk-vidék	952
+Tar-kő	Bükk-vidék	950
+Virágos-sár (2)	Bükk-vidék	950
+Nagy-kő-hát (1)	Bükk-vidék	946
+Felső-Borovnyák (1)	Bükk-vidék	945
+Kőris-hegy	Bükk-vidék	944
+Piszkés-tető	Mátra	944
+Kukocsó-hegy	Bükk-vidék	941
+Kis-kő-hát	Bükk-vidék	939
+Csóványos	Börzsöny	938
+Nagy-kő-hát (2)	Bükk-vidék	936
+Legyendi-galya	Mátra	936
+Felső-Borovnyák (2)	Bükk-vidék	932
+Fodor-hegy	Bükk-vidék	931
+Fekete-Sár-bérc	Bükk-vidék	930
+Kis-Sár-bérc	Bükk-vidék	925
+Huta-bérc	Bükk-vidék	920
+Magos-fa	Börzsöny	916
+Kis-tanya	Bükk-vidék	916
+Ispán-hegy	Bükk-vidék	912
+Veres-Sár-bérc	Bükk-vidék	912
+Füstös-kő-bérc	Bükk-vidék	912
+Semmi-bérc	Bükk-vidék	906
+Három-kő	Bükk-vidék	904
+Nagy-Kopasz	Bükk-vidék	903
+Küllő-hegy	Bükk-vidék	899
+Sas-kő	Mátra	898
+Nagy-Milic	Zempléni-hegység	893
+Leány-hegy	Bükk-vidék	892
+Nyárju-hegy (1)	Bükk-vidék	889
+Hermanház-tető	Zempléni-hegység	886
+Nyárju-hegy (2)	Bükk-vidék	885
+Írott-kő	Kőszegi-hegység	882
+Őr-kő (1)	Bükk-vidék	880
+Kerek-réti-fő	Bükk-vidék	880
+Zsérci-Nagy-Dél (1)	Bükk-vidék	879
+Kút-hegy	Mátra	878
+Zsérci-Nagy-Dél (2)	Bükk-vidék	877
+Varsa-tető	Börzsöny	871
+Sándor-hegy	Bükk-vidék	870
+Nagy-Csipkés-tető	Bükk-vidék	869
+Kis-Virágos-hegy	Bükk-vidék	868
+Nagy-Hideg-hegy	Börzsöny	864
+Hangyás-bérc (1)	Börzsöny	863
+Zsérci-Nagy-Dél (3)	Bükk-vidék	859
+Pes-kő	Bükk-vidék	857
+Messzelátó	Bükk-vidék	855
+Őr-kő (2)	Bükk-vidék	855
+Hangyás-bérc (2)	Börzsöny	854
+Zsérci-Nagy-Dél (4)	Bükk-vidék	850
+Nagy-Csipkés-tető (3)	Bükk-vidék	843
+Hajagos	Zempléni-hegység	843
+Nagy-Hárs	Bükk-vidék	840
+Mogyorós-orom	Mátra	838
+Galya-vár	Mátra	837
+Darázs-hegy	Mátra	834
+Vadkert-tető	Mátra	834
+Győr-hegy	Mátra	831
+Kis-Sas-kő	Mátra	830
+Kerek-hegy	Bükk-vidék	827
+Nagy-Inóc	Börzsöny	826
+Nyerges-hegy	Zempléni-hegység	826
+Korom-bérc	Börzsöny	825
+Cserepes-kő	Bükk-vidék	823
+Nagy-Átal-kő	Mátra	823
+Pogányvár	Börzsöny	823
+Nagy-Kőris	Bükk-vidék	822
+Nagy-Dél (1)	Bükk-vidék	821
+Vargai-Kurta-bérc (1)	Bükk-vidék	821
+Hosszú-bérc	Bükk-vidék	820
+Vargai-Kurta-bérc (2)	Bükk-vidék	819
+Tölgyes-bérc	Zempléni-hegység	817
+Bél-kő	Bükk-vidék	815
+Tót-hegyes	Mátra	814
+Nyesett-vár	Mátra	813
+Kerékgyártó-bükk	Zempléni-hegység	813
+Közép-bérc (1)	Bükk-vidék	807
+Muzsla	Mátra	806
+Közép-bérc (2)	Bükk-vidék	804
+Nagy-Dél (2)	Bükk-vidék	799
+Tölgyes-bérc	Mátra	799
+Orita-hegy	Zempléni-hegység	798
+Esztea-fő	Bükk-vidék	797
+Hármas-határ-hegy	Kőszegi-hegység	795
+Hegyes-kő	Bükk-vidék	792
+Teréz-hegy	Mátra	792
+Kerek-hegy	Bükk-vidék	790
+Ágasvár	Mátra	789
+Kis-Átal-kő	Mátra	787
+Kis-kő	Mátra	787
+Köves-orom	Mátra	787
+Nagy-Dél (3)	Bükk-vidék	787
+Gergely-hegy	Zempléni-hegység	783
+Som-tető	Mátra	783
+Csikorgó	Bükk-vidék	778
+Kis-Galya	Mátra	778
