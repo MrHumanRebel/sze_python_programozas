@@ -3,14 +3,6 @@
 
 <img src="docs/python.png" alt="Programozás" width="301" height="102">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/MrHumanRebel/sze_python_programozas)
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/MrHumanRebel/sze_python_programozas)
-![Lines of code](https://img.shields.io/tokei/lines/github/MrHumanRebel/sze_python_programozas)
-![GitHub](https://img.shields.io/github/license/MrHumanRebel/sze_python_programozas)
-
-![GitHub all releases](https://img.shields.io/github/downloads/MrHumanRebel/sze_python_programozas/total)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/MrHumanRebel/sze_python_programozas)
-
 ## Információk
 
 ** **
